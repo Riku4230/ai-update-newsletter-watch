@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-27T18:01:29.686Z",
+  "checkedAt": "2026-04-27T19:44:39.850Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-27T18:01:29.686Z",
+      "detectedAt": "2026-04-27T19:44:39.850Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,18 +32,26 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-27T18:01:29.686Z",
+      "detectedAt": "2026-04-27T19:44:39.850Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    }
-  ],
-  "errors": [
-    {
-      "source": "openai-codex-github",
-      "message": "No releases found for openai/codex"
     },
     {
-      "source": "gemini-cli-github",
-      "message": "No releases found for google-gemini/gemini-cli"
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.41.0-nightly.20260427.g42587de73",
+      "version": "v0.41.0-nightly.20260427.g42587de73",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.41.0-nightly.20260427.g42587de73",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.40.0-preview.4",
+      "publishedAt": "2026-04-27T16:44:33Z",
+      "detectedAt": "2026-04-27T19:44:39.850Z",
+      "summaryText": "## What's Changed * fix(core): only show `list` suggestion if the partial input is empty by @cynthialong0-0 in https://github.com/google-gemini/gemini-cli/pull/25821 * feat(cli): secure .env loading and enforce workspace trust in headless mode by @ehedlund in https://github.com/google-gemini/gemini-cli/pull/25814 * fix: fatal hard-crash on loop detection via unhandled AbortError by @hsm207 in https://github.com/google-gemini/gemini-cli/pull/20108 * update package-lock.json by @ehedlund in htt..."
     }
-  ]
+  ],
+  "errors": []
 }
