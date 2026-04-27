@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-04-27T15:16:38.641Z",
+  "checkedAt": "2026-04-27T16:56:54.830Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.126.0-alpha.7",
-      "version": "rust-v0.126.0-alpha.7",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.126.0-alpha.7",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.126.0-alpha.4",
-      "publishedAt": "2026-04-27T14:54:49Z",
-      "detectedAt": "2026-04-27T15:16:38.641Z",
-      "summaryText": "Release 0.126.0-alpha.7"
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -32,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-27T15:16:38.641Z",
+      "detectedAt": "2026-04-27T16:56:54.830Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -49,9 +32,22 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-27T15:16:38.641Z",
+      "detectedAt": "2026-04-27T16:56:54.830Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "openai-codex-github",
+      "message": "No releases found for openai/codex"
+    },
+    {
+      "source": "gemini-cli-github",
+      "message": "No releases found for google-gemini/gemini-cli"
+    },
+    {
+      "source": "qwen-code-github",
+      "message": "No releases found for QwenLM/qwen-code"
+    }
+  ]
 }
