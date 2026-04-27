@@ -1,0 +1,74 @@
+name: Watch AI Updates
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: watch-ai-updates
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check sources
+        run: npm run watch
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Create free GitHub issue notification
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const path = ".state/last-events.json";
+            if (!fs.existsSync(path)) return;
+
+            const report = JSON.parse(fs.readFileSync(path, "utf8"));
+            const events = report.events || [];
+            if (!events.length) return;
+
+            const date = new Date(report.checkedAt).toISOString().replace("T", " ").slice(0, 16);
+            const title = `AI updates: ${events.length} update(s) at ${date} UTC`;
+            const body = [
+              `Detected at: ${report.checkedAt}`,
+              "",
+              ...events.flatMap((event) => [
+                `## ${event.sourceName}`,
+                "",
+                `- Title: ${event.title}`,
+                event.version ? `- Version: ${event.version}` : null,
+                event.previousVersion ? `- Previous: ${event.previousVersion}` : null,
+                `- Tags: ${(event.tags || []).join(", ")}`,
+                `- URL: ${event.url}`,
+                ""
+              ].filter(Boolean))
+            ].join("\n");
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body
+            });
+
+      - name: Commit state
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update watcher state"
+          file_pattern: ".state/*.json"

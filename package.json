@@ -1,0 +1,13 @@
+{
+  "name": "ai-update-newsletter-watch",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "watch": "node src/watch.js",
+    "check:sources": "node src/watch.js --dry-run"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

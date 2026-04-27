@@ -1,0 +1,100 @@
+[
+  {
+    "id": "openai-codex-github",
+    "name": "OpenAI Codex GitHub Releases",
+    "type": "github_releases",
+    "repo": "openai/codex",
+    "tags": ["coding-agent", "codex", "github"]
+  },
+  {
+    "id": "openai-codex-npm",
+    "name": "OpenAI Codex npm",
+    "type": "npm",
+    "package": "@openai/codex",
+    "tags": ["coding-agent", "codex", "npm"]
+  },
+  {
+    "id": "openai-codex-official-changelog",
+    "name": "OpenAI Codex Official Changelog",
+    "type": "webpage",
+    "url": "https://developers.openai.com/codex/changelog/",
+    "tags": ["coding-agent", "openai", "codex", "docs"]
+  },
+  {
+    "id": "claude-code-changelog",
+    "name": "Claude Code Changelog",
+    "type": "webpage",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "tags": ["coding-agent", "claude-code", "docs"]
+  },
+  {
+    "id": "claude-code-release-notes",
+    "name": "Claude Code Release Notes",
+    "type": "webpage",
+    "url": "https://docs.anthropic.com/en/release-notes/claude-code",
+    "tags": ["coding-agent", "claude-code", "docs"]
+  },
+  {
+    "id": "claude-code-npm",
+    "name": "Claude Code npm",
+    "type": "npm",
+    "package": "@anthropic-ai/claude-code",
+    "tags": ["coding-agent", "claude-code", "npm"]
+  },
+  {
+    "id": "gemini-api-changelog",
+    "name": "Gemini API Changelog",
+    "type": "webpage",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "tags": ["google", "gemini", "api"]
+  },
+  {
+    "id": "vertex-ai-generative-release-notes",
+    "name": "Vertex AI Generative AI Release Notes",
+    "type": "webpage",
+    "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
+    "tags": ["google", "vertex-ai", "api"]
+  },
+  {
+    "id": "gemini-code-assist-release-notes",
+    "name": "Gemini Code Assist Release Notes",
+    "type": "webpage",
+    "url": "https://developers.google.com/gemini-code-assist/resources/release-notes",
+    "tags": ["coding-agent", "google", "gemini"]
+  },
+  {
+    "id": "gemini-cli-github",
+    "name": "Gemini CLI GitHub Releases",
+    "type": "github_releases",
+    "repo": "google-gemini/gemini-cli",
+    "tags": ["coding-agent", "google", "github"]
+  },
+  {
+    "id": "deepseek-api-changelog",
+    "name": "DeepSeek API Changelog",
+    "type": "webpage",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "tags": ["deepseek", "api", "docs"]
+  },
+  {
+    "id": "deepseek-github",
+    "name": "DeepSeek GitHub Releases",
+    "type": "github_releases",
+    "repo": "deepseek-ai/DeepSeek-V3",
+    "tags": ["deepseek", "model", "github"]
+  },
+  {
+    "id": "qwen-blog",
+    "name": "Qwen Blog",
+    "type": "webpage",
+    "url": "https://qwenlm.github.io/blog/",
+    "tags": ["qwen", "model", "blog"]
+  },
+  {
+    "id": "qwen-code-github",
+    "name": "Qwen Code GitHub Releases",
+    "type": "github_releases",
+    "repo": "QwenLM/qwen-code",
+    "tags": ["coding-agent", "qwen", "github"]
+  }
+]
