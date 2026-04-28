@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-04-28T21:16:38.760Z",
+  "checkedAt": "2026-04-28T22:12:21.570Z",
   "events": [
+    {
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
+      "type": "webpage",
+      "title": "Changelog - Claude Code Docs",
+      "version": null,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-04-28T22:12:21.570Z",
+      "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Deployment Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the cont..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T21:16:38.760Z",
+      "detectedAt": "2026-04-28T22:12:21.570Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.122",
+      "version": "2.1.122",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.122",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.121",
+      "publishedAt": "2026-04-28T17:35:53.730Z",
+      "detectedAt": "2026-04-28T22:12:21.570Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -32,7 +66,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T21:16:38.760Z",
+      "detectedAt": "2026-04-28T22:12:21.570Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     }
   ],
