@@ -1,23 +1,22 @@
 {
-  "checkedAt": "2026-04-28T18:52:18.401Z",
+  "checkedAt": "2026-04-28T20:08:37.094Z",
   "events": [
     {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
       "type": "webpage",
-      "title": "Changelog – Codex | OpenAI Developers",
+      "title": "Changelog - Claude Code Docs",
       "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
+      "url": "https://code.claude.com/docs/en/changelog",
       "tags": [
         "coding-agent",
-        "openai",
-        "codex",
+        "claude-code",
         "docs"
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T18:52:18.401Z",
-      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Lea..."
+      "detectedAt": "2026-04-28T20:08:37.094Z",
+      "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Deployment Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the cont..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -33,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T18:52:18.401Z",
+      "detectedAt": "2026-04-28T20:08:37.094Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -50,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T18:52:18.401Z",
+      "detectedAt": "2026-04-28T20:08:37.094Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.41.0-preview.0",
+      "version": "v0.41.0-preview.0",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.41.0-preview.0",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.41.0-nightly.20260428.gc17400b83",
+      "publishedAt": "2026-04-28T19:04:28Z",
+      "detectedAt": "2026-04-28T20:08:37.094Z",
+      "summaryText": "## What's Changed * chore(release): bump version to 0.41.0-nightly.20260423.gaa05b4583 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/25847 * fix(core): only show `list` suggestion if the partial input is empty by @cynthialong0-0 in https://github.com/google-gemini/gemini-cli/pull/25821 * feat(cli): secure .env loading and enforce workspace trust in headless mode by @ehedlund in https://github.com/google-gemini/gemini-cli/pull/25814 * fix: fatal hard-crash on loop de..."
     }
   ],
   "errors": []
