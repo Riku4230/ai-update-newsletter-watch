@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-28T01:16:44.186Z",
+  "checkedAt": "2026-04-28T04:45:00.170Z",
   "events": [
     {
       "sourceId": "claude-code-changelog",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T01:16:44.186Z",
+      "detectedAt": "2026-04-28T04:45:00.170Z",
       "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Deployment Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the cont..."
     },
     {
@@ -32,25 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T01:16:44.186Z",
+      "detectedAt": "2026-04-28T04:45:00.170Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.121",
-      "version": "2.1.121",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.121",
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
+      "type": "webpage",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
+      "version": null,
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
       "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
+        "google",
+        "gemini",
+        "api"
       ],
-      "previousVersion": "2.1.119",
-      "publishedAt": "2026-04-27T19:39:46.659Z",
-      "detectedAt": "2026-04-28T01:16:44.186Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-04-28T04:45:00.170Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -66,25 +66,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-28T01:16:44.186Z",
+      "detectedAt": "2026-04-28T04:45:00.170Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.15.2-nightly.20260428.1befabe58",
-      "version": "v0.15.2-nightly.20260428.1befabe58",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.2-nightly.20260428.1befabe58",
+      "title": "google-gemini/gemini-cli Release v0.41.0-nightly.20260428.gc17400b83",
+      "version": "v0.41.0-nightly.20260428.gc17400b83",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.41.0-nightly.20260428.gc17400b83",
       "tags": [
         "coding-agent",
-        "qwen",
+        "google",
         "github"
       ],
-      "previousVersion": "v0.15.2-nightly.20260427.3b0b6c052",
-      "publishedAt": "2026-04-28T00:29:18Z",
-      "detectedAt": "2026-04-28T01:16:44.186Z",
-      "summaryText": "## What's Changed * feat: Adds Catalan language support by @jordimas in https://github.com/QwenLM/qwen-code/pull/3643 * fix(vscode-companion): slash command completion not triggering after message submit by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/3609 * fix(cli): guard gradient rendering without colors by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/3640 * fix(config): support QWEN_CODE_API_TIMEOUT_MS across OAuth and non-OAuth paths by @B-A-M-N in https://github.co..."
+      "previousVersion": "v0.41.0-nightly.20260427.g42587de73",
+      "publishedAt": "2026-04-28T04:34:11Z",
+      "detectedAt": "2026-04-28T04:45:00.170Z",
+      "summaryText": "## What's Changed * fix(cli): add missing response key to custom theme text schema by @gaurav0107 in https://github.com/google-gemini/gemini-cli/pull/25822 * fix(cli): provide manual update command when automatic update fails by @cocosheng-g in https://github.com/google-gemini/gemini-cli/pull/26052 * test(cli): add unit tests for restore ACP command (#23402) by @cocosheng-g in https://github.com/google-gemini/gemini-cli/pull/26053 * fix(ui): better error messages for ECONNRESET and ETIMEDOUT ..."
+    },
+    {
+      "sourceId": "deepseek-api-changelog",
+      "sourceName": "DeepSeek API Changelog",
+      "type": "webpage",
+      "title": "Change Log | DeepSeek API Docs",
+      "version": null,
+      "url": "https://api-docs.deepseek.com/updates/",
+      "tags": [
+        "deepseek",
+        "api",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-04-28T04:45:00.170Z",
+      "summaryText": "Change Log | DeepSeek API Docs Skip to main content DeepSeek API Docs English English 中文（中国） DeepSeek Platform Quick Start Your First API Call Models &amp; Pricing Token &amp; Token Usage Rate Limit Error Codes API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API Agent Integrations API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 ​ DeepSeek..."
     }
   ],
   "errors": []
