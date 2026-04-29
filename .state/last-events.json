@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-29T15:48:34.532Z",
+  "checkedAt": "2026-04-29T17:10:50.547Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-29T15:48:34.532Z",
+      "detectedAt": "2026-04-29T17:10:50.547Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-29T15:48:34.532Z",
+      "detectedAt": "2026-04-29T17:10:50.547Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.42.0-nightly.20260429.g6d9911393",
+      "version": "v0.42.0-nightly.20260429.g6d9911393",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-nightly.20260429.g6d9911393",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.41.0-preview.0",
+      "publishedAt": "2026-04-29T16:55:50Z",
+      "detectedAt": "2026-04-29T17:10:50.547Z",
+      "summaryText": "## What's Changed * Update policy so transient errors are not marked terminal by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/26066 * Implement bot that performs time-series metric analysis and suggests repo management improvements by @gundermanc in https://github.com/google-gemini/gemini-cli/pull/25945 * fix(core): handle non-string model flags in resolution by @Adib234 in https://github.com/google-gemini/gemini-cli/pull/26069 * fix(ux): added error message for ENOTDIR b..."
     }
   ],
   "errors": []
