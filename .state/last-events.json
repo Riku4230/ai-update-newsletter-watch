@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-04-29T00:04:53.495Z",
+  "checkedAt": "2026-04-29T03:56:27.814Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.126.0-alpha.13",
+      "version": "rust-v0.126.0-alpha.13",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.126.0-alpha.13",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.126.0-alpha.9",
+      "publishedAt": "2026-04-29T03:55:53Z",
+      "detectedAt": "2026-04-29T03:56:27.814Z",
+      "summaryText": "Release 0.126.0-alpha.13"
+    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -15,8 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-29T00:04:53.495Z",
-      "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Deployment Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the cont..."
+      "detectedAt": "2026-04-29T03:56:27.814Z",
+      "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-29T00:04:53.495Z",
+      "detectedAt": "2026-04-29T03:56:27.814Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.123",
+      "version": "2.1.123",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.123",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.122",
+      "publishedAt": "2026-04-29T01:52:47.690Z",
+      "detectedAt": "2026-04-29T03:56:27.814Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,8 +83,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-29T00:04:53.495Z",
+      "detectedAt": "2026-04-29T03:56:27.814Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.15.3-nightly.20260429.2ee014e34",
+      "version": "v0.15.3-nightly.20260429.2ee014e34",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.3-nightly.20260429.2ee014e34",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.15.4",
+      "publishedAt": "2026-04-29T00:30:23Z",
+      "detectedAt": "2026-04-29T03:56:27.814Z",
+      "summaryText": "## What's Changed * mcp config as cli by @eliird in https://github.com/QwenLM/qwen-code/pull/1279 * fix(cli): refresh static header on model switch by @pomelo-nwu in https://github.com/QwenLM/qwen-code/pull/3667 ## New Contributors * @eliird made their first contribution in https://github.com/QwenLM/qwen-code/pull/1279 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.15.4...v0.15.3-nightly.20260429.2ee014e34"
     }
   ],
   "errors": []
