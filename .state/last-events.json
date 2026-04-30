@@ -1,6 +1,40 @@
 {
-  "checkedAt": "2026-04-30T15:26:41.152Z",
+  "checkedAt": "2026-04-30T16:54:13.434Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.128.0",
+      "version": "rust-v0.128.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.128.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.128.0-alpha.1",
+      "publishedAt": "2026-04-30T16:40:28Z",
+      "detectedAt": "2026-04-30T16:54:13.434Z",
+      "summaryText": "## New Features - Added persisted `/goal` workflows with app-server APIs, model tools, runtime continuation, and TUI controls for create, pause, resume, and clear. (#18073, #18074, #18075, #18076, #18077, #20082) - Added `codex update`, configurable TUI keymaps, plan-mode nudges, action-required terminal titles, and active-turn `/statusline` and `/title` edits. (#19933, #18593, #19901, #18372, #19917) - Expanded permission profiles with built-in defaults, sandbox CLI profile selection, cwd co..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.128.0",
+      "version": "0.128.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.128.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.125.0",
+      "publishedAt": "2026-04-30T16:43:46.064Z",
+      "detectedAt": "2026-04-30T16:54:13.434Z",
+      "summaryText": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"https://"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T15:26:41.152Z",
+      "detectedAt": "2026-04-30T16:54:13.434Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
+    },
+    {
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
+      "type": "webpage",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
+      "version": null,
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "tags": [
+        "google",
+        "gemini",
+        "api"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-04-30T16:54:13.434Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -32,25 +83,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T15:26:41.152Z",
+      "detectedAt": "2026-04-30T16:54:13.434Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "deepseek-api-changelog",
-      "sourceName": "DeepSeek API Changelog",
-      "type": "webpage",
-      "title": "Change Log | DeepSeek API Docs",
-      "version": null,
-      "url": "https://api-docs.deepseek.com/updates/",
-      "tags": [
-        "deepseek",
-        "api",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-04-30T15:26:41.152Z",
-      "summaryText": "Change Log | DeepSeek API Docs Skip to main content DeepSeek API Docs English English 中文（中国） DeepSeek Platform Quick Start Your First API Call Models &amp; Pricing Token &amp; Token Usage Rate Limit Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 ​ DeepSeek..."
     }
   ],
   "errors": []
