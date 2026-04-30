@@ -1,22 +1,23 @@
 {
-  "checkedAt": "2026-04-30T08:38:02.737Z",
+  "checkedAt": "2026-04-30T10:28:02.200Z",
   "events": [
     {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.128.0-alpha.1",
-      "version": "rust-v0.128.0-alpha.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.128.0-alpha.1",
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Changelog – Codex | OpenAI Developers",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
       "tags": [
         "coding-agent",
+        "openai",
         "codex",
-        "github"
+        "docs"
       ],
-      "previousVersion": "rust-v0.126.0-alpha.17",
-      "publishedAt": "2026-04-30T07:45:35Z",
-      "detectedAt": "2026-04-30T08:38:02.737Z",
-      "summaryText": "Release 0.128.0-alpha.1"
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-04-30T10:28:02.200Z",
+      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Lea..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,25 +33,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T08:38:02.737Z",
+      "detectedAt": "2026-04-30T10:28:02.200Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
-    },
-    {
-      "sourceId": "gemini-api-changelog",
-      "sourceName": "Gemini API Changelog",
-      "type": "webpage",
-      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
-      "version": null,
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "tags": [
-        "google",
-        "gemini",
-        "api"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-04-30T08:38:02.737Z",
-      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -66,25 +50,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T08:38:02.737Z",
+      "detectedAt": "2026-04-30T10:28:02.200Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.15.6",
-      "version": "v0.15.6",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.6",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.15.6-preview.0",
-      "publishedAt": "2026-04-30T07:58:57Z",
-      "detectedAt": "2026-04-30T08:38:02.737Z",
-      "summaryText": "## What's Changed * fix(memory): use project transcript path for dream by @LaZzyMan in https://github.com/QwenLM/qwen-code/pull/3722 * fix(cli): bound SubAgent display by visual height to prevent flicker by @wenshao in https://github.com/QwenLM/qwen-code/pull/3721 * fix(cli): keep sticky todo panel compact by @shenyankm in https://github.com/QwenLM/qwen-code/pull/3647 * fix(core): replay DeepSeek reasoning_content on all assistant turns by @tanzhenxin in https://github.com/QwenLM/qwen-code/pu..."
     }
   ],
   "errors": []
