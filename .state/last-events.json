@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-30T20:43:46.343Z",
+  "checkedAt": "2026-04-30T21:40:25.861Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T20:43:46.343Z",
+      "detectedAt": "2026-04-30T21:40:25.861Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T20:43:46.343Z",
+      "detectedAt": "2026-04-30T21:40:25.861Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.41.0-preview.1",
+      "version": "v0.41.0-preview.1",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.41.0-preview.1",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.40.1",
+      "publishedAt": "2026-04-30T21:11:10Z",
+      "detectedAt": "2026-04-30T21:40:25.861Z",
+      "summaryText": "## What's Changed * fix(patch): cherry-pick 2194da2 to release/v0.41.0-preview.0-pr-26153 to patch version v0.41.0-preview.0 and create version 0.41.0-preview.1 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/26269 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.41.0-preview.0...v0.41.0-preview.1"
     }
   ],
   "errors": []
