@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-30T13:28:21.511Z",
+  "checkedAt": "2026-04-30T15:26:41.152Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T13:28:21.511Z",
+      "detectedAt": "2026-04-30T15:26:41.152Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-04-30T13:28:21.511Z",
+      "detectedAt": "2026-04-30T15:26:41.152Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "deepseek-api-changelog",
+      "sourceName": "DeepSeek API Changelog",
+      "type": "webpage",
+      "title": "Change Log | DeepSeek API Docs",
+      "version": null,
+      "url": "https://api-docs.deepseek.com/updates/",
+      "tags": [
+        "deepseek",
+        "api",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-04-30T15:26:41.152Z",
+      "summaryText": "Change Log | DeepSeek API Docs Skip to main content DeepSeek API Docs English English 中文（中国） DeepSeek Platform Quick Start Your First API Call Models &amp; Pricing Token &amp; Token Usage Rate Limit Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 ​ DeepSeek..."
     }
   ],
   "errors": []
