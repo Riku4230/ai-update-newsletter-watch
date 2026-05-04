@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-05-04T10:01:05.930Z",
+  "checkedAt": "2026-05-04T12:00:35.263Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.129.0-alpha.4",
+      "version": "rust-v0.129.0-alpha.4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.129.0-alpha.4",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.129.0-alpha.2",
+      "publishedAt": "2026-05-04T10:57:54Z",
+      "detectedAt": "2026-05-04T12:00:35.263Z",
+      "summaryText": "Release 0.129.0-alpha.4"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-04T10:01:05.930Z",
+      "detectedAt": "2026-05-04T12:00:35.263Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-04T10:01:05.930Z",
+      "detectedAt": "2026-05-04T12:00:35.263Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     }
   ],
