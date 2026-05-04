@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-03T23:38:50.229Z",
+  "checkedAt": "2026-05-04T01:18:50.026Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-03T23:38:50.229Z",
+      "detectedAt": "2026-05-04T01:18:50.026Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-03T23:38:50.229Z",
+      "detectedAt": "2026-05-04T01:18:50.026Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.15.6-nightly.20260504.e617f20d1",
+      "version": "v0.15.6-nightly.20260504.e617f20d1",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.6-nightly.20260504.e617f20d1",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.15.6-nightly.20260503.5037fa762",
+      "publishedAt": "2026-05-04T00:29:20Z",
+      "detectedAt": "2026-05-04T01:18:50.026Z",
+      "summaryText": "## What's Changed * chore(release): v0.15.6 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3766 * feat(core): add FileReadCache and short-circuit unchanged Reads by @wenshao in https://github.com/QwenLM/qwen-code/pull/3717 * fix(cli): honor proxy setting by @cyphercodes in https://github.com/QwenLM/qwen-code/pull/3753 * chore: remove legacy Gemini workflows by @pomelo-nwu in https://github.com/QwenLM/qwen-code/pull/3725 * feat(core): add shared permission flow for tool execu..."
     }
   ],
   "errors": []
