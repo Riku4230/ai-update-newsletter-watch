@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-05-05T19:47:38.930Z",
+  "checkedAt": "2026-05-05T20:44:57.280Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.129.0-alpha.7",
-      "version": "rust-v0.129.0-alpha.7",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.129.0-alpha.7",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.129.0-alpha.6",
-      "publishedAt": "2026-05-05T19:00:45Z",
-      "detectedAt": "2026-05-05T19:47:38.930Z",
-      "summaryText": "Release 0.129.0-alpha.7"
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -32,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-05T19:47:38.930Z",
+      "detectedAt": "2026-05-05T20:44:57.280Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -49,25 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-05T19:47:38.930Z",
+      "detectedAt": "2026-05-05T20:44:57.280Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
       "sourceId": "gemini-cli-github",
       "sourceName": "Gemini CLI GitHub Releases",
       "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.42.0-nightly.20260505.g8f0edcd64",
-      "version": "v0.42.0-nightly.20260505.g8f0edcd64",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-nightly.20260505.g8f0edcd64",
+      "title": "google-gemini/gemini-cli Release v0.42.0-preview.0",
+      "version": "v0.42.0-preview.0",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-preview.0",
       "tags": [
         "coding-agent",
         "google",
         "github"
       ],
-      "previousVersion": "v0.42.0-nightly.20260504.g37edd1d4d",
-      "publishedAt": "2026-05-05T18:56:02Z",
-      "detectedAt": "2026-05-05T19:47:38.930Z",
-      "summaryText": "## What's Changed * fix(cli)#21297: clear skills consent dialog before reload by @manavmax in https://github.com/google-gemini/gemini-cli/pull/26431 * fix(cli): render LaTeX-style output as Unicode in the TUI by @dimssu in https://github.com/google-gemini/gemini-cli/pull/25802 * fix(core): use close event instead of exit in child_process fallback by @tusaryan in https://github.com/google-gemini/gemini-cli/pull/25695 * feat(voice): add privacy and compliance UX warning for Gemini Live backend ..."
+      "previousVersion": "v0.42.0-nightly.20260505.g8f0edcd64",
+      "publishedAt": "2026-05-05T20:39:44Z",
+      "detectedAt": "2026-05-05T20:44:57.280Z",
+      "summaryText": "## What's Changed * fix(cli): prevent automatic updates from switching to less stable channels by @Adib234 in https://github.com/google-gemini/gemini-cli/pull/26132 * chore(release): bump version to 0.42.0-nightly.20260428.g59b2dea0e by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/26142 * fix(cli): pass node arguments via NODE_OPTIONS during relaunch to support SEA by @cocosheng-g in https://github.com/google-gemini/gemini-cli/pull/26130 * fix(cli): handle DECKPAM key..."
     }
   ],
   "errors": []
