@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-06T17:04:03.728Z",
+  "checkedAt": "2026-05-06T18:48:49.003Z",
   "events": [
     {
       "sourceId": "claude-code-changelog",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-06T17:04:03.728Z",
+      "detectedAt": "2026-05-06T18:48:49.003Z",
       "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-06T17:04:03.728Z",
+      "detectedAt": "2026-05-06T18:48:49.003Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -49,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-06T17:04:03.728Z",
+      "detectedAt": "2026-05-06T18:48:49.003Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.42.0-preview.2",
+      "version": "v0.42.0-preview.2",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-preview.2",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.42.0-preview.1",
+      "publishedAt": "2026-05-06T18:06:31Z",
+      "detectedAt": "2026-05-06T18:48:49.003Z",
+      "summaryText": "## What's Changed * fix(patch): cherry-pick 02995ba to release/v0.42.0-preview.1-pr-26568 to patch version v0.42.0-preview.1 and create version 0.42.0-preview.2 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/26590 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.42.0-preview.1...v0.42.0-preview.2"
     }
   ],
   "errors": []
