@@ -1,6 +1,40 @@
 {
-  "checkedAt": "2026-05-07T15:31:09.838Z",
+  "checkedAt": "2026-05-07T17:19:47.564Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.129.0",
+      "version": "rust-v0.129.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.129.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.129.0-alpha.15",
+      "publishedAt": "2026-05-07T17:02:13Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
+      "summaryText": "## New Features - The TUI now supports modal Vim editing in the composer, including `/vim`, default-mode config, and Vim-specific keymap contexts. (#18595) - TUI workflows are easier to resume and copy from with a redesigned resume/fork picker, raw scrollback mode, `/ide` context injection, and workspace-aware `/diff`. (#20065, #20819, #20294, #21001) - The status line can show theme-aware colors plus optional PR and branch-change summaries, and `/keymap debug` helps inspect terminal key even..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.129.0",
+      "version": "0.129.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.129.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.128.0",
+      "publishedAt": "2026-05-07T17:05:37.553Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
+      "summaryText": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"https://"
+    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -16,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T15:31:09.838Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
       "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examp..."
     },
     {
@@ -33,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T15:31:09.838Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
       "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
     },
     {
@@ -50,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T15:31:09.838Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -67,7 +101,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T15:31:09.838Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
       "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
@@ -84,8 +118,59 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T15:31:09.838Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-code-assist-release-notes",
+      "sourceName": "Gemini Code Assist Release Notes",
+      "type": "webpage",
+      "title": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers",
+      "version": null,
+      "url": "https://developers.google.com/gemini-code-assist/resources/release-notes",
+      "tags": [
+        "coding-agent",
+        "google",
+        "gemini"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-05-07T17:19:47.564Z",
+      "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers Skip to main content Gemini Code Assist / English Deutsch Español Français Indonesia Português – Brasil Русский 中文 – 简体 日本語 한국어 Sign in Home Guides Resources Gemini Code Assist Home Home Guides Resources Resources FAQs Quotas and limits Gemini Code Assist Plugin Software License Agreement Available locations for Gemini Code Assist for individuals Standard and Enterprise Pricing Service Level Agreement (SLA) Quotas and limits..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.42.0-nightly.20260507.ga809bc7c5",
+      "version": "v0.42.0-nightly.20260507.ga809bc7c5",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-nightly.20260507.ga809bc7c5",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.42.0-preview.2",
+      "publishedAt": "2026-05-07T17:08:05Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
+      "summaryText": "## What's Changed * fix(cli): provide JSON output for AgentExecutionStopped in non-interactive mode by @cynthialong0-0 in https://github.com/google-gemini/gemini-cli/pull/26504 * feat(evals): add shell command safety evals by @akh64bit in https://github.com/google-gemini/gemini-cli/pull/26528 * fix(core): handle invalid custom plans directory gracefully by @cynthialong0-0 in https://github.com/google-gemini/gemini-cli/pull/26560 * fix(acp): move tool explanation from thought stream to tool ca..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.15.8",
+      "version": "v0.15.8",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.8",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.15.7",
+      "publishedAt": "2026-05-07T16:24:27Z",
+      "detectedAt": "2026-05-07T17:19:47.564Z",
+      "summaryText": "## What's Changed * chore(release): v0.15.7 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3907 * test(sdk): align tool-control E2E with prior-read enforcement by @wenshao in https://github.com/QwenLM/qwen-code/pull/3898 * fix(skills): allow symlinks pointing outside the skills directory by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/3915 * feat(web-templates): add light theme and toggle to /export HTML by @dreamWB in https://github.com/QwenLM/qwen-code/pull/3908..."
     }
   ],
   "errors": []
