@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-05-07T06:30:26.023Z",
+  "checkedAt": "2026-05-07T09:13:17.075Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.129.0-alpha.15",
+      "version": "rust-v0.129.0-alpha.15",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.129.0-alpha.15",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.129.0-alpha.14",
+      "publishedAt": "2026-05-07T07:21:03Z",
+      "detectedAt": "2026-05-07T09:13:17.075Z",
+      "summaryText": "Release 0.129.0-alpha.15"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T06:30:26.023Z",
+      "detectedAt": "2026-05-07T09:13:17.075Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T06:30:26.023Z",
+      "detectedAt": "2026-05-07T09:13:17.075Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.15.7-preview.2",
-      "version": "v0.15.7-preview.2",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.7-preview.2",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.15.6-nightly.20260507.15342b893",
-      "publishedAt": "2026-05-07T06:07:34Z",
-      "detectedAt": "2026-05-07T06:30:26.023Z",
-      "summaryText": "## What's Changed * chore(release): v0.15.6 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3766 * feat(core): add FileReadCache and short-circuit unchanged Reads by @wenshao in https://github.com/QwenLM/qwen-code/pull/3717 * fix(cli): honor proxy setting by @cyphercodes in https://github.com/QwenLM/qwen-code/pull/3753 * chore: remove legacy Gemini workflows by @pomelo-nwu in https://github.com/QwenLM/qwen-code/pull/3725 * feat(core): add shared permission flow for tool execu..."
     }
   ],
   "errors": []
