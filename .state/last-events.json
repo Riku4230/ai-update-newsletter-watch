@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-05-07T00:05:11.509Z",
+  "checkedAt": "2026-05-07T03:57:18.865Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.129.0-alpha.14",
+      "version": "rust-v0.129.0-alpha.14",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.129.0-alpha.14",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rusty-v8-v147.4.0",
+      "publishedAt": "2026-05-07T03:45:00Z",
+      "detectedAt": "2026-05-07T03:57:18.865Z",
+      "summaryText": "Release 0.129.0-alpha.14"
+    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T00:05:11.509Z",
+      "detectedAt": "2026-05-07T03:57:18.865Z",
       "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
     },
     {
@@ -32,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T00:05:11.509Z",
+      "detectedAt": "2026-05-07T03:57:18.865Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
+    },
+    {
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
+      "type": "webpage",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
+      "version": null,
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "tags": [
+        "google",
+        "gemini",
+        "api"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-05-07T03:57:18.865Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,8 +83,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-07T00:05:11.509Z",
+      "detectedAt": "2026-05-07T03:57:18.865Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.15.6-nightly.20260507.15342b893",
+      "version": "v0.15.6-nightly.20260507.15342b893",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.6-nightly.20260507.15342b893",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.15.7-preview.0",
+      "publishedAt": "2026-05-07T00:36:27Z",
+      "detectedAt": "2026-05-07T03:57:18.865Z",
+      "summaryText": "## What's Changed * chore(release): v0.15.6 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3766 * feat(core): add FileReadCache and short-circuit unchanged Reads by @wenshao in https://github.com/QwenLM/qwen-code/pull/3717 * fix(cli): honor proxy setting by @cyphercodes in https://github.com/QwenLM/qwen-code/pull/3753 * chore: remove legacy Gemini workflows by @pomelo-nwu in https://github.com/QwenLM/qwen-code/pull/3725 * feat(core): add shared permission flow for tool execu..."
     }
   ],
   "errors": []
