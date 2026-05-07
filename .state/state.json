@@ -8,7 +8,7 @@
     "summaryText": "Release 0.129.0-alpha.15",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-05-07T09:13:17.075Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "openai-codex-npm": {
     "fingerprint": "0.128.0",
@@ -19,7 +19,7 @@
     "summaryText": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"https://",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-04-30T16:54:13.434Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "openai-codex-official-changelog": {
     "fingerprint": "b61c6e6122a9ba3a8e0a31932fb9ee44a5f534372e8becf59ab87d00424065d0",
@@ -30,29 +30,29 @@
     "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examp...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-05-06T09:10:57.458Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "claude-code-changelog": {
-    "fingerprint": "f7a8d9d5d88a3e01e421a99e87b27517768030356c24c5186b22e3878c0c925f",
+    "fingerprint": "7bf27ac2a03b12ecf44a50636b592bac1122a599356e454e61aa62eb617caf31",
     "title": "Changelog - Claude Code Docs",
     "version": null,
     "url": "https://code.claude.com/docs/en/changelog",
     "publishedAt": null,
     "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-05-07T03:57:18.865Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastChangedAt": "2026-05-07T11:19:06.008Z",
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "claude-code-release-notes": {
-    "fingerprint": "b09b7ced2f9b634dcb7c12414d91e0ef635b086178d4f105715f936510e6c4c4",
+    "fingerprint": "98b78a225833a58d65e632954f5836a69329128dbade32698af67923d46308ca",
     "title": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub",
     "version": null,
     "url": "https://docs.anthropic.com/en/release-notes/claude-code",
     "publishedAt": null,
     "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-05-07T09:13:17.075Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastChangedAt": "2026-05-07T11:19:06.008Z",
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "claude-code-npm": {
     "fingerprint": "2.1.132",
@@ -63,7 +63,7 @@
     "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-05-06T22:26:45.188Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "gemini-api-changelog": {
     "fingerprint": "ea1ea8d291c9f4f874eb1b98021da957f1f339e022c266a521d5d47ff58eb713",
@@ -74,18 +74,18 @@
     "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-05-07T03:57:18.865Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "vertex-ai-generative-release-notes": {
-    "fingerprint": "e5fdcfbaad27e7f681d8605781a187c37b07fed9a915a7c2608b92da3baefe8a",
+    "fingerprint": "8dcc8f7bd74d1a61eec020f3cd0683522660c0015390bc2a1f6732d402725028",
     "title": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation",
     "version": null,
     "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
     "publishedAt": null,
     "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-05-07T09:13:17.075Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastChangedAt": "2026-05-07T11:19:06.008Z",
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "gemini-code-assist-release-notes": {
     "fingerprint": "7f38c8d2cdc79dd6a0914e5ce7efec9fc240fb0a0c5af9df7b430b2ee88547cb",
@@ -96,7 +96,7 @@
     "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers Skip to main content Gemini Code Assist / English Deutsch Español Français Indonesia Português – Brasil Русский 中文 – 简体 日本語 한국어 Sign in Home Guides Resources Gemini Code Assist Home Home Guides Resources Resources FAQs Quotas and limits Gemini Code Assist Plugin Software License Agreement Available locations for Gemini Code Assist for individuals Standard and Enterprise Pricing Service Level Agreement (SLA) Quotas and limits...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-05-05T16:48:49.316Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "gemini-cli-github": {
     "fingerprint": "318553850",
@@ -107,7 +107,7 @@
     "summaryText": "## What's Changed * fix(patch): cherry-pick 02995ba to release/v0.42.0-preview.1-pr-26568 to patch version v0.42.0-preview.1 and create version 0.42.0-preview.2 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/26590 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.42.0-preview.1...v0.42.0-preview.2",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-05-06T18:48:49.003Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "deepseek-api-changelog": {
     "fingerprint": "5981e9dcc52710994caa71995018b38fa66eb4f759e49c9e28fd912c02ac506d",
@@ -118,7 +118,7 @@
     "summaryText": "Change Log | DeepSeek API Docs Skip to main content DeepSeek API Docs English English 中文（中国） DeepSeek Platform Quick Start Your First API Call Models &amp; Pricing Token &amp; Token Usage Rate Limit Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 ​ DeepSeek...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-04-30T15:26:41.152Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "deepseek-github": {
     "fingerprint": "228293516",
@@ -128,7 +128,7 @@
     "publishedAt": "2025-06-27T08:46:37Z",
     "summaryText": "This release is created for archival purposes and DOI generation.",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z",
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z",
     "lastError": "403 rate limit exceeded from https://api.github.com/repos/deepseek-ai/DeepSeek-V3/releases?per_page=1"
   },
   "qwen-blog": {
@@ -139,17 +139,17 @@
     "publishedAt": null,
     "summaryText": "Blog | Qwen We have a new blog at qwen.ai ! This page will automatically redirect in 5 seconds. If you are not redirected automatically, please click the button below. Go Now Blog Publication About Try Qwen Chat &nbsp; Blog &nbsp;&nbsp;[ 简体中文 ] Qwen3Guard: Real-time Safety for Your Token Stream Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation mod...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   },
   "qwen-code-github": {
-    "fingerprint": "318765806",
-    "title": "QwenLM/qwen-code Release v0.15.7-preview.2",
-    "version": "v0.15.7-preview.2",
-    "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.7-preview.2",
-    "publishedAt": "2026-05-07T06:07:34Z",
+    "fingerprint": "318841814",
+    "title": "QwenLM/qwen-code Release v0.15.7",
+    "version": "v0.15.7",
+    "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.7",
+    "publishedAt": "2026-05-07T09:22:11Z",
     "summaryText": "## What's Changed * chore(release): v0.15.6 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3766 * feat(core): add FileReadCache and short-circuit unchanged Reads by @wenshao in https://github.com/QwenLM/qwen-code/pull/3717 * fix(cli): honor proxy setting by @cyphercodes in https://github.com/QwenLM/qwen-code/pull/3753 * chore: remove legacy Gemini workflows by @pomelo-nwu in https://github.com/QwenLM/qwen-code/pull/3725 * feat(core): add shared permission flow for tool execu...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-05-07T06:30:26.023Z",
-    "lastCheckedAt": "2026-05-07T09:13:17.075Z"
+    "lastChangedAt": "2026-05-07T11:19:06.008Z",
+    "lastCheckedAt": "2026-05-07T11:19:06.008Z"
   }
 }
