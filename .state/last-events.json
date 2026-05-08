@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-05-08T08:49:23.085Z",
+  "checkedAt": "2026-05-08T10:10:22.482Z",
   "events": [
+    {
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
+      "type": "webpage",
+      "title": "Changelog - Claude Code Docs",
+      "version": null,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-05-08T10:10:22.482Z",
+      "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T08:49:23.085Z",
+      "detectedAt": "2026-05-08T10:10:22.482Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T08:49:23.085Z",
+      "detectedAt": "2026-05-08T10:10:22.482Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.15.8-preview.0",
-      "version": "v0.15.8-preview.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.8-preview.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.15.8-nightly.20260508.0491252b2",
-      "publishedAt": "2026-05-08T08:37:52Z",
-      "detectedAt": "2026-05-08T08:49:23.085Z",
-      "summaryText": "## What's Changed * feat(telemetry): add sensitive span attribute opt-in by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/3893 * chore(release): v0.15.8 [skip ci] by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3928 * feat: add commit attribution with per-file AI contribution tracking by @wenshao in https://github.com/QwenLM/qwen-code/pull/3115 * fix(core): per-agent ContentGenerator view via AsyncLocalStorage by @tanzhenxin in https://github.com/QwenLM/qwen-code/pul..."
     }
   ],
   "errors": []
