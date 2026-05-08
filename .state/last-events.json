@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-08T12:59:21.201Z",
+  "checkedAt": "2026-05-08T14:50:11.985Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,25 +15,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T12:59:21.201Z",
+      "detectedAt": "2026-05-08T14:50:11.985Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
-    },
-    {
-      "sourceId": "gemini-api-changelog",
-      "sourceName": "Gemini API Changelog",
-      "type": "webpage",
-      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
-      "version": null,
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "tags": [
-        "google",
-        "gemini",
-        "api"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-05-08T12:59:21.201Z",
-      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T12:59:21.201Z",
+      "detectedAt": "2026-05-08T14:50:11.985Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.15.9",
+      "version": "v0.15.9",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.9",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.15.8-preview.0",
+      "publishedAt": "2026-05-08T14:44:58Z",
+      "detectedAt": "2026-05-08T14:50:11.985Z",
+      "summaryText": "## What's Changed * feat(telemetry): add sensitive span attribute opt-in by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/3893 * chore(release): v0.15.8 [skip ci] by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3928 * feat: add commit attribution with per-file AI contribution tracking by @wenshao in https://github.com/QwenLM/qwen-code/pull/3115 * fix(core): per-agent ContentGenerator view via AsyncLocalStorage by @tanzhenxin in https://github.com/QwenLM/qwen-code/pul..."
     }
   ],
   "errors": []
