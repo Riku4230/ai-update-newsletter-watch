@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-05-08T00:13:27.855Z",
+  "checkedAt": "2026-05-08T03:54:06.544Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex rusty-v8-v147.4.0",
+      "version": "rusty-v8-v147.4.0",
+      "url": "https://github.com/openai/codex/releases/tag/rusty-v8-v147.4.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.129.0",
+      "publishedAt": "2026-05-06T02:15:32Z",
+      "detectedAt": "2026-05-08T03:54:06.544Z",
+      "summaryText": ""
+    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T00:13:27.855Z",
+      "detectedAt": "2026-05-08T03:54:06.544Z",
       "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
     },
     {
@@ -32,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T00:13:27.855Z",
+      "detectedAt": "2026-05-08T03:54:06.544Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.133",
-      "version": "2.1.133",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.133",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.132",
-      "publishedAt": "2026-05-07T20:19:32.227Z",
-      "detectedAt": "2026-05-08T00:13:27.855Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -66,8 +66,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T00:13:27.855Z",
+      "detectedAt": "2026-05-08T03:54:06.544Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.15.8-nightly.20260508.0491252b2",
+      "version": "v0.15.8-nightly.20260508.0491252b2",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.8-nightly.20260508.0491252b2",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.15.8",
+      "publishedAt": "2026-05-08T00:32:00Z",
+      "detectedAt": "2026-05-08T03:54:06.544Z",
+      "summaryText": "## What's Changed * feat(telemetry): add sensitive span attribute opt-in by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/3893 * chore(release): v0.15.8 [skip ci] by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3928 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.15.8...v0.15.8-nightly.20260508.0491252b2"
     }
   ],
   "errors": []
