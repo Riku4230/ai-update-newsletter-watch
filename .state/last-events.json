@@ -1,22 +1,40 @@
 {
-  "checkedAt": "2026-05-08T23:10:32.025Z",
+  "checkedAt": "2026-05-09T00:10:11.934Z",
   "events": [
     {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.130.0",
-      "version": "rust-v0.130.0",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.130.0",
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.130.0",
+      "version": "0.130.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.130.0",
       "tags": [
         "coding-agent",
         "codex",
-        "github"
+        "npm"
       ],
-      "previousVersion": "rusty-v8-v147.4.0",
-      "publishedAt": "2026-05-08T23:09:55Z",
-      "detectedAt": "2026-05-08T23:10:32.025Z",
-      "summaryText": "## New Features - Plugin details now show bundled hooks, and plugin sharing exposes link metadata plus discoverability controls. (#21447, #21495, #21637) - Added `codex remote-control` as a simpler entrypoint for starting a headless, remotely controllable app-server. (#21424) - App-server clients can page large threads with unloaded, summary, or full turn item views. (#21566) - Bedrock auth can now use AWS console-login credentials from `aws login` profiles. (#21623) - `view_image` can resolv..."
+      "previousVersion": "0.129.0",
+      "publishedAt": "2026-05-08T23:12:58.744Z",
+      "detectedAt": "2026-05-09T00:10:11.934Z",
+      "summaryText": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"https://"
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Changelog – Codex | OpenAI Developers",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-05-09T00:10:11.934Z",
+      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examp..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T23:10:32.025Z",
+      "detectedAt": "2026-05-09T00:10:11.934Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -49,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-08T23:10:32.025Z",
+      "detectedAt": "2026-05-09T00:10:11.934Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     }
   ],
