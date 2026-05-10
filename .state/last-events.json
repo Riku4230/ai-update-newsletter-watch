@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-10T08:30:07.752Z",
+  "checkedAt": "2026-05-10T09:53:57.048Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-10T08:30:07.752Z",
+      "detectedAt": "2026-05-10T09:53:57.048Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-10T08:30:07.752Z",
+      "detectedAt": "2026-05-10T09:53:57.048Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.15.10",
-      "version": "v0.15.10",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.10",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.15.9-nightly.20260510.f4d0ad6b7",
-      "publishedAt": "2026-05-10T06:48:28Z",
-      "detectedAt": "2026-05-10T08:30:07.752Z",
-      "summaryText": "## What's Changed * chore(release): v0.15.9 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/3971 * fix(cli): validate /model command arguments by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/3963 * fix(core): log the OpenAI request actually sent on the wire by @tanzhenxin in https://github.com/QwenLM/qwen-code/pull/3767 * fix(core): drop disabled MCP server from health status registry by @BZ-D in https://github.com/QwenLM/qwen-code/pull/3916 * test(cli): drop wait-..."
     }
   ],
   "errors": []
