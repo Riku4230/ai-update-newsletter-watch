@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-12T20:23:04.513Z",
+  "checkedAt": "2026-05-12T21:45:45.381Z",
   "events": [
     {
       "sourceId": "claude-code-changelog",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-12T20:23:04.513Z",
+      "detectedAt": "2026-05-12T21:45:45.381Z",
       "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-12T20:23:04.513Z",
+      "detectedAt": "2026-05-12T21:45:45.381Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.140",
+      "version": "2.1.140",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.140",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.139",
+      "publishedAt": "2026-05-12T19:50:28.781Z",
+      "detectedAt": "2026-05-12T21:45:45.381Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,25 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-12T20:23:04.513Z",
+      "detectedAt": "2026-05-12T21:45:45.381Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.42.0-nightly.20260512.gc987b9939",
-      "version": "v0.42.0-nightly.20260512.gc987b9939",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-nightly.20260512.gc987b9939",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.42.0-nightly.20260511.g1a894c18e",
-      "publishedAt": "2026-05-12T20:15:00Z",
-      "detectedAt": "2026-05-12T20:23:04.513Z",
-      "summaryText": "## What's Changed * fix(context): Change snapshotter model config. by @joshualitt in https://github.com/google-gemini/gemini-cli/pull/26745 * fix(cli): allow installing extensions from ssh repo by @danielmundi in https://github.com/google-gemini/gemini-cli/pull/26274 * fix(cli): prevent duplicate SessionStart systemMessage render by @dimssu in https://github.com/google-gemini/gemini-cli/pull/25827 * fix(cli/acp): prevent infinite thought loop in ACP mode by disablig nextSpeakerCheck by @sripa..."
     }
   ],
   "errors": []
