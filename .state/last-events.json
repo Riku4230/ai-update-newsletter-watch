@@ -1,40 +1,6 @@
 {
-  "checkedAt": "2026-05-14T18:15:22.518Z",
+  "checkedAt": "2026-05-14T20:02:09.584Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.131.0-alpha.16",
-      "version": "rust-v0.131.0-alpha.16",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.16",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.131.0-alpha.9",
-      "publishedAt": "2026-05-14T16:42:33Z",
-      "detectedAt": "2026-05-14T18:15:22.518Z",
-      "summaryText": "Release 0.131.0-alpha.16"
-    },
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-05-14T18:15:22.518Z",
-      "summaryText": "Changelog - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window ..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -49,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-14T18:15:22.518Z",
+      "detectedAt": "2026-05-14T20:02:09.584Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -66,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-14T18:15:22.518Z",
+      "detectedAt": "2026-05-14T20:02:09.584Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.44.0-nightly.20260514.g77078b3e8",
-      "version": "v0.44.0-nightly.20260514.g77078b3e8",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.44.0-nightly.20260514.g77078b3e8",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.43.0-preview.0",
-      "publishedAt": "2026-05-14T17:31:29Z",
-      "detectedAt": "2026-05-14T18:15:22.518Z",
-      "summaryText": "## What's Changed * fix(ci): replace brittle --no-tag with explicit staging-tmp tag by @scidomino in https://github.com/google-gemini/gemini-cli/pull/26940 * Incremental refactor repo agent towards skills-based composition by @gundermanc in https://github.com/google-gemini/gemini-cli/pull/26717 * fix(ui): fixed line wrap padding for selection lists by @devr0306 in https://github.com/google-gemini/gemini-cli/pull/26944 * fix(core): update read_file schema for v1 compatibility (#22183) by @coco..."
     }
   ],
   "errors": []
