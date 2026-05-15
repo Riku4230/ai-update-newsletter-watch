@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-15T10:35:55.111Z",
+  "checkedAt": "2026-05-15T12:19:01.049Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-15T10:35:55.111Z",
+      "detectedAt": "2026-05-15T12:19:01.049Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-15T10:35:55.111Z",
+      "detectedAt": "2026-05-15T12:19:01.049Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.15.12-preview.1",
-      "version": "v0.15.12-preview.1",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.15.12-preview.1",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.15.12-preview.0",
-      "publishedAt": "2026-05-15T09:17:44Z",
-      "detectedAt": "2026-05-15T10:35:55.111Z",
-      "summaryText": "## What's Changed * feat(cli): wrap markdown links in OSC 8 so wrapped URLs stay clickable by @BZ-D in https://github.com/QwenLM/qwen-code/pull/4037 * fix(core): normalize cumulative OpenAI stream deltas to suffixes by @chiga0 in https://github.com/QwenLM/qwen-code/pull/3896 * fix(cli): auto-restore prompt and preserve queue on cancel by @wenshao in https://github.com/QwenLM/qwen-code/pull/4023 * docs(auth): add custom API key wizard PRD by @pomelo-nwu in https://github.com/QwenLM/qwen-code/p..."
     }
   ],
   "errors": []
