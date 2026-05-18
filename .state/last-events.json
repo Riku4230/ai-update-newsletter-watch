@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-05-18T15:52:59.398Z",
+  "checkedAt": "2026-05-18T17:50:07.416Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.131.0",
+      "version": "rust-v0.131.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.131.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.131.0-alpha.22",
+      "publishedAt": "2026-05-18T17:39:34Z",
+      "detectedAt": "2026-05-18T17:50:07.416Z",
+      "summaryText": "## New Features - The TUI now offers richer session controls and display: data-driven service-tier commands, blended token usage, permissions/approval mode, effective workspace roots, and responsive Markdown tables. (#21745, #21906, #21991, #21669, #21677, #22052, #22612) - `@` mentions now search files, directories, plugins, and skills in one picker, backed by app-server plugin metadata. (#19068, #22375) - Plugin workflows gained marketplace CLI commands, version-aware sharing, share checkou..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-18T15:52:59.398Z",
+      "detectedAt": "2026-05-18T17:50:07.416Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-18T15:52:59.398Z",
+      "detectedAt": "2026-05-18T17:50:07.416Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.44.0-nightly.20260518.g5611ff40e",
+      "version": "v0.44.0-nightly.20260518.g5611ff40e",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.44.0-nightly.20260518.g5611ff40e",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.44.0-nightly.20260517.g77e65c0db",
+      "publishedAt": "2026-05-18T16:22:39Z",
+      "detectedAt": "2026-05-18T17:50:07.416Z",
+      "summaryText": "## What's Changed * feat(core): add adk.agentSessionSubagentEnabled flag by @adamfweidman in https://github.com/google-gemini/gemini-cli/pull/26947 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.44.0-nightly.20260517.g77e65c0db...v0.44.0-nightly.20260518.g5611ff40e"
     }
   ],
   "errors": []
