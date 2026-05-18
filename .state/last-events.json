@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-17T23:08:41.635Z",
+  "checkedAt": "2026-05-18T00:07:36.272Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-17T23:08:41.635Z",
+      "detectedAt": "2026-05-18T00:07:36.272Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-17T23:08:41.635Z",
+      "detectedAt": "2026-05-18T00:07:36.272Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.44.0-nightly.20260517.g77e65c0db",
+      "version": "v0.44.0-nightly.20260517.g77e65c0db",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.44.0-nightly.20260517.g77e65c0db",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.44.0-nightly.20260515.g928a311fb",
+      "publishedAt": "2026-05-17T23:28:44Z",
+      "detectedAt": "2026-05-18T00:07:36.272Z",
+      "summaryText": "## What's Changed * security: update dependencies to fix critical and high vulnerabilities by @scidomino in https://github.com/google-gemini/gemini-cli/pull/27077 * Fix/web fetch ctrl c abort by @ProthamD in https://github.com/google-gemini/gemini-cli/pull/24320 * fix(core): add aliases and thinking config for gemini-3.1 models by @anishs1207 in https://github.com/google-gemini/gemini-cli/pull/27007 * fix(core): use hasAccessToPreview for auto model resolution and fix disappearing models by @..."
     }
   ],
   "errors": []
