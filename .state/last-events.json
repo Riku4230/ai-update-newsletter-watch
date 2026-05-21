@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T12:34:53.960Z",
+  "checkedAt": "2026-05-21T15:59:17.086Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,25 +15,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-21T12:34:53.960Z",
+      "detectedAt": "2026-05-21T15:59:17.086Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
-    },
-    {
-      "sourceId": "gemini-api-changelog",
-      "sourceName": "Gemini API Changelog",
-      "type": "webpage",
-      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
-      "version": null,
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "tags": [
-        "google",
-        "gemini",
-        "api"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-05-21T12:34:53.960Z",
-      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,59 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-21T12:34:53.960Z",
+      "detectedAt": "2026-05-21T15:59:17.086Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-code-assist-release-notes",
-      "sourceName": "Gemini Code Assist Release Notes",
-      "type": "webpage",
-      "title": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers",
-      "version": null,
-      "url": "https://developers.google.com/gemini-code-assist/resources/release-notes",
-      "tags": [
-        "coding-agent",
-        "google",
-        "gemini"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-05-21T12:34:53.960Z",
-      "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers Skip to main content Gemini Code Assist / English Deutsch Español Français Indonesia Português – Brasil Русский 中文 – 简体 日本語 한국어 Sign in Home Guides Resources Gemini Code Assist Home Home Guides Resources Resources FAQs Quotas and limits Gemini Code Assist Plugin Software License Agreement Available locations for Gemini Code Assist for individuals Standard and Enterprise Pricing Service Level Agreement (SLA) Quotas and limits..."
-    },
-    {
-      "sourceId": "deepseek-api-changelog",
-      "sourceName": "DeepSeek API Changelog",
-      "type": "webpage",
-      "title": "Change Log | DeepSeek API Docs",
-      "version": null,
-      "url": "https://api-docs.deepseek.com/updates/",
-      "tags": [
-        "deepseek",
-        "api",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-05-21T12:34:53.960Z",
-      "summaryText": "Change Log | DeepSeek API Docs Skip to main content DeepSeek API Docs English English 中文（中国） DeepSeek Platform Quick Start Your First API Call Models &amp; Pricing Token &amp; Token Usage Rate Limit &amp; Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.16.0",
-      "version": "v0.16.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.16.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.15.11-nightly.20260518.f44ed0941",
-      "publishedAt": "2026-05-21T09:48:36Z",
-      "detectedAt": "2026-05-21T12:34:53.960Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.16.0 --> ## What's Changed * feat(cli): wrap markdown links in OSC 8 so wrapped URLs stay clickable by @BZ-D in https://github.com/QwenLM/qwen-code/pull/4037 * fix(core): normalize cumulative OpenAI stream deltas to suffixes by @chiga0 in https://github.com/QwenLM/qwen-code/pull/3896 * fix(cli): auto-restore prompt and preserve queue on cancel by @wenshao in https://github.com/QwenLM/qwen-code/pull/4023 * do..."
     }
   ],
   "errors": []
