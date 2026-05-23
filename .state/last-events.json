@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-23T15:20:25.382Z",
+  "checkedAt": "2026-05-23T16:29:31.622Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-23T15:20:25.382Z",
+      "detectedAt": "2026-05-23T16:29:31.622Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-23T15:20:25.382Z",
+      "detectedAt": "2026-05-23T16:29:31.622Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.16.1",
-      "version": "v0.16.1",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.16.1",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.16.0-nightly.20260522.48b0a8bfc",
-      "publishedAt": "2026-05-23T14:53:04Z",
-      "detectedAt": "2026-05-23T15:20:25.382Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.16.1 --> ## What's Changed * chore(release): v0.16.0 by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/4404 * fix(core,cli): close tool_use↔tool_result invariant across all failure paths by @wenshao in https://github.com/QwenLM/qwen-code/pull/4176 * fix(vscode): skip redundant tsc build in prepackage to prevent TS5055 by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/4401 * fix(core): prese..."
     }
   ],
   "errors": []
