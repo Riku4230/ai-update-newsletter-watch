@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T01:34:48.464Z",
+  "checkedAt": "2026-05-25T06:05:18.393Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-25T01:34:48.464Z",
+      "detectedAt": "2026-05-25T06:05:18.393Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-25T01:34:48.464Z",
+      "detectedAt": "2026-05-25T06:05:18.393Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.16.1-nightly.20260525.84f408017",
-      "version": "v0.16.1-nightly.20260525.84f408017",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.16.1-nightly.20260525.84f408017",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.16.1-nightly.20260524.84f408017",
-      "publishedAt": "2026-05-25T00:38:53Z",
-      "detectedAt": "2026-05-25T01:34:48.464Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.16.1-nightly.20260525.84f408017 --> ## What's Changed * fix(build): clean stale outputs before tsc --build to prevent TS5055 by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/4453 * chore(release): v0.16.1 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/4467 * feat(cli): do not append trailing space for directory completions (#4092) by @dykebo in https://github.com/QwenLM/qwen-code/p..."
     }
   ],
   "errors": []
