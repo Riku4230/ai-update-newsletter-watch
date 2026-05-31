@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-30T23:38:36.217Z",
+  "checkedAt": "2026-05-31T01:37:30.032Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-30T23:38:36.217Z",
+      "detectedAt": "2026-05-31T01:37:30.032Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-05-30T23:38:36.217Z",
+      "detectedAt": "2026-05-31T01:37:30.032Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.17.0-nightly.20260531.c699738f9",
+      "version": "v0.17.0-nightly.20260531.c699738f9",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.17.0-nightly.20260531.c699738f9",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.17.0-nightly.20260530.c699738f9",
+      "publishedAt": "2026-05-31T00:40:29Z",
+      "detectedAt": "2026-05-31T01:37:30.032Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.17.0-nightly.20260531.c699738f9 --> ## What's Changed * chore(release): v0.17.0 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/4626 * fix(rewind): false \"compressed turn\" error when mid-turn messages exist by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/4580 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.17.0...v0.17.0-nightly.20260531.c699738f9"
     }
   ],
   "errors": []
