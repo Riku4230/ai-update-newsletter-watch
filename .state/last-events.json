@@ -1,24 +1,6 @@
 {
-  "checkedAt": "2026-06-01T23:17:45.645Z",
+  "checkedAt": "2026-06-02T01:38:10.175Z",
   "events": [
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "Changelog – Codex | OpenAI Developers",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-01T23:17:45.645Z",
-      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examp..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -33,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-01T23:17:45.645Z",
+      "detectedAt": "2026-06-02T01:38:10.175Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATIO..."
     },
     {
@@ -50,8 +32,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-01T23:17:45.645Z",
+      "detectedAt": "2026-06-02T01:38:10.175Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.45.0-nightly.20260602.g665228e98",
+      "version": "v0.45.0-nightly.20260602.g665228e98",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.45.0-nightly.20260602.g665228e98",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.45.0-nightly.20260530.g013914071",
+      "publishedAt": "2026-06-02T01:08:48Z",
+      "detectedAt": "2026-06-02T01:38:10.175Z",
+      "summaryText": "## What's Changed * Transition to flash GA model when experiment flag is present. by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/27570 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.45.0-nightly.20260530.g013914071...v0.45.0-nightly.20260602.g665228e98"
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.17.0-nightly.20260602.cea15a118",
+      "version": "v0.17.0-nightly.20260602.cea15a118",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.17.0-nightly.20260602.cea15a118",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.17.0-nightly.20260601.1c48e4121",
+      "publishedAt": "2026-06-02T00:46:47Z",
+      "detectedAt": "2026-06-02T01:38:10.175Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.17.0-nightly.20260602.cea15a118 --> ## What's Changed * chore(release): v0.17.0 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/4626 * fix(rewind): false \"compressed turn\" error when mid-turn messages exist by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/4580 * fix(core): emit enable_thinking on DashScope when reasoning is disabled by @doudouOUC in https://github.com/QwenLM/qwen-co..."
     }
   ],
   "errors": []
