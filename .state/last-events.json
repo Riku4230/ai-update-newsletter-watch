@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-06-03T19:55:42.012Z",
+  "checkedAt": "2026-06-03T22:22:27.693Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.137.0-alpha.5",
-      "version": "rust-v0.137.0-alpha.5",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.137.0-alpha.5",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.137.0-alpha.4",
-      "publishedAt": "2026-06-03T17:23:47Z",
-      "detectedAt": "2026-06-03T19:55:42.012Z",
-      "summaryText": "Release 0.137.0-alpha.5"
-    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -33,7 +16,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-03T19:55:42.012Z",
+      "detectedAt": "2026-06-03T22:22:27.693Z",
       "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examp..."
     },
     {
@@ -50,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-03T19:55:42.012Z",
+      "detectedAt": "2026-06-03T22:22:27.693Z",
       "summaryText": "Changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources G..."
     },
     {
@@ -67,8 +50,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-03T19:55:42.012Z",
+      "detectedAt": "2026-06-03T22:22:27.693Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.162",
+      "version": "2.1.162",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.162",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.161",
+      "publishedAt": "2026-06-03T18:09:44.344Z",
+      "detectedAt": "2026-06-03T22:22:27.693Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -84,42 +84,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-03T19:55:42.012Z",
+      "detectedAt": "2026-06-03T22:22:27.693Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-code-assist-release-notes",
-      "sourceName": "Gemini Code Assist Release Notes",
-      "type": "webpage",
-      "title": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers",
-      "version": null,
-      "url": "https://developers.google.com/gemini-code-assist/resources/release-notes",
-      "tags": [
-        "coding-agent",
-        "google",
-        "gemini"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-03T19:55:42.012Z",
-      "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers Skip to main content Gemini Code Assist / English Deutsch Español Français Indonesia Português – Brasil Русский 中文 – 简体 日本語 한국어 Sign in Home Guides Resources Gemini Code Assist Home Home Guides Resources Resources FAQs Quotas and limits Gemini Code Assist Plugin Software License Agreement Available locations for Gemini Code Assist for individuals Standard and Enterprise Pricing Service Level Agreement (SLA) Quotas and limits..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.46.0-preview.1",
-      "version": "v0.46.0-preview.1",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.46.0-preview.1",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.46.0-preview.0",
-      "publishedAt": "2026-06-03T18:03:12Z",
-      "detectedAt": "2026-06-03T19:55:42.012Z",
-      "summaryText": "## What's Changed * fix(patch): cherry-pick e4315b3 to release/v0.46.0-preview.0-pr-27645 to patch version v0.46.0-preview.0 and create version 0.46.0-preview.1 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/27655 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.46.0-preview.0...v0.46.0-preview.1"
     }
   ],
   "errors": []
