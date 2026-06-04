@@ -1,74 +1,22 @@
 {
-  "checkedAt": "2026-06-04T05:01:25.785Z",
+  "checkedAt": "2026-06-04T08:56:39.112Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.137.0",
-      "version": "rust-v0.137.0",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.137.0",
+      "title": "openai/codex 0.138.0-alpha.1",
+      "version": "rust-v0.138.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.138.0-alpha.1",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.137.0-alpha.5",
-      "publishedAt": "2026-06-04T01:17:20Z",
-      "detectedAt": "2026-06-04T05:01:25.785Z",
-      "summaryText": "## New Features - TUI controls now support F13-F24 keybindings, paste in searchable menus, and a compact reasoning-only status/title item (#25329, #25400, #25504). - Enterprise/admin flows now show monthly credit limits and can apply cloud-managed config bundles, including EDU workspaces (#24812, #24617, #24619, #24620, #24622, #25963). - Remote-control clients can start pairing and list or revoke controller grants through app-server v2 RPCs (#25675, #25785). - Plugin workflows gained machine..."
-    },
-    {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.137.0",
-      "version": "0.137.0",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.137.0",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "npm"
-      ],
-      "previousVersion": "0.136.0",
-      "publishedAt": "2026-06-04T01:41:31.275Z",
-      "detectedAt": "2026-06-04T05:01:25.785Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
-    },
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "Changelog – Codex | OpenAI Developers",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-04T05:01:25.785Z",
-      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examp..."
-    },
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-04T05:01:25.785Z",
-      "summaryText": "Changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK What&#x27;s New Resources G..."
+      "previousVersion": "rust-v0.137.0",
+      "publishedAt": "2026-06-04T05:02:54Z",
+      "detectedAt": "2026-06-04T08:56:39.112Z",
+      "summaryText": "Release 0.138.0-alpha.1"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -84,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-04T05:01:25.785Z",
+      "detectedAt": "2026-06-04T08:56:39.112Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -101,42 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-04T05:01:25.785Z",
+      "detectedAt": "2026-06-04T08:56:39.112Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.47.0-nightly.20260604.g4196596f7",
-      "version": "v0.47.0-nightly.20260604.g4196596f7",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.47.0-nightly.20260604.g4196596f7",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.46.0-preview.1",
-      "publishedAt": "2026-06-04T04:08:50Z",
-      "detectedAt": "2026-06-04T05:01:25.785Z",
-      "summaryText": "## What's Changed * chore(ci): add optimized PR size labeler and batch workflows by @sripasg in https://github.com/google-gemini/gemini-cli/pull/27616 * fix(ci): use pull_request_target trigger to grant write access on fork PRs by @sripasg in https://github.com/google-gemini/gemini-cli/pull/27637 * chore(release): bump version to 0.47.0-nightly.20260602.gcfcecebe8 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/27644 * Changelog for v0.46.0-preview.0 by @gemini-cli-ro..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.17.1-nightly.20260604.16dd99fa3",
-      "version": "v0.17.1-nightly.20260604.16dd99fa3",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.17.1-nightly.20260604.16dd99fa3",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.17.1",
-      "publishedAt": "2026-06-04T00:51:43Z",
-      "detectedAt": "2026-06-04T05:01:25.785Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.17.1-nightly.20260604.16dd99fa3 --> ## What's Changed * chore(release): v0.17.1 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/4742 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.17.1...v0.17.1-nightly.20260604.16dd99fa3"
     }
   ],
   "errors": []
