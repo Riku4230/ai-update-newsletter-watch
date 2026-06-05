@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-06-05T18:12:19.511Z",
+  "checkedAt": "2026-06-05T20:13:26.352Z",
   "events": [
     {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex rusty-v8-v149.2.0",
+      "version": "rusty-v8-v149.2.0",
+      "url": "https://github.com/openai/codex/releases/tag/rusty-v8-v149.2.0",
       "tags": [
         "coding-agent",
-        "claude-code",
-        "docs"
+        "codex",
+        "github"
       ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-05T18:12:19.511Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
+      "previousVersion": "rust-v0.138.0-alpha.4",
+      "publishedAt": "2026-06-05T19:26:02Z",
+      "detectedAt": "2026-06-05T20:13:26.352Z",
+      "summaryText": ""
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-05T18:12:19.511Z",
+      "detectedAt": "2026-06-05T20:13:26.352Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -49,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-05T18:12:19.511Z",
+      "detectedAt": "2026-06-05T20:13:26.352Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     }
   ],
