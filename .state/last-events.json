@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T23:54:52.966Z",
+  "checkedAt": "2026-06-08T02:11:08.518Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-07T23:54:52.966Z",
+      "detectedAt": "2026-06-08T02:11:08.518Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-07T23:54:52.966Z",
+      "detectedAt": "2026-06-08T02:11:08.518Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.17.1-nightly.20260608.aea34fa2c",
+      "version": "v0.17.1-nightly.20260608.aea34fa2c",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.17.1-nightly.20260608.aea34fa2c",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.17.1-nightly.20260607.cef26a86a",
+      "publishedAt": "2026-06-08T00:43:36Z",
+      "detectedAt": "2026-06-08T02:11:08.518Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.17.1-nightly.20260608.aea34fa2c --> ## What's Changed * chore(release): v0.17.1 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/4742 * fix(cli): skip thought parts in copy output by @he-yufeng in https://github.com/QwenLM/qwen-code/pull/4738 * feat(installer): verify release assets + switch public docs to standalone entrypoint by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/3855 *..."
     }
   ],
   "errors": []
