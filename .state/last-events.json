@@ -1,58 +1,6 @@
 {
-  "checkedAt": "2026-06-08T23:50:07.442Z",
+  "checkedAt": "2026-06-09T01:32:27.156Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.138.0",
-      "version": "rust-v0.138.0",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.138.0",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.138.0-alpha.8",
-      "publishedAt": "2026-06-08T23:00:27Z",
-      "detectedAt": "2026-06-08T23:50:07.442Z",
-      "summaryText": "## New Features - The `/app` command can now hand off the current CLI thread into Codex Desktop on macOS and native Windows, and Windows workspace launches can open directly into Desktop instead of stopping at a manual prompt. (#25638, #26500) - Local image attachments and standalone image generations now expose their saved file paths to the model, which makes follow-up edits and file references more reliable. (#25944, #25947) - Reasoning effort selection is more flexible: the TUI adds fallba..."
-    },
-    {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.138.0",
-      "version": "0.138.0",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.138.0",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "npm"
-      ],
-      "previousVersion": "0.137.0",
-      "publishedAt": "2026-06-08T23:03:39.681Z",
-      "detectedAt": "2026-06-08T23:50:07.442Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
-    },
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "Changelog – Codex | OpenAI Developers",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-08T23:50:07.442Z",
-      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examp..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -67,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-08T23:50:07.442Z",
+      "detectedAt": "2026-06-09T01:32:27.156Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -84,8 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-08T23:50:07.442Z",
+      "detectedAt": "2026-06-09T01:32:27.156Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.47.0-nightly.20260609.g0567b25a2",
+      "version": "v0.47.0-nightly.20260609.g0567b25a2",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.47.0-nightly.20260609.g0567b25a2",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.47.0-nightly.20260605.g4196596f7",
+      "publishedAt": "2026-06-09T00:34:13Z",
+      "detectedAt": "2026-06-09T01:32:27.156Z",
+      "summaryText": "## What's Changed * update the max amount of times the Antigravity transition banner can be displayed. by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/27676 * chore: remove experimental text from browser agent docs by @gsquared94 in https://github.com/google-gemini/gemini-cli/pull/27746 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.47.0-nightly.20260605.g4196596f7...v0.47.0-nightly.20260609.g0567b25a2"
     }
   ],
   "errors": []
