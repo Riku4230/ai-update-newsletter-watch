@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-06-16T07:07:38.896Z",
+  "checkedAt": "2026-06-16T12:19:25.610Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.141.0-alpha.3",
-      "version": "rust-v0.141.0-alpha.3",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0-alpha.3",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.141.0-alpha.1",
-      "publishedAt": "2026-06-16T06:07:17Z",
-      "detectedAt": "2026-06-16T07:07:38.896Z",
-      "summaryText": "Release 0.141.0-alpha.3"
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -32,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-16T07:07:38.896Z",
+      "detectedAt": "2026-06-16T12:19:25.610Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -49,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-16T07:07:38.896Z",
+      "detectedAt": "2026-06-16T12:19:25.610Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.18.1-preview.0",
-      "version": "v0.18.1-preview.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.18.1-preview.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.18.1-nightly.20260616.a68b2e1e7",
-      "publishedAt": "2026-06-16T02:52:21Z",
-      "detectedAt": "2026-06-16T07:07:38.896Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.18.1-preview.0 --> ## What's Changed * fix: warn on oversized context instructions by @he-yufeng in https://github.com/QwenLM/qwen-code/pull/5073 * docs: fix stale defaults, CLI syntax, and tool naming drift by @DragonnZhang in https://github.com/QwenLM/qwen-code/pull/5158 * chore(release): desktop desktop-v0.0.4 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5127 * chore(release): v0.18.1 ..."
     }
   ],
   "errors": []
