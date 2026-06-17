@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-06-17T02:13:25.370Z",
+  "checkedAt": "2026-06-17T07:27:48.529Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.141.0-alpha.4",
-      "version": "rust-v0.141.0-alpha.4",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0-alpha.4",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.141.0-alpha.3",
-      "publishedAt": "2026-06-17T00:28:20Z",
-      "detectedAt": "2026-06-17T02:13:25.370Z",
-      "summaryText": "Release 0.141.0-alpha.4"
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -32,8 +15,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-17T02:13:25.370Z",
+      "detectedAt": "2026-06-17T07:27:48.529Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
+    },
+    {
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
+      "type": "webpage",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
+      "version": null,
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "tags": [
+        "google",
+        "gemini",
+        "api"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-06-17T07:27:48.529Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Quickstart API keys Libraries Pricing Interactions API Coding ..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-17T02:13:25.370Z",
+      "detectedAt": "2026-06-17T07:27:48.529Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.18.1-preview.1",
+      "version": "v0.18.1-preview.1",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.18.1-preview.1",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.18.1-preview.0",
+      "publishedAt": "2026-06-17T04:33:25Z",
+      "detectedAt": "2026-06-17T07:27:48.529Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.18.1-preview.1 --> ## What's Changed * fix: warn on oversized context instructions by @he-yufeng in https://github.com/QwenLM/qwen-code/pull/5073 * docs: fix stale defaults, CLI syntax, and tool naming drift by @DragonnZhang in https://github.com/QwenLM/qwen-code/pull/5158 * chore(release): desktop desktop-v0.0.4 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5127 * chore(release): v0.18.1 ..."
     }
   ],
   "errors": []
