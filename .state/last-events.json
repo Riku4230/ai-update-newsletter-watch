@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-06-17T18:09:26.184Z",
+  "checkedAt": "2026-06-17T20:28:01.075Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.141.0-alpha.6",
+      "version": "rust-v0.141.0-alpha.6",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0-alpha.6",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.141.0-alpha.5",
+      "publishedAt": "2026-06-17T19:52:37Z",
+      "detectedAt": "2026-06-17T20:28:01.075Z",
+      "summaryText": "Release 0.141.0-alpha.6"
+    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -16,25 +33,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-17T18:09:26.184Z",
+      "detectedAt": "2026-06-17T20:28:01.075Z",
       "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learn..."
-    },
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-17T18:09:26.184Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-17T18:09:26.184Z",
+      "detectedAt": "2026-06-17T20:28:01.075Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -67,25 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-17T18:09:26.184Z",
+      "detectedAt": "2026-06-17T20:28:01.075Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.18.3",
-      "version": "v0.18.3",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.18.3",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.18.3-preview.0",
-      "publishedAt": "2026-06-17T16:27:57Z",
-      "detectedAt": "2026-06-17T18:09:26.184Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.18.3 --> ## What's Changed * chore(release): v0.18.2 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5243 * fix(cli): Stop after cancelled ask_user_question by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/5218 * fix(cli): render slash suggestion descriptions on a single truncated line by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/5236 * ci(release): report required Tes..."
     }
   ],
   "errors": []
