@@ -1,6 +1,40 @@
 {
-  "checkedAt": "2026-06-17T23:51:57.420Z",
+  "checkedAt": "2026-06-18T02:11:32.960Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.141.0-alpha.7",
+      "version": "rust-v0.141.0-alpha.7",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0-alpha.7",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.141.0-alpha.6",
+      "publishedAt": "2026-06-18T01:02:30Z",
+      "detectedAt": "2026-06-18T02:11:32.960Z",
+      "summaryText": "Release 0.141.0-alpha.7"
+    },
+    {
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
+      "type": "webpage",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "version": null,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-06-18T02:11:32.960Z",
+      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-17T23:51:57.420Z",
+      "detectedAt": "2026-06-18T02:11:32.960Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,25 +66,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-17T23:51:57.420Z",
+      "detectedAt": "2026-06-18T02:11:32.960Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
       "sourceId": "gemini-cli-github",
       "sourceName": "Gemini CLI GitHub Releases",
       "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.48.0-preview.0",
-      "version": "v0.48.0-preview.0",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.48.0-preview.0",
+      "title": "google-gemini/gemini-cli Release v0.47.0",
+      "version": "v0.47.0",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.47.0",
       "tags": [
         "coding-agent",
         "google",
         "github"
       ],
-      "previousVersion": "v0.48.0-nightly.20260613.g9e5599c32",
-      "publishedAt": "2026-06-17T22:58:09Z",
-      "detectedAt": "2026-06-17T23:51:57.420Z",
-      "summaryText": "## What's Changed * chore(release): bump version to 0.48.0-nightly.20260609.g3a13b8eeb by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/27779 * ci(dependabot): enable cooldown period for npm packages by @ruomengz in https://github.com/google-gemini/gemini-cli/pull/27743 * refactor(core): standardize tool output formatting by @galz10 in https://github.com/google-gemini/gemini-cli/pull/27772 * ci: update workflow logging and policy configurations by @galz10 in https://gi..."
+      "previousVersion": "v0.48.0-preview.0",
+      "publishedAt": "2026-06-18T01:51:23Z",
+      "detectedAt": "2026-06-18T02:11:32.960Z",
+      "summaryText": "## What's Changed * chore(release): bump version to 0.47.0-nightly.20260602.gcfcecebe8 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/27644 * Changelog for v0.46.0-preview.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/27641 * Respect backend definitions for 3.5 flash and Update auto mode to use 3.5 flash when the flag is enabled. by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/27645 * fix(policy): add EBUSY fallback a..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.18.3-nightly.20260618.bc3e0b405",
+      "version": "v0.18.3-nightly.20260618.bc3e0b405",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.18.3-nightly.20260618.bc3e0b405",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.18.3",
+      "publishedAt": "2026-06-18T01:01:25Z",
+      "detectedAt": "2026-06-18T02:11:32.960Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.18.3-nightly.20260618.bc3e0b405 --> ## What's Changed * chore(release): v0.18.3 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5255 * fix(core): Track supported sed edits in file history by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/5141 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.18.3...v0.18.3-nightly.20260618.bc3e0b405"
     }
   ],
   "errors": []
