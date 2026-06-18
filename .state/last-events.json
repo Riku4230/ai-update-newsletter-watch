@@ -1,22 +1,57 @@
 {
-  "checkedAt": "2026-06-18T02:11:32.960Z",
+  "checkedAt": "2026-06-18T07:05:55.109Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.141.0-alpha.7",
-      "version": "rust-v0.141.0-alpha.7",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0-alpha.7",
+      "title": "openai/codex 0.141.0",
+      "version": "rust-v0.141.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.141.0-alpha.6",
-      "publishedAt": "2026-06-18T01:02:30Z",
-      "detectedAt": "2026-06-18T02:11:32.960Z",
-      "summaryText": "Release 0.141.0-alpha.7"
+      "previousVersion": "rust-v0.141.0-alpha.7",
+      "publishedAt": "2026-06-18T04:43:06Z",
+      "detectedAt": "2026-06-18T07:05:55.109Z",
+      "summaryText": "## New Features - Remote executors now use authenticated, end-to-end encrypted Noise relay channels. (#26242, #26245) - Cross-platform remote execution now preserves executor-native working directories and shells, including filesystem permission paths across app-server and exec-server boundaries. (#27819, #27995, #28032, #28122, #28165, #28367) - Selected executor plugins can activate their stdio MCP servers per thread; plugin discovery also adds a created-by-me marketplace and auth-specific ..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.141.0",
+      "version": "0.141.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.141.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.140.0",
+      "publishedAt": "2026-06-18T04:45:39.921Z",
+      "detectedAt": "2026-06-18T07:05:55.109Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Changelog – Codex | OpenAI Developers",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-06-18T07:05:55.109Z",
+      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learn..."
     },
     {
       "sourceId": "claude-code-changelog",
@@ -32,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-18T02:11:32.960Z",
+      "detectedAt": "2026-06-18T07:05:55.109Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -49,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-18T02:11:32.960Z",
+      "detectedAt": "2026-06-18T07:05:55.109Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -66,42 +101,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-18T02:11:32.960Z",
+      "detectedAt": "2026-06-18T07:05:55.109Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.47.0",
-      "version": "v0.47.0",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.47.0",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.48.0-preview.0",
-      "publishedAt": "2026-06-18T01:51:23Z",
-      "detectedAt": "2026-06-18T02:11:32.960Z",
-      "summaryText": "## What's Changed * chore(release): bump version to 0.47.0-nightly.20260602.gcfcecebe8 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/27644 * Changelog for v0.46.0-preview.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/27641 * Respect backend definitions for 3.5 flash and Update auto mode to use 3.5 flash when the flag is enabled. by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/27645 * fix(policy): add EBUSY fallback a..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.18.3-nightly.20260618.bc3e0b405",
-      "version": "v0.18.3-nightly.20260618.bc3e0b405",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.18.3-nightly.20260618.bc3e0b405",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.18.3",
-      "publishedAt": "2026-06-18T01:01:25Z",
-      "detectedAt": "2026-06-18T02:11:32.960Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.18.3-nightly.20260618.bc3e0b405 --> ## What's Changed * chore(release): v0.18.3 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5255 * fix(core): Track supported sed edits in file history by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/5141 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.18.3...v0.18.3-nightly.20260618.bc3e0b405"
     }
   ],
   "errors": []
