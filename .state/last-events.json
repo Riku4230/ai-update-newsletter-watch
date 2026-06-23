@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-23T22:56:40.494Z",
+  "checkedAt": "2026-06-23T23:49:05.367Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-23T22:56:40.494Z",
+      "detectedAt": "2026-06-23T23:49:05.367Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-23T22:56:40.494Z",
+      "detectedAt": "2026-06-23T23:49:05.367Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-code-assist-release-notes",
-      "sourceName": "Gemini Code Assist Release Notes",
-      "type": "webpage",
-      "title": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers",
-      "version": null,
-      "url": "https://developers.google.com/gemini-code-assist/resources/release-notes",
-      "tags": [
-        "coding-agent",
-        "google",
-        "gemini"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-23T22:56:40.494Z",
-      "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Google for Developers Skip to main content Gemini Code Assist / English Deutsch Español Français Indonesia Português – Brasil Русский 中文 – 简体 日本語 한국어 Sign in Home Guides Resources Gemini Code Assist Home Home Guides Resources Resources Quotas and limits Gemini Code Assist Plugin Software License Agreement Standard and Enterprise Pricing Service Level Agreement (SLA) Quotas and limits Gemini Code Assist serving locations Release notes Deprecations..."
     }
   ],
   "errors": []
