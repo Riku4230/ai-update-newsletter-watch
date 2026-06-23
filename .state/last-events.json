@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-06-23T02:39:14.302Z",
+  "checkedAt": "2026-06-23T06:33:22.574Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.143.0-alpha.4",
+      "version": "rust-v0.143.0-alpha.4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.4",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.142.0",
+      "publishedAt": "2026-06-23T04:03:24Z",
+      "detectedAt": "2026-06-23T06:33:22.574Z",
+      "summaryText": "Release 0.143.0-alpha.4"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-23T02:39:14.302Z",
+      "detectedAt": "2026-06-23T06:33:22.574Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-23T02:39:14.302Z",
+      "detectedAt": "2026-06-23T06:33:22.574Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.19.0",
+      "version": "v0.19.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.0",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.18.5-nightly.20260622.6bc3f853e",
+      "publishedAt": "2026-06-23T03:27:11Z",
+      "detectedAt": "2026-06-23T06:33:22.574Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.0 --> ## What's Changed * chore(release): v0.18.5 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5558 * ci(release): Auto-publish VSCode companion after stable releases by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/5572 * fix(cli): render full resume preview history by @cyphercodes in https://github.com/QwenLM/qwen-code/pull/5565 * fix(cli): fill content area background on w..."
     }
   ],
   "errors": []
