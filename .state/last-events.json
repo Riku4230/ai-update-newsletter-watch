@@ -1,40 +1,22 @@
 {
-  "checkedAt": "2026-06-23T10:21:13.294Z",
+  "checkedAt": "2026-06-23T13:18:59.049Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.143.0-alpha.5",
-      "version": "rust-v0.143.0-alpha.5",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.5",
+      "title": "openai/codex 0.143.0-alpha.6",
+      "version": "rust-v0.143.0-alpha.6",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.6",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.143.0-alpha.4",
-      "publishedAt": "2026-06-23T08:23:35Z",
-      "detectedAt": "2026-06-23T10:21:13.294Z",
-      "summaryText": "Release 0.143.0-alpha.5"
-    },
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "Changelog – Codex | OpenAI Developers",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-06-23T10:21:13.294Z",
-      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learn..."
+      "previousVersion": "rust-v0.143.0-alpha.5",
+      "publishedAt": "2026-06-23T13:06:04Z",
+      "detectedAt": "2026-06-23T13:18:59.049Z",
+      "summaryText": "Release 0.143.0-alpha.6"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-23T10:21:13.294Z",
+      "detectedAt": "2026-06-23T13:18:59.049Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -67,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-23T10:21:13.294Z",
+      "detectedAt": "2026-06-23T13:18:59.049Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.1",
-      "version": "v0.19.1",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.1",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.0",
-      "publishedAt": "2026-06-23T09:22:11Z",
-      "detectedAt": "2026-06-23T10:21:13.294Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.1 --> ## What's Changed * feat(cli): match MCP resource completions by name and discover servers by @wenshao in https://github.com/QwenLM/qwen-code/pull/5733 * chore(release): v0.19.0 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5739 * fix(cli): skip unusable A2UI configs by @tt-a1i in https://github.com/QwenLM/qwen-code/pull/5685 * fix(cli): avoid duplicate ACP write BOM by @tt-a1i in..."
     }
   ],
   "errors": []
