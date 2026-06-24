@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-24T15:57:16.510Z",
+  "checkedAt": "2026-06-24T17:48:34.042Z",
   "events": [
     {
       "sourceId": "claude-code-changelog",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-24T15:57:16.510Z",
+      "detectedAt": "2026-06-24T17:48:34.042Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -32,25 +32,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-24T15:57:16.510Z",
+      "detectedAt": "2026-06-24T17:48:34.042Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.190",
-      "version": "2.1.190",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.190",
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
+      "type": "webpage",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
+      "version": null,
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
       "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
+        "google",
+        "gemini",
+        "api"
       ],
-      "previousVersion": "2.1.187",
-      "publishedAt": "2026-06-24T14:39:56.222Z",
-      "detectedAt": "2026-06-24T15:57:16.510Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-06-24T17:48:34.042Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Get Started API keys Libraries Pricing Interactions API Coding..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -66,25 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-24T15:57:16.510Z",
+      "detectedAt": "2026-06-24T17:48:34.042Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.2",
-      "version": "v0.19.2",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.2",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.2-preview.0",
-      "publishedAt": "2026-06-24T13:54:59Z",
-      "detectedAt": "2026-06-24T15:57:16.510Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.2 --> ## What's Changed * chore(release): v0.19.1 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5762 * feat(serve): Add remote LSP status route by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/5741 * fix(agent): cap fork turns and bubble fork permission prompts by @qqqys in https://github.com/QwenLM/qwen-code/pull/5737 * feat(vision-bridge): transcribe images to text for text-o..."
     }
   ],
   "errors": []
