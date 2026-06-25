@@ -1,6 +1,40 @@
 {
-  "checkedAt": "2026-06-24T23:34:00.791Z",
+  "checkedAt": "2026-06-25T01:33:38.564Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.142.1",
+      "version": "rust-v0.142.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.1",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.143.0-alpha.15",
+      "publishedAt": "2026-06-25T00:36:09Z",
+      "detectedAt": "2026-06-25T01:33:38.564Z",
+      "summaryText": "## New Features - Added opt-in Windows system proxy support for authentication, including PAC, WPAD, static proxies, and bypass rules. (#26708) ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.142.0...rust-v0.142.1 - #26708 PAC 3 - Add Windows system proxy resolver @canvrno-oai"
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.142.1",
+      "version": "0.142.1",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.142.1",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.142.0",
+      "publishedAt": "2026-06-25T00:38:54.309Z",
+      "detectedAt": "2026-06-25T01:33:38.564Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-24T23:34:00.791Z",
+      "detectedAt": "2026-06-25T01:33:38.564Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,8 +66,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-24T23:34:00.791Z",
+      "detectedAt": "2026-06-25T01:33:38.564Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.19.2-nightly.20260625.b2f11b735",
+      "version": "v0.19.2-nightly.20260625.b2f11b735",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.2-nightly.20260625.b2f11b735",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.19.2",
+      "publishedAt": "2026-06-25T00:59:49Z",
+      "detectedAt": "2026-06-25T01:33:38.564Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.2-nightly.20260625.b2f11b735 --> ## What's Changed * fix(core): allow web_fetch JSON fallback by @tt-a1i in https://github.com/QwenLM/qwen-code/pull/5660 * chore(release): v0.19.2 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5830 * ci: split platform test matrix into named jobs so PRs can enter the merge queue by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/5833 * fix(ide): ..."
     }
   ],
   "errors": []
