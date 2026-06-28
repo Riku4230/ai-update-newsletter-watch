@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-06-28T00:15:21.344Z",
+  "checkedAt": "2026-06-28T04:50:49.159Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.143.0-alpha.29",
+      "version": "rust-v0.143.0-alpha.29",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.29",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.143.0-alpha.28",
+      "publishedAt": "2026-06-28T00:30:41Z",
+      "detectedAt": "2026-06-28T04:50:49.159Z",
+      "summaryText": "Release 0.143.0-alpha.29"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-28T00:15:21.344Z",
+      "detectedAt": "2026-06-28T04:50:49.159Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,8 +49,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-28T00:15:21.344Z",
+      "detectedAt": "2026-06-28T04:50:49.159Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.51.0-nightly.20260628.gae0a3aa7b",
+      "version": "v0.51.0-nightly.20260628.gae0a3aa7b",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.51.0-nightly.20260628.gae0a3aa7b",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.51.0-nightly.20260626.gb14416447",
+      "publishedAt": "2026-06-28T01:45:53Z",
+      "detectedAt": "2026-06-28T04:50:49.159Z",
+      "summaryText": "## What's Changed * fix(security): enforce case-insensitive sensitive path blocklist and vscode hitl by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/27966 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.51.0-nightly.20260626.gb14416447...v0.51.0-nightly.20260628.gae0a3aa7b"
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.19.2-nightly.20260628.714513df2",
+      "version": "v0.19.2-nightly.20260628.714513df2",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.2-nightly.20260628.714513df2",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.19.2-nightly.20260627.d93bec905",
+      "publishedAt": "2026-06-28T00:51:22Z",
+      "detectedAt": "2026-06-28T04:50:49.159Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.2-nightly.20260628.714513df2 --> ## What's Changed * fix(core): allow web_fetch JSON fallback by @tt-a1i in https://github.com/QwenLM/qwen-code/pull/5660 * chore(release): v0.19.2 by @qwen-code-ci-bot in https://github.com/QwenLM/qwen-code/pull/5830 * ci: split platform test matrix into named jobs so PRs can enter the merge queue by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/5833 * fix(ide): ..."
     }
   ],
   "errors": []
