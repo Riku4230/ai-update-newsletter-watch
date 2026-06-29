@@ -1,40 +1,6 @@
 {
-  "checkedAt": "2026-06-29T06:20:45.143Z",
+  "checkedAt": "2026-06-29T11:28:19.218Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.142.4",
-      "version": "rust-v0.142.4",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.4",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.143.0-alpha.29",
-      "publishedAt": "2026-06-29T05:04:25Z",
-      "detectedAt": "2026-06-29T06:20:45.143Z",
-      "summaryText": "## Chores - No user-facing changes were identified for this release. ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.142.3...rust-v0.142.4"
-    },
-    {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.142.4",
-      "version": "0.142.4",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.142.4",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "npm"
-      ],
-      "previousVersion": "0.142.3",
-      "publishedAt": "2026-06-29T05:07:05.914Z",
-      "detectedAt": "2026-06-29T06:20:45.143Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
-    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -49,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-29T06:20:45.143Z",
+      "detectedAt": "2026-06-29T11:28:19.218Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -66,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-29T06:20:45.143Z",
+      "detectedAt": "2026-06-29T11:28:19.218Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -83,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-29T06:20:45.143Z",
+      "detectedAt": "2026-06-29T11:28:19.218Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.51.0-nightly.20260629.gae0a3aa7b",
-      "version": "v0.51.0-nightly.20260629.gae0a3aa7b",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.51.0-nightly.20260629.gae0a3aa7b",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.51.0-nightly.20260628.gae0a3aa7b",
-      "publishedAt": "2026-06-29T01:48:28Z",
-      "detectedAt": "2026-06-29T06:20:45.143Z",
-      "summaryText": "**Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.51.0-nightly.20260628.gae0a3aa7b...v0.51.0-nightly.20260629.gae0a3aa7b"
     }
   ],
   "errors": []
