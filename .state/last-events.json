@@ -1,6 +1,75 @@
 {
-  "checkedAt": "2026-06-30T23:41:25.591Z",
+  "checkedAt": "2026-07-01T01:56:23.922Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.142.5",
+      "version": "rust-v0.142.5",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.5",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.142.4",
+      "publishedAt": "2026-07-01T01:15:44Z",
+      "detectedAt": "2026-07-01T01:56:23.922Z",
+      "summaryText": "## Bug Fixes - Prevented full Responses WebSocket request payloads from being written to trace logs. (#30771) ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.142.4...rust-v0.142.5 - #30771 [codex] Backport websocket trace fix to release/0.142 @dylan-hurd-oai"
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.142.5",
+      "version": "0.142.5",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.142.5",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.142.4",
+      "publishedAt": "2026-07-01T01:18:19.998Z",
+      "detectedAt": "2026-07-01T01:56:23.922Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Changelog – Codex | OpenAI Developers",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-01T01:56:23.922Z",
+      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learn..."
+    },
+    {
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
+      "type": "webpage",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "version": null,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-01T01:56:23.922Z",
+      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-30T23:41:25.591Z",
+      "detectedAt": "2026-07-01T01:56:23.922Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,8 +101,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-06-30T23:41:25.591Z",
+      "detectedAt": "2026-07-01T01:56:23.922Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.51.0-nightly.20260701.g7f00c5fe5",
+      "version": "v0.51.0-nightly.20260701.g7f00c5fe5",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.51.0-nightly.20260701.g7f00c5fe5",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.51.0-nightly.20260630.gae0a3aa7b",
+      "publishedAt": "2026-07-01T01:49:23Z",
+      "detectedAt": "2026-07-01T01:56:23.922Z",
+      "summaryText": "## What's Changed * fix(core-tools): resolve defensive path resolution for at-reference files and fix macOS tests by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28053 * feat(caretaker): implement Cloud Run webhook ingestion service by @chadd28 in https://github.com/google-gemini/gemini-cli/pull/28015 ## New Contributors * @chadd28 made their first contribution in https://github.com/google-gemini/gemini-cli/pull/28015 **Full Changelog**: https://github.com/google-gemini..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.19.3-nightly.20260701.a974594d7",
+      "version": "v0.19.3-nightly.20260701.a974594d7",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.3-nightly.20260701.a974594d7",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.19.3-nightly.20260630.e00fe6a27",
+      "publishedAt": "2026-07-01T00:57:41Z",
+      "detectedAt": "2026-07-01T01:56:23.922Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.3-nightly.20260701.a974594d7 --> ## What's Changed * docs(daemon): refresh daemon docs for recent PRs (wave 2) by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/5954 * feat(core): add configurable auto-compact threshold and Stop hook context usage (#4025) by @ZijianZhang989 in https://github.com/QwenLM/qwen-code/pull/5868 * ci(review): increase PR review timeout from 90 to 120 minutes by @wenshao ..."
     }
   ],
   "errors": []
