@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-02T15:26:47.239Z",
+  "checkedAt": "2026-07-02T17:08:22.957Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-02T15:26:47.239Z",
+      "detectedAt": "2026-07-02T17:08:22.957Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-02T15:26:47.239Z",
+      "detectedAt": "2026-07-02T17:08:22.957Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.5",
-      "version": "v0.19.5",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.5",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.4-nightly.20260702.46814e4f1",
-      "publishedAt": "2026-07-02T13:36:05Z",
-      "detectedAt": "2026-07-02T15:26:47.239Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.5 --> ## What's Changed * feat(cli): Harden daemon-managed channel worker by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/6098 * fix(web-shell): defer session creation until first prompt by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6066 * docs: document model/auth settings, /model --vision, and --safe-mode by @DragonnZhang in https://github.com/QwenLM/qwen-code/pull/6028 * fix(cli): cl..."
     }
   ],
   "errors": []
