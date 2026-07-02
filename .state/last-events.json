@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-07-02T01:49:30.314Z",
+  "checkedAt": "2026-07-02T05:43:20.852Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.143.0-alpha.33",
+      "version": "rust-v0.143.0-alpha.33",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.33",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.142.5",
+      "publishedAt": "2026-07-02T01:58:50Z",
+      "detectedAt": "2026-07-02T05:43:20.852Z",
+      "summaryText": "Release 0.143.0-alpha.33"
+    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-02T01:49:30.314Z",
+      "detectedAt": "2026-07-02T05:43:20.852Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -32,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-02T01:49:30.314Z",
+      "detectedAt": "2026-07-02T05:43:20.852Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -49,42 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-02T01:49:30.314Z",
+      "detectedAt": "2026-07-02T05:43:20.852Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.51.0-nightly.20260702.gff00dacd9",
-      "version": "v0.51.0-nightly.20260702.gff00dacd9",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.51.0-nightly.20260702.gff00dacd9",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.51.0-nightly.20260701.g7f00c5fe5",
-      "publishedAt": "2026-07-02T01:44:11Z",
-      "detectedAt": "2026-07-02T01:49:30.314Z",
-      "summaryText": "## What's Changed * fix(core): resolve symbolic link directory escape in memory import processor by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28233 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.51.0-nightly.20260701.g7f00c5fe5...v0.51.0-nightly.20260702.gff00dacd9"
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.4-nightly.20260702.46814e4f1",
-      "version": "v0.19.4-nightly.20260702.46814e4f1",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.4-nightly.20260702.46814e4f1",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.4",
-      "publishedAt": "2026-07-02T00:58:06Z",
-      "detectedAt": "2026-07-02T01:49:30.314Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.4-nightly.20260702.46814e4f1 --> ## What's Changed * feat(cli): Harden daemon-managed channel worker by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/6098 * fix(web-shell): defer session creation until first prompt by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6066 * docs: document model/auth settings, /model --vision, and --safe-mode by @DragonnZhang in https://github.com/QwenLM/qwen-co..."
     }
   ],
   "errors": []
