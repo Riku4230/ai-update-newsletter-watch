@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-07-03T04:57:05.746Z",
+  "checkedAt": "2026-07-03T07:56:18.773Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.143.0-alpha.35",
-      "version": "rust-v0.143.0-alpha.35",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.35",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.143.0-alpha.34",
-      "publishedAt": "2026-07-03T02:33:31Z",
-      "detectedAt": "2026-07-03T04:57:05.746Z",
-      "summaryText": "Release 0.143.0-alpha.35"
-    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -32,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-03T04:57:05.746Z",
+      "detectedAt": "2026-07-03T07:56:18.773Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -49,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-03T04:57:05.746Z",
+      "detectedAt": "2026-07-03T07:56:18.773Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -66,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-03T04:57:05.746Z",
+      "detectedAt": "2026-07-03T07:56:18.773Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.51.0-nightly.20260703.gf7af4e518",
-      "version": "v0.51.0-nightly.20260703.gf7af4e518",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.51.0-nightly.20260703.gf7af4e518",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.51.0-nightly.20260702.gff00dacd9",
-      "publishedAt": "2026-07-03T01:52:36Z",
-      "detectedAt": "2026-07-03T04:57:05.746Z",
-      "summaryText": "## What's Changed * feat(caretaker): egress cloud run service skeleton by @chadd28 in https://github.com/google-gemini/gemini-cli/pull/28167 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.51.0-nightly.20260702.gff00dacd9...v0.51.0-nightly.20260703.gf7af4e518"
     }
   ],
   "errors": []
