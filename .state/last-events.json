@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-03T17:43:36.216Z",
+  "checkedAt": "2026-07-03T18:50:31.075Z",
   "events": [
     {
       "sourceId": "claude-code-changelog",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-03T17:43:36.216Z",
+      "detectedAt": "2026-07-03T18:50:31.075Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -32,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-03T17:43:36.216Z",
+      "detectedAt": "2026-07-03T18:50:31.075Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.200",
-      "version": "2.1.200",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.200",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.199",
-      "publishedAt": "2026-07-03T04:33:49.616Z",
-      "detectedAt": "2026-07-03T17:43:36.216Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -66,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-03T17:43:36.216Z",
+      "detectedAt": "2026-07-03T18:50:31.075Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.6",
-      "version": "v0.19.6",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.6",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.5-nightly.20260703.b16baf1ff",
-      "publishedAt": "2026-07-03T16:36:59Z",
-      "detectedAt": "2026-07-03T17:43:36.216Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.6 --> ## What's Changed * fix(web-shell): cut mobile session-switch jank (memoized timeline signature, replay-first dispatch) by @qqqys in https://github.com/QwenLM/qwen-code/pull/6183 * fix: resolve macOS seatbelt profile path from bundle dir, not chunks/ by @mvanhorn in https://github.com/QwenLM/qwen-code/pull/6172 * fix(cli): add bootstrap fast paths by @gauravyad86 in https://github.com/QwenLM/qwen-co..."
     }
   ],
   "errors": []
