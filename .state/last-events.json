@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-07-04T23:35:30.193Z",
+  "checkedAt": "2026-07-05T01:18:56.949Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.143.0-alpha.36",
+      "version": "rust-v0.143.0-alpha.36",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.36",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.143.0-alpha.35",
+      "publishedAt": "2026-07-05T01:02:44Z",
+      "detectedAt": "2026-07-05T01:18:56.949Z",
+      "summaryText": "Release 0.143.0-alpha.36"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-04T23:35:30.193Z",
+      "detectedAt": "2026-07-05T01:18:56.949Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-04T23:35:30.193Z",
+      "detectedAt": "2026-07-05T01:18:56.949Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.19.6-nightly.20260705.015ee4248",
+      "version": "v0.19.6-nightly.20260705.015ee4248",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.6-nightly.20260705.015ee4248",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.19.6-nightly.20260704.5dc2e1501",
+      "publishedAt": "2026-07-05T00:48:31Z",
+      "detectedAt": "2026-07-05T01:18:56.949Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.6-nightly.20260705.015ee4248 --> ## What's Changed * fix(triage): strengthen PR gate with batch detection, problem existence check, and red flag patterns by @pomelo-nwu in https://github.com/QwenLM/qwen-code/pull/5723 * feat(review): route suggestion-level findings to an updatable PR comment by @pomelo-nwu in https://github.com/QwenLM/qwen-code/pull/5786 * fix(autofix): unconditionally restore tracked fil..."
     }
   ],
   "errors": []
