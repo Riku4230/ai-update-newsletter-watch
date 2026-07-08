@@ -1,22 +1,57 @@
 {
-  "checkedAt": "2026-07-08T01:06:00.644Z",
+  "checkedAt": "2026-07-08T04:24:34.685Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.143.0-alpha.39",
-      "version": "rust-v0.143.0-alpha.39",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0-alpha.39",
+      "title": "openai/codex 0.143.0",
+      "version": "rust-v0.143.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.143.0-alpha.38",
-      "publishedAt": "2026-07-07T23:52:33Z",
-      "detectedAt": "2026-07-08T01:06:00.644Z",
-      "summaryText": "Release 0.143.0-alpha.39"
+      "previousVersion": "rust-v0.143.0-alpha.39",
+      "publishedAt": "2026-07-08T01:31:10Z",
+      "detectedAt": "2026-07-08T04:24:34.685Z",
+      "summaryText": "## New Features - Remote plugins are now enabled by default, with richer catalog rows, npm marketplace sources, and visible remote/local versions. (#30297, #26705, #29375, #30981) - Codex can route authentication and Responses API traffic through macOS and Windows system proxies, including PAC and WPAD configurations. (#26708, #26709, #31335) - Added `codex remote-control pair` for generating manual pairing codes from a running daemon. (#29913) - Added Amazon Bedrock GPT-5.6 Sol, Terra, and L..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.143.0",
+      "version": "0.143.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.143.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.142.5",
+      "publishedAt": "2026-07-08T01:34:38.318Z",
+      "detectedAt": "2026-07-08T04:24:34.685Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Changelog – Codex | OpenAI Developers",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-08T04:24:34.685Z",
+      "summaryText": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learn..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,25 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-08T01:06:00.644Z",
+      "detectedAt": "2026-07-08T04:24:34.685Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.204",
-      "version": "2.1.204",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.204",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.203",
-      "publishedAt": "2026-07-08T00:04:57.555Z",
-      "detectedAt": "2026-07-08T01:06:00.644Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -66,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-08T01:06:00.644Z",
+      "detectedAt": "2026-07-08T04:24:34.685Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -83,25 +101,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-08T01:06:00.644Z",
+      "detectedAt": "2026-07-08T04:24:34.685Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.7-nightly.20260708.394c1a289",
-      "version": "v0.19.7-nightly.20260708.394c1a289",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.7-nightly.20260708.394c1a289",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.7",
-      "publishedAt": "2026-07-08T00:48:59Z",
-      "detectedAt": "2026-07-08T01:06:00.644Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.7-nightly.20260708.394c1a289 --> ## What's Changed * docs(channels): add WeCom to channels overview by @DragonnZhang in https://github.com/QwenLM/qwen-code/pull/6490 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.19.7...v0.19.7-nightly.20260708.394c1a289"
     }
   ],
   "errors": []
