@@ -1,6 +1,24 @@
 {
-  "checkedAt": "2026-07-10T02:07:57.125Z",
+  "checkedAt": "2026-07-10T06:13:11.712Z",
   "events": [
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Codex changelog | ChatGPT Learn",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-10T06:13:11.712Z",
+      "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resource..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-10T02:07:57.125Z",
+      "detectedAt": "2026-07-10T06:13:11.712Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-10T02:07:57.125Z",
+      "detectedAt": "2026-07-10T06:13:11.712Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,26 +67,43 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-10T02:07:57.125Z",
+      "detectedAt": "2026-07-10T06:13:11.712Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.52.0-nightly.20260710.ga4c91ce19",
+      "version": "v0.52.0-nightly.20260710.ga4c91ce19",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0-nightly.20260710.ga4c91ce19",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.51.0-preview.0",
+      "publishedAt": "2026-07-10T01:43:08Z",
+      "detectedAt": "2026-07-10T06:13:11.712Z",
+      "summaryText": "## What's Changed * fix(core): strip thoughts from scrubbed history turns and resolve thought leakage by @amelidev in https://github.com/google-gemini/gemini-cli/pull/27971 * Refactor: exclude transient CI configuration files from workspace context by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/28216 * feat(caretaker-triage): add triage worker core foundational modules by @chadd28 in https://github.com/google-gemini/gemini-cli/pull/28163 * feat(caretaker-egress): impleme..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.19.8-nightly.20260710.205430235",
+      "version": "v0.19.8-nightly.20260710.205430235",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.8-nightly.20260710.205430235",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "cua-driver-rs-v0.7.1",
+      "publishedAt": "2026-07-10T00:51:26Z",
+      "detectedAt": "2026-07-10T06:13:11.712Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.8-nightly.20260710.205430235 --> ## What's Changed * Stop repeated subagent tool-call loops by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/6543 * fix(session): detect and mark broken history chains instead of silently truncating by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/6502 * fix(cli): prefer command name match over alias match regardless of recentScore by @Alex-ai-future in h..."
     }
   ],
-  "errors": [
-    {
-      "source": "openai-codex-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/openai/codex/releases?per_page=1"
-    },
-    {
-      "source": "gemini-cli-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/google-gemini/gemini-cli/releases?per_page=1"
-    },
-    {
-      "source": "deepseek-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/deepseek-ai/DeepSeek-V3/releases?per_page=1"
-    },
-    {
-      "source": "qwen-code-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/QwenLM/qwen-code/releases?per_page=1"
-    }
-  ]
+  "errors": []
 }
