@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-07-11T03:36:05.363Z",
+  "checkedAt": "2026-07-11T05:58:24.311Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.145.0-alpha.4",
-      "version": "rust-v0.145.0-alpha.4",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.145.0-alpha.4",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.145.0-alpha.3",
-      "publishedAt": "2026-07-11T00:10:19Z",
-      "detectedAt": "2026-07-11T03:36:05.363Z",
-      "summaryText": "Release 0.145.0-alpha.4"
-    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -32,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-11T03:36:05.363Z",
+      "detectedAt": "2026-07-11T05:58:24.311Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -49,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-11T03:36:05.363Z",
+      "detectedAt": "2026-07-11T05:58:24.311Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.207",
-      "version": "2.1.207",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.207",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.206",
-      "publishedAt": "2026-07-10T22:25:09.430Z",
-      "detectedAt": "2026-07-11T03:36:05.363Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -83,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-11T03:36:05.363Z",
+      "detectedAt": "2026-07-11T05:58:24.311Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -100,25 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-11T03:36:05.363Z",
+      "detectedAt": "2026-07-11T05:58:24.311Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.8-nightly.20260711.0ef3a76bd",
-      "version": "v0.19.8-nightly.20260711.0ef3a76bd",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.8-nightly.20260711.0ef3a76bd",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.9",
-      "publishedAt": "2026-07-11T00:42:27Z",
-      "detectedAt": "2026-07-11T03:36:05.363Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.8-nightly.20260711.0ef3a76bd --> ## What's Changed * fix(core): keep YOLO mode when the model calls enter_plan_mode by @Nas01010101 in https://github.com/QwenLM/qwen-code/pull/6630 * feat(cli): forward ask_user_question answers from SDK can_use_tool by @TianYuan1024 in https://github.com/QwenLM/qwen-code/pull/6655 * fix(cli): localize approval mode UI labels by @han-dreamer in https://github.com/QwenLM/qw..."
     }
   ],
   "errors": []
