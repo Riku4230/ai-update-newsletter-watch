@@ -1,40 +1,6 @@
 {
-  "checkedAt": "2026-07-13T06:40:06.755Z",
+  "checkedAt": "2026-07-13T09:56:12.956Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.144.3",
-      "version": "rust-v0.144.3",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.3",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.145.0-alpha.4",
-      "publishedAt": "2026-07-13T06:12:19Z",
-      "detectedAt": "2026-07-13T06:40:06.755Z",
-      "summaryText": "## Chores - Published a version-only release with no merged pull request changes since `rust-v0.144.2`. ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.144.2...rust-v0.144.3"
-    },
-    {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.144.3",
-      "version": "0.144.3",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.144.3",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "npm"
-      ],
-      "previousVersion": "0.144.1",
-      "publishedAt": "2026-07-13T06:15:20.670Z",
-      "detectedAt": "2026-07-13T06:40:06.755Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
-    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -50,7 +16,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-13T06:40:06.755Z",
+      "detectedAt": "2026-07-13T09:56:12.956Z",
       "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resource..."
     },
     {
@@ -67,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-13T06:40:06.755Z",
+      "detectedAt": "2026-07-13T09:56:12.956Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -84,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-13T06:40:06.755Z",
+      "detectedAt": "2026-07-13T09:56:12.956Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -101,25 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-13T06:40:06.755Z",
+      "detectedAt": "2026-07-13T09:56:12.956Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code desktop-v0.0.5",
-      "version": "desktop-v0.0.5",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/desktop-v0.0.5",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.8-nightly.20260711.0ef3a76bd",
-      "publishedAt": "2026-07-13T03:49:39Z",
-      "detectedAt": "2026-07-13T06:40:06.755Z",
-      "summaryText": "[Full changelog](https://github.com/QwenLM/qwen-code/compare/desktop-v0.0.4...desktop-v0.0.5)"
     }
   ],
   "errors": []
