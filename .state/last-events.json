@@ -1,22 +1,39 @@
 {
-  "checkedAt": "2026-07-14T03:22:18.371Z",
+  "checkedAt": "2026-07-14T05:42:54.277Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.145.0-alpha.9",
-      "version": "rust-v0.145.0-alpha.9",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.145.0-alpha.9",
+      "title": "openai/codex 0.144.4",
+      "version": "rust-v0.144.4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.4",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.144.3",
-      "publishedAt": "2026-07-14T03:06:54Z",
-      "detectedAt": "2026-07-14T03:22:18.371Z",
-      "summaryText": "Release 0.145.0-alpha.9"
+      "previousVersion": "rust-v0.145.0-alpha.9",
+      "publishedAt": "2026-07-14T05:08:11Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
+      "summaryText": "## Chores - No user-facing changes in this patch release. ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.144.3...rust-v0.144.4"
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.144.4",
+      "version": "0.144.4",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.144.4",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.144.3",
+      "publishedAt": "2026-07-14T05:10:51.485Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
     },
     {
       "sourceId": "openai-codex-official-changelog",
@@ -33,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-14T03:22:18.371Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
       "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resource..."
     },
     {
@@ -50,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-14T03:22:18.371Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -67,25 +84,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-14T03:22:18.371Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.208",
-      "version": "2.1.208",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.208",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.207",
-      "publishedAt": "2026-07-13T21:31:27.921Z",
-      "detectedAt": "2026-07-14T03:22:18.371Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -101,7 +101,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-14T03:22:18.371Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -118,42 +118,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-14T03:22:18.371Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.52.0-nightly.20260714.gfa975395b",
-      "version": "v0.52.0-nightly.20260714.gfa975395b",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0-nightly.20260714.gfa975395b",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.52.0-nightly.20260713.gf354eebaf",
-      "publishedAt": "2026-07-14T01:27:01Z",
-      "detectedAt": "2026-07-14T03:22:18.371Z",
-      "summaryText": "## What's Changed * fix(core): enrich shared project quota limit errors with setup hint by @amelidev in https://github.com/google-gemini/gemini-cli/pull/28391 * fix(a2a-server): ensure task cancellation aborts execution loop by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28316 * fix(core): simplify plan mode write policy to support relative paths by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/28398 * feat(core): Bump node google-auth-library versi..."
     },
     {
       "sourceId": "qwen-code-github",
       "sourceName": "Qwen Code GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.9-nightly.20260714.9dd8389eb",
-      "version": "v0.19.9-nightly.20260714.9dd8389eb",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.9-nightly.20260714.9dd8389eb",
+      "title": "QwenLM/qwen-code Release v0.19.10",
+      "version": "v0.19.10",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.10",
       "tags": [
         "coding-agent",
         "qwen",
         "github"
       ],
-      "previousVersion": "desktop-v0.0.5",
-      "publishedAt": "2026-07-14T00:46:47Z",
-      "detectedAt": "2026-07-14T03:22:18.371Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.9-nightly.20260714.9dd8389eb --> ## What's Changed * fix(core): keep YOLO mode when the model calls enter_plan_mode by @Nas01010101 in https://github.com/QwenLM/qwen-code/pull/6630 * feat(cli): forward ask_user_question answers from SDK can_use_tool by @TianYuan1024 in https://github.com/QwenLM/qwen-code/pull/6655 * fix(cli): localize approval mode UI labels by @han-dreamer in https://github.com/QwenLM/qw..."
+      "previousVersion": "v0.19.9-nightly.20260714.9dd8389eb",
+      "publishedAt": "2026-07-14T05:09:17Z",
+      "detectedAt": "2026-07-14T05:42:54.277Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.10 --> ## What's Changed * fix(core): keep YOLO mode when the model calls enter_plan_mode by @Nas01010101 in https://github.com/QwenLM/qwen-code/pull/6630 * feat(cli): forward ask_user_question answers from SDK can_use_tool by @TianYuan1024 in https://github.com/QwenLM/qwen-code/pull/6655 * fix(cli): localize approval mode UI labels by @han-dreamer in https://github.com/QwenLM/qwen-code/pull/6592 * feat(d..."
     }
   ],
   "errors": []
