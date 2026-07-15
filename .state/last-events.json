@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-07-15T03:22:40.286Z",
+  "checkedAt": "2026-07-15T05:43:55.284Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.145.0-alpha.12",
-      "version": "rust-v0.145.0-alpha.12",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.145.0-alpha.12",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.144.4",
-      "publishedAt": "2026-07-15T01:07:37Z",
-      "detectedAt": "2026-07-15T03:22:40.286Z",
-      "summaryText": "Release 0.145.0-alpha.12"
-    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -33,8 +16,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-15T03:22:40.286Z",
-      "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resource..."
+      "detectedAt": "2026-07-15T05:43:55.284Z",
+      "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook No..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-15T03:22:40.286Z",
+      "detectedAt": "2026-07-15T05:43:55.284Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -67,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-15T03:22:40.286Z",
+      "detectedAt": "2026-07-15T05:43:55.284Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -84,42 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-15T03:22:40.286Z",
+      "detectedAt": "2026-07-15T05:43:55.284Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.52.0-nightly.20260715.gfa975395b",
-      "version": "v0.52.0-nightly.20260715.gfa975395b",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0-nightly.20260715.gfa975395b",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.52.0-nightly.20260714.gfa975395b",
-      "publishedAt": "2026-07-15T01:28:44Z",
-      "detectedAt": "2026-07-15T03:22:40.286Z",
-      "summaryText": "**Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.52.0-nightly.20260714.gfa975395b...v0.52.0-nightly.20260715.gfa975395b"
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.10-nightly.20260715.c538bd70d",
-      "version": "v0.19.10-nightly.20260715.c538bd70d",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.10-nightly.20260715.c538bd70d",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.10",
-      "publishedAt": "2026-07-15T00:39:55Z",
-      "detectedAt": "2026-07-15T03:22:40.286Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.10-nightly.20260715.c538bd70d --> ## What's Changed * docs(review): cap PR scope after repeated review rounds by @wenshao in https://github.com/QwenLM/qwen-code/pull/6848 * feat(web-shell): add workspace path lock by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6853 * fix(web-shell): improve file search and composer focus by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6845 * fix(web-shell):..."
     }
   ],
   "errors": []
