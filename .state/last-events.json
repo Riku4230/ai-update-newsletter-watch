@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-16T12:10:16.607Z",
+  "checkedAt": "2026-07-16T14:22:44.889Z",
   "events": [
     {
       "sourceId": "claude-code-changelog",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T12:10:16.607Z",
+      "detectedAt": "2026-07-16T14:22:44.889Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T12:10:16.607Z",
+      "detectedAt": "2026-07-16T14:22:44.889Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -49,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T12:10:16.607Z",
+      "detectedAt": "2026-07-16T14:22:44.889Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -66,8 +66,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T12:10:16.607Z",
+      "detectedAt": "2026-07-16T14:22:44.889Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.19.11",
+      "version": "v0.19.11",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.11",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.19.10-nightly.20260716.506ce0a1a",
+      "publishedAt": "2026-07-16T14:22:22Z",
+      "detectedAt": "2026-07-16T14:22:44.889Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.11 --> ## What's Changed * docs(review): cap PR scope after repeated review rounds by @wenshao in https://github.com/QwenLM/qwen-code/pull/6848 * feat(web-shell): add workspace path lock by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6853 * fix(web-shell): improve file search and composer focus by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6845 * fix(web-shell): prevent composer tag updat..."
     }
   ],
   "errors": []
