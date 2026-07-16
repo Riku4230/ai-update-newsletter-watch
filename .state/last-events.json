@@ -1,22 +1,57 @@
 {
-  "checkedAt": "2026-07-16T01:01:37.390Z",
+  "checkedAt": "2026-07-16T04:17:00.250Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.145.0-alpha.15",
-      "version": "rust-v0.145.0-alpha.15",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.145.0-alpha.15",
+      "title": "openai/codex 0.144.5",
+      "version": "rust-v0.144.5",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.5",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.145.0-alpha.14",
-      "publishedAt": "2026-07-16T00:29:37Z",
-      "detectedAt": "2026-07-16T01:01:37.390Z",
-      "summaryText": "Release 0.145.0-alpha.15"
+      "previousVersion": "rust-v0.145.0-alpha.15",
+      "publishedAt": "2026-07-16T02:54:48Z",
+      "detectedAt": "2026-07-16T04:17:00.250Z",
+      "summaryText": "## Bug Fixes - Improved dangerous-command detection, including more forced `rm` forms, and provides clearer rejection reasons when commands are denied. (#33455) ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.144.4...rust-v0.144.5 - #33455 [release/0.144] fix(core) expand is_dangerous_command @dylan-hurd-oai"
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.144.5",
+      "version": "0.144.5",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.144.5",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.144.4",
+      "publishedAt": "2026-07-16T02:57:51.857Z",
+      "detectedAt": "2026-07-16T04:17:00.250Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Codex changelog | ChatGPT Learn",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-16T04:17:00.250Z",
+      "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook No..."
     },
     {
       "sourceId": "claude-code-changelog",
@@ -32,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T01:01:37.390Z",
+      "detectedAt": "2026-07-16T04:17:00.250Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -49,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T01:01:37.390Z",
+      "detectedAt": "2026-07-16T04:17:00.250Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -66,7 +101,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T01:01:37.390Z",
+      "detectedAt": "2026-07-16T04:17:00.250Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -83,25 +118,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-16T01:01:37.390Z",
+      "detectedAt": "2026-07-16T04:17:00.250Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
     },
     {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.10-nightly.20260716.506ce0a1a",
-      "version": "v0.19.10-nightly.20260716.506ce0a1a",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.10-nightly.20260716.506ce0a1a",
+      "title": "google-gemini/gemini-cli Release v0.52.0-nightly.20260716.g3ff5ba20f",
+      "version": "v0.52.0-nightly.20260716.g3ff5ba20f",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0-nightly.20260716.g3ff5ba20f",
       "tags": [
         "coding-agent",
-        "qwen",
+        "google",
         "github"
       ],
-      "previousVersion": "v0.19.10-nightly.20260715.c538bd70d",
-      "publishedAt": "2026-07-16T00:49:49Z",
-      "detectedAt": "2026-07-16T01:01:37.390Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.10-nightly.20260716.506ce0a1a --> ## What's Changed * docs(review): cap PR scope after repeated review rounds by @wenshao in https://github.com/QwenLM/qwen-code/pull/6848 * feat(web-shell): add workspace path lock by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6853 * fix(web-shell): improve file search and composer focus by @ytahdn in https://github.com/QwenLM/qwen-code/pull/6845 * fix(web-shell):..."
+      "previousVersion": "v0.52.0-nightly.20260715.gfa975395b",
+      "publishedAt": "2026-07-16T01:38:12Z",
+      "detectedAt": "2026-07-16T04:17:00.250Z",
+      "summaryText": "## What's Changed * chore/release: bump version to 0.52.0-nightly.20260715.gfa975395b by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28402 * fix(core,a2a): group cancelled tool responses and coalesce consecutive roles to prevent 400 Bad Request by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28407 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.52.0-nightly.20260715.gfa975395b...v0.52.0-nightly.20260716.g3ff5ba20f"
     }
   ],
   "errors": []
