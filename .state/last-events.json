@@ -1,6 +1,58 @@
 {
-  "checkedAt": "2026-07-18T13:42:17.560Z",
+  "checkedAt": "2026-07-18T14:38:41.929Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.144.6",
+      "version": "rust-v0.144.6",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.6",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.145.0-alpha.23",
+      "publishedAt": "2026-07-18T13:51:52Z",
+      "detectedAt": "2026-07-18T14:38:41.929Z",
+      "summaryText": "## Bug Fixes - Refreshed bundled instructions for GPT-5.6 Sol, Terra, and Luna, and corrected their context windows to 272,000 tokens. (#33972, #34009) ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.144.5...rust-v0.144.6 - #33972 Backport refreshed bundled model metadata to 0.144 @sayan-oai - #34009 Narrow 0.144 hotfix to GPT-5.6 prompts and context @sayan-oai"
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.144.6",
+      "version": "0.144.6",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.144.6",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.144.5",
+      "publishedAt": "2026-07-18T13:54:50.572Z",
+      "detectedAt": "2026-07-18T14:38:41.929Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Codex changelog | ChatGPT Learn",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-18T14:38:41.929Z",
+      "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook No..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,14 +67,14 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-18T13:42:17.560Z",
+      "detectedAt": "2026-07-18T14:38:41.929Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
       "sourceName": "Vertex AI Generative AI Release Notes",
       "type": "webpage",
-      "title": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation",
+      "title": "<!-- \"> '> --><title>",
       "version": null,
       "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
       "tags": [
@@ -32,8 +84,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-18T13:42:17.560Z",
-      "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+      "detectedAt": "2026-07-18T14:38:41.929Z",
+      "summaryText": "'> --> 404. Page Not Found Sorry, we can't find that page 404 error.&nbsp; The requested URL /vertex-ai/generative-ai/docs/release-notes was not found on this server. Back to home"
     },
     {
       "sourceId": "gemini-code-assist-release-notes",
@@ -49,25 +101,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-18T13:42:17.560Z",
+      "detectedAt": "2026-07-18T14:38:41.929Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
     },
     {
       "sourceId": "qwen-code-github",
       "sourceName": "Qwen Code GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.12-preview.0",
-      "version": "v0.19.12-preview.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.12-preview.0",
+      "title": "QwenLM/qwen-code Release v0.19.12",
+      "version": "v0.19.12",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.12",
       "tags": [
         "coding-agent",
         "qwen",
         "github"
       ],
-      "previousVersion": "v0.19.11-nightly.20260718.767a32484",
-      "publishedAt": "2026-07-18T12:39:13Z",
-      "detectedAt": "2026-07-18T13:42:17.560Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.12-preview.0 --> ## What's Changed * feat(daemon): Trace cold first-session startup by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/6907 * fix(serve): Harden multi-workspace ownership guards by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/7005 * docs(serve): Close multi-workspace hardening gaps by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/7019 * feat(web-shell): add archiv..."
+      "previousVersion": "v0.19.12-preview.0",
+      "publishedAt": "2026-07-18T14:37:02Z",
+      "detectedAt": "2026-07-18T14:38:41.929Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.12 --> ## What's Changed * feat(daemon): Trace cold first-session startup by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/6907 * fix(serve): Harden multi-workspace ownership guards by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/7005 * docs(serve): Close multi-workspace hardening gaps by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/7019 * feat(web-shell): add archived session..."
     }
   ],
   "errors": []
