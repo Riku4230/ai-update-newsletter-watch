@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-07-19T03:41:21.220Z",
+  "checkedAt": "2026-07-19T06:15:35.621Z",
   "events": [
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-07-19T03:41:21.220Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -32,31 +15,14 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T03:41:21.220Z",
+      "detectedAt": "2026-07-19T06:15:35.621Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.215",
-      "version": "2.1.215",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.215",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.214",
-      "publishedAt": "2026-07-19T00:53:37.170Z",
-      "detectedAt": "2026-07-19T03:41:21.220Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
       "sourceName": "Vertex AI Generative AI Release Notes",
       "type": "webpage",
-      "title": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation",
+      "title": "<!-- \"> '> --><title>",
       "version": null,
       "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
       "tags": [
@@ -66,8 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T03:41:21.220Z",
-      "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+      "detectedAt": "2026-07-19T06:15:35.621Z",
+      "summaryText": "'> --> 404. Page Not Found Sorry, we can't find that page 404 error.&nbsp; The requested URL /vertex-ai/generative-ai/docs/release-notes was not found on this server. Back to home"
     },
     {
       "sourceId": "gemini-code-assist-release-notes",
@@ -83,42 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T03:41:21.220Z",
+      "detectedAt": "2026-07-19T06:15:35.621Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.52.0-nightly.20260719.gacae7124b",
-      "version": "v0.52.0-nightly.20260719.gacae7124b",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0-nightly.20260719.gacae7124b",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.52.0-nightly.20260718.gacae7124b",
-      "publishedAt": "2026-07-19T01:32:55Z",
-      "detectedAt": "2026-07-19T03:41:21.220Z",
-      "summaryText": "**Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.52.0-nightly.20260718.gacae7124b...v0.52.0-nightly.20260719.gacae7124b"
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.19.12-nightly.20260719.86ad532de",
-      "version": "v0.19.12-nightly.20260719.86ad532de",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.19.12-nightly.20260719.86ad532de",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.19.12",
-      "publishedAt": "2026-07-19T00:51:43Z",
-      "detectedAt": "2026-07-19T03:41:21.220Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.19.12-nightly.20260719.86ad532de --> ## What's Changed * chore(vscode-ide-companion): sync third-party notices and guard against future drift by @wenshao in https://github.com/QwenLM/qwen-code/pull/7161 * feat(cli): Add bounded daemon log rotation by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/6969 * fix(sdk-java): preserve exception cause in AcpClient init failures by @chinesepowered in https://g..."
     }
   ],
   "errors": []
