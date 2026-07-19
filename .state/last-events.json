@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-19T08:32:41.644Z",
+  "checkedAt": "2026-07-19T10:08:56.152Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T08:32:41.644Z",
+      "detectedAt": "2026-07-19T10:08:56.152Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T08:32:41.644Z",
+      "detectedAt": "2026-07-19T10:08:56.152Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,25 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T08:32:41.644Z",
+      "detectedAt": "2026-07-19T10:08:56.152Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
     },
     {
       "sourceId": "qwen-code-github",
       "sourceName": "Qwen Code GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.20.0",
-      "version": "v0.20.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.20.0",
+      "title": "QwenLM/qwen-code Release v0.20.1-preview.7215",
+      "version": "v0.20.1-preview.7215",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.20.1-preview.7215",
       "tags": [
         "coding-agent",
         "qwen",
         "github"
       ],
-      "previousVersion": "v0.19.12-nightly.20260719.86ad532de",
-      "publishedAt": "2026-07-19T07:27:26Z",
-      "detectedAt": "2026-07-19T08:32:41.644Z",
-      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights _See the complete change list below._ ## Breaking Changes No known breaking changes. ## Complete Change List ### Features - feat(cli): Add bounded daemon log rotation ([#6969](https://github.com/QwenLM/qwen-code/pull/6969)) by @doudouOUC - feat(review): bake the round label into a findings role's identity line and key ([#7171](https://github.com/QwenLM/qwen-code/pull/7171)) by @wenshao - feat(webshell): replay ChatRecord history in readonly WebShel..."
+      "previousVersion": "v0.20.0",
+      "publishedAt": "2026-07-19T09:14:15Z",
+      "detectedAt": "2026-07-19T10:08:56.152Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.20.1-preview.7215 --> ## What's Changed * feat(autofix): label-driven takeover and release; fix forced-dispatch green no-op by @wenshao in https://github.com/QwenLM/qwen-code/pull/7165 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.20.0...v0.20.1-preview.7215"
     }
   ],
   "errors": []
