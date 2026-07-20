@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-19T23:11:14.723Z",
+  "checkedAt": "2026-07-20T00:11:49.065Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,14 +15,14 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T23:11:14.723Z",
+      "detectedAt": "2026-07-20T00:11:49.065Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
       "sourceName": "Vertex AI Generative AI Release Notes",
       "type": "webpage",
-      "title": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation",
+      "title": "<!-- \"> '> --><title>",
       "version": null,
       "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
       "tags": [
@@ -32,8 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T23:11:14.723Z",
-      "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
+      "detectedAt": "2026-07-20T00:11:49.065Z",
+      "summaryText": "'> --> 404. Page Not Found Sorry, we can't find that page 404 error.&nbsp; The requested URL /vertex-ai/generative-ai/docs/release-notes was not found on this server. Back to home"
     },
     {
       "sourceId": "gemini-code-assist-release-notes",
@@ -49,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-19T23:11:14.723Z",
+      "detectedAt": "2026-07-20T00:11:49.065Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
     }
   ],
