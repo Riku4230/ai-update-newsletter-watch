@@ -1,40 +1,22 @@
 {
-  "checkedAt": "2026-07-22T03:45:52.771Z",
+  "checkedAt": "2026-07-22T06:14:45.465Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.145.0-alpha.30",
-      "version": "rust-v0.145.0-alpha.30",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.145.0-alpha.30",
+      "title": "openai/codex 0.146.0-alpha.1",
+      "version": "rust-v0.146.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.146.0-alpha.1",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.145.0",
-      "publishedAt": "2026-07-22T01:18:32Z",
-      "detectedAt": "2026-07-22T03:45:52.771Z",
-      "summaryText": "Release 0.145.0-alpha.30"
-    },
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-07-22T03:45:52.771Z",
-      "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook No..."
+      "previousVersion": "rust-v0.145.0-alpha.30",
+      "publishedAt": "2026-07-22T05:01:23Z",
+      "detectedAt": "2026-07-22T06:14:45.465Z",
+      "summaryText": "Release 0.146.0-alpha.1"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-22T03:45:52.771Z",
+      "detectedAt": "2026-07-22T06:14:45.465Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICA..."
     },
     {
@@ -67,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-22T03:45:52.771Z",
+      "detectedAt": "2026-07-22T06:14:45.465Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -84,42 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-22T03:45:52.771Z",
+      "detectedAt": "2026-07-22T06:14:45.465Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.52.0-nightly.20260722.gc776c665b",
-      "version": "v0.52.0-nightly.20260722.gc776c665b",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0-nightly.20260722.gc776c665b",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.52.0-nightly.20260721.gacae7124b",
-      "publishedAt": "2026-07-22T01:26:45Z",
-      "detectedAt": "2026-07-22T03:45:52.771Z",
-      "summaryText": "## What's Changed * fix(a2a-server): enforce workspace trust and task isolation to prevent RCE by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28470 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.52.0-nightly.20260721.gacae7124b...v0.52.0-nightly.20260722.gc776c665b"
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.20.0-preview.0",
-      "version": "v0.20.0-preview.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.20.0-preview.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.20.1",
-      "publishedAt": "2026-07-22T00:53:32Z",
-      "detectedAt": "2026-07-22T03:45:52.771Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.20.0-preview.0 --> ## What's Changed * test(telemetry): Cover daemon metrics init ordering and document metricReader asymmetry by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/7456 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.20.1...v0.20.0-preview.0"
     }
   ],
   "errors": []
