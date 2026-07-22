@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-07-22T06:14:45.465Z",
+  "checkedAt": "2026-07-22T08:44:19.389Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.146.0-alpha.1",
-      "version": "rust-v0.146.0-alpha.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.146.0-alpha.1",
+      "title": "openai/codex 0.146.0-alpha.2",
+      "version": "rust-v0.146.0-alpha.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.146.0-alpha.2",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.145.0-alpha.30",
-      "publishedAt": "2026-07-22T05:01:23Z",
-      "detectedAt": "2026-07-22T06:14:45.465Z",
-      "summaryText": "Release 0.146.0-alpha.1"
+      "previousVersion": "rust-v0.146.0-alpha.1",
+      "publishedAt": "2026-07-22T07:22:20Z",
+      "detectedAt": "2026-07-22T08:44:19.389Z",
+      "summaryText": "Release 0.146.0-alpha.2"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-22T06:14:45.465Z",
+      "detectedAt": "2026-07-22T08:44:19.389Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICA..."
     },
     {
@@ -49,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-22T06:14:45.465Z",
+      "detectedAt": "2026-07-22T08:44:19.389Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -66,7 +66,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-22T06:14:45.465Z",
+      "detectedAt": "2026-07-22T08:44:19.389Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
     }
   ],
