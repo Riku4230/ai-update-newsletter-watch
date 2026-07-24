@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-24T12:06:45.970Z",
+  "checkedAt": "2026-07-24T14:05:41.839Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-24T12:06:45.970Z",
+      "detectedAt": "2026-07-24T14:05:41.839Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICA..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-24T12:06:45.970Z",
+      "detectedAt": "2026-07-24T14:05:41.839Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-24T12:06:45.970Z",
+      "detectedAt": "2026-07-24T14:05:41.839Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.21.0",
+      "version": "v0.21.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.0",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.20.1-nightly.20260724.7d17c44a3",
+      "publishedAt": "2026-07-24T13:32:48Z",
+      "detectedAt": "2026-07-24T14:05:41.839Z",
+      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights _See the complete change list below._ ## Breaking Changes No known breaking changes. ## Complete Change List ### Features - feat(web-shell): add workspace selector button with add/switch dropdown in composer toolbar ([#7390](https://github.com/QwenLM/qwen-code/pull/7390)) by @water-in-stone - feat(web-shell): show subagent sessions in detail panel ([#7380](https://github.com/QwenLM/qwen-code/pull/7380)) by @ytahdn - feat(web-shell): add rendered fi..."
     }
   ],
   "errors": []
