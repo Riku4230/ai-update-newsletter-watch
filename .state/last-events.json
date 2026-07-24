@@ -1,40 +1,22 @@
 {
-  "checkedAt": "2026-07-24T03:43:50.913Z",
+  "checkedAt": "2026-07-24T06:13:26.476Z",
   "events": [
     {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.146.0-alpha.6",
+      "version": "rust-v0.146.0-alpha.6",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.146.0-alpha.6",
       "tags": [
         "coding-agent",
-        "openai",
         "codex",
-        "docs"
+        "github"
       ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-07-24T03:43:50.913Z",
-      "summaryText": "Codex changelog | ChatGPT Learn ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook No..."
-    },
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-07-24T03:43:50.913Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
+      "previousVersion": "rust-v0.146.0-alpha.5",
+      "publishedAt": "2026-07-24T05:31:18Z",
+      "detectedAt": "2026-07-24T06:13:26.476Z",
+      "summaryText": "Release 0.146.0-alpha.6"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,25 +32,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-24T03:43:50.913Z",
+      "detectedAt": "2026-07-24T06:13:26.476Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICA..."
-    },
-    {
-      "sourceId": "gemini-api-changelog",
-      "sourceName": "Gemini API Changelog",
-      "type": "webpage",
-      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
-      "version": null,
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "tags": [
-        "google",
-        "gemini",
-        "api"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-07-24T03:43:50.913Z",
-      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Get Started API keys Pricing Coding agent setup Models All mod..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -84,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-24T03:43:50.913Z",
+      "detectedAt": "2026-07-24T06:13:26.476Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -101,25 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-24T03:43:50.913Z",
+      "detectedAt": "2026-07-24T06:13:26.476Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.20.1-nightly.20260724.7d17c44a3",
-      "version": "v0.20.1-nightly.20260724.7d17c44a3",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.20.1-nightly.20260724.7d17c44a3",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.20.0-preview.0",
-      "publishedAt": "2026-07-24T00:50:59Z",
-      "detectedAt": "2026-07-24T03:43:50.913Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.20.1-nightly.20260724.7d17c44a3 --> ## What's Changed * test(telemetry): Cover daemon metrics init ordering and document metricReader asymmetry by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/7456 * perf(startup): Load undici lazily behind package-local dynamic imports by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/7455 * fix(autofix): keep a still-red check visible until its head is jud..."
     }
   ],
   "errors": []
