@@ -1,23 +1,22 @@
 {
-  "checkedAt": "2026-07-28T04:18:16.008Z",
+  "checkedAt": "2026-07-28T06:42:25.745Z",
   "events": [
     {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.146.0-alpha.14",
+      "version": "rust-v0.146.0-alpha.14",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.146.0-alpha.14",
       "tags": [
         "coding-agent",
-        "openai",
         "codex",
-        "docs"
+        "github"
       ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-07-28T04:18:16.008Z",
-      "summaryText": "Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads P..."
+      "previousVersion": "rust-v0.146.0-alpha.13",
+      "publishedAt": "2026-07-28T04:28:19Z",
+      "detectedAt": "2026-07-28T06:42:25.745Z",
+      "summaryText": "Release 0.146.0-alpha.14"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -33,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-28T04:18:16.008Z",
+      "detectedAt": "2026-07-28T06:42:25.745Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION..."
     },
     {
@@ -50,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-28T04:18:16.008Z",
+      "detectedAt": "2026-07-28T06:42:25.745Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -67,25 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-28T04:18:16.008Z",
+      "detectedAt": "2026-07-28T06:42:25.745Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.54.0-nightly.20260728.gbef611950",
-      "version": "v0.54.0-nightly.20260728.gbef611950",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.54.0-nightly.20260728.gbef611950",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.54.0-nightly.20260727.g3818efbbf",
-      "publishedAt": "2026-07-28T01:28:20Z",
-      "detectedAt": "2026-07-28T04:18:16.008Z",
-      "summaryText": "## What's Changed * fix(a2a-server): normalize CRLF line endings to LF in getProposedContent by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28531 * fix(core): enforce explicit tag length and validation in file keychain by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28523 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.54.0-nightly.20260727.g3818efbbf...v0.54.0-nightly.20260728.gbef611950"
     }
   ],
   "errors": []
