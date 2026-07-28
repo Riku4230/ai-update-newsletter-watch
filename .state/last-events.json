@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-28T22:12:37.977Z",
+  "checkedAt": "2026-07-28T23:15:01.732Z",
   "events": [
     {
       "sourceId": "openai-codex-official-changelog",
@@ -16,8 +16,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-28T22:12:37.977Z",
+      "detectedAt": "2026-07-28T23:15:01.732Z",
       "summaryText": "Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads P..."
+    },
+    {
+      "sourceId": "claude-code-release-notes",
+      "sourceName": "Claude Code Release Notes",
+      "type": "webpage",
+      "title": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub",
+      "version": null,
+      "url": "https://docs.anthropic.com/en/release-notes/claude-code",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-28T23:15:01.732Z",
+      "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -33,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-28T22:12:37.977Z",
+      "detectedAt": "2026-07-28T23:15:01.732Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -50,31 +67,9 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-28T22:12:37.977Z",
+      "detectedAt": "2026-07-28T23:15:01.732Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.54.0-preview.0",
-      "version": "v0.54.0-preview.0",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.54.0-preview.0",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.54.0-nightly.20260728.gbef611950",
-      "publishedAt": "2026-07-28T21:37:03Z",
-      "detectedAt": "2026-07-28T22:12:37.977Z",
-      "summaryText": "## What's Changed * Changelog for v0.53.0-preview.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28507 * Changelog for v0.52.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28508 * chore(release): bump version to 0.54.0-nightly.20260722.gf743ab579 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28510 * fix(caretaker): sanitize and wrap issue title in untrusted_context by @chadd28 in https://github.com/google-gemin..."
     }
   ],
-  "errors": [
-    {
-      "source": "claude-code-release-notes",
-      "message": "fetch failed"
-    }
-  ]
+  "errors": []
 }
