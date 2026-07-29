@@ -1,6 +1,75 @@
 {
-  "checkedAt": "2026-07-29T00:08:36.970Z",
+  "checkedAt": "2026-07-29T03:31:47.048Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.146.0",
+      "version": "rust-v0.146.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.146.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.146.0-alpha.14",
+      "publishedAt": "2026-07-29T01:42:51Z",
+      "detectedAt": "2026-07-29T03:31:47.048Z",
+      "summaryText": "## New Features - Name new sessions with `/new` or `/clear`, pin important threads, and switch between side conversations without closing them. (#34605, #34840, #35011) - Support Agent Plugins manifests, workspace plugin publishing, and additional plugin marketplaces for Amazon Bedrock and Claude Code. (#35105, #35254, #34931, #34979) - Fork threads with paginated history, including temporary forks that do not appear in thread listings. (#35220, #35251) - Connect app-server to remote Code Mod..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.146.0",
+      "version": "0.146.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.146.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.145.0",
+      "publishedAt": "2026-07-29T01:45:57.696Z",
+      "detectedAt": "2026-07-29T03:31:47.048Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "Codex changelog | ChatGPT Learn",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-29T03:31:47.048Z",
+      "summaryText": "Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads P..."
+    },
+    {
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
+      "type": "webpage",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "version": null,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-07-29T03:31:47.048Z",
+      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-29T00:08:36.970Z",
+      "detectedAt": "2026-07-29T03:31:47.048Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION..."
     },
     {
@@ -32,7 +101,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-29T00:08:36.970Z",
+      "detectedAt": "2026-07-29T03:31:47.048Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,8 +118,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-07-29T00:08:36.970Z",
+      "detectedAt": "2026-07-29T03:31:47.048Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.55.0-nightly.20260729.g3499c84f7",
+      "version": "v0.55.0-nightly.20260729.g3499c84f7",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.0-nightly.20260729.g3499c84f7",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.54.0-preview.0",
+      "publishedAt": "2026-07-29T01:29:18Z",
+      "detectedAt": "2026-07-29T03:31:47.048Z",
+      "summaryText": "## What's Changed * chore/release: bump version to 0.54.0-nightly.20260728.gbef611950 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28552 * feat(pr-generator-db): implement Firestore concurrency dual-locking and test ingestion utilities by @joneba-google in https://github.com/google-gemini/gemini-cli/pull/28432 * feat(pr-generator-agent): implement Antigravity agent runner and prompt templates … by @joneba-google in https://github.com/google-gemini/gemini-cli/pull/2..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.21.0-nightly.20260729.0c0ca5fed",
+      "version": "v0.21.0-nightly.20260729.0c0ca5fed",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.0-nightly.20260729.0c0ca5fed",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.21.1",
+      "publishedAt": "2026-07-29T00:51:56Z",
+      "detectedAt": "2026-07-29T03:31:47.048Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.0-nightly.20260729.0c0ca5fed --> ## What's Changed * feat(autofix): defer suggestions after five change rounds by @qqqys in https://github.com/QwenLM/qwen-code/pull/7913 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.21.1...v0.21.0-nightly.20260729.0c0ca5fed"
     }
   ],
   "errors": []
