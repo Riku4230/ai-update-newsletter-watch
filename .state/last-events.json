@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-03T01:00:31.351Z",
+  "checkedAt": "2026-08-03T04:37:55.866Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-03T01:00:31.351Z",
+      "detectedAt": "2026-08-03T04:37:55.866Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-03T01:00:31.351Z",
+      "detectedAt": "2026-08-03T04:37:55.866Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,25 +49,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-03T01:00:31.351Z",
+      "detectedAt": "2026-08-03T04:37:55.866Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.55.0-nightly.20260803.gf47d6c6f7",
+      "version": "v0.55.0-nightly.20260803.gf47d6c6f7",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.0-nightly.20260803.gf47d6c6f7",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.55.0-nightly.20260802.gf47d6c6f7",
+      "publishedAt": "2026-08-03T01:34:43Z",
+      "detectedAt": "2026-08-03T04:37:55.866Z",
+      "summaryText": "**Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.55.0-nightly.20260802.gf47d6c6f7...v0.55.0-nightly.20260803.gf47d6c6f7"
     },
     {
       "sourceId": "qwen-code-github",
       "sourceName": "Qwen Code GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.21.3-nightly.20260803.e1e5b42ce",
-      "version": "v0.21.3-nightly.20260803.e1e5b42ce",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.3-nightly.20260803.e1e5b42ce",
+      "title": "QwenLM/qwen-code Release v0.21.4",
+      "version": "v0.21.4",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.4",
       "tags": [
         "coding-agent",
         "qwen",
         "github"
       ],
-      "previousVersion": "v0.21.3-nightly.20260802.184365390",
-      "publishedAt": "2026-08-03T00:52:43Z",
-      "detectedAt": "2026-08-03T01:00:31.351Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.3-nightly.20260803.e1e5b42ce --> ## What's Changed * docs: complete TUI keyboard shortcut reference by @DragonnZhang in https://github.com/QwenLM/qwen-code/pull/8327 * fix(core): unblock history pagination on oversized transcript turns by @wenshao in https://github.com/QwenLM/qwen-code/pull/8335 * fix(ci): ensure qwen CLI before triage action to avoid redundant install by @yiliang114 in https://github.com..."
+      "previousVersion": "v0.21.3-nightly.20260803.e1e5b42ce",
+      "publishedAt": "2026-08-03T04:19:14Z",
+      "detectedAt": "2026-08-03T04:37:55.866Z",
+      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights - Web Shell is now a release-ready desktop app with native lifecycle management, single-instance behavior, and automatic updates. ([#8132](https://github.com/QwenLM/qwen-code/pull/8132)) - Web Shell history pagination now handles oversized turns gracefully and includes a retry button to reload failed pages without restarting sessions. ([#8335](https://github.com/QwenLM/qwen-code/pull/8335)) - Forked subagents are now isolated from sibling forks, en..."
     }
   ],
   "errors": []
