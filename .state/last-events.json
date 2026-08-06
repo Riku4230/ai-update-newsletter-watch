@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-08-06T00:09:51.837Z",
+  "checkedAt": "2026-08-06T03:31:08.862Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.147.0-alpha.13",
+      "version": "rust-v0.147.0-alpha.13",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.147.0-alpha.13",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.146.1",
+      "publishedAt": "2026-08-06T01:12:59Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
+      "summaryText": "Release 0.147.0-alpha.13"
+    },
     {
       "sourceId": "claude-code-changelog",
       "sourceName": "Claude Code Changelog",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-06T00:09:51.837Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
@@ -32,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-06T00:09:51.837Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.223",
+      "version": "2.1.223",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.223",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.222",
+      "publishedAt": "2026-08-05T22:51:13.206Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,7 +83,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-06T00:09:51.837Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -66,8 +100,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-06T00:09:51.837Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.55.0-preview.1",
+      "version": "v0.55.0-preview.1",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.0-preview.1",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.55.0-nightly.20260803.gf47d6c6f7",
+      "publishedAt": "2026-08-06T01:26:41Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
+      "summaryText": "## What's Changed * chore(release): bump version to 0.55.0-nightly.20260728.gd29268d36 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28569 * Changelog for v0.54.0-preview.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28567 * Changelog for v0.53.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28568 * chore/release: bump version to 0.55.0-nightly.20260729.g3499c84f7 by @gemini-cli-robot in https://github.com/goog..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.21.6-nightly.20260806.cb3dc107f",
+      "version": "v0.21.6-nightly.20260806.cb3dc107f",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.6-nightly.20260806.cb3dc107f",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.21.6",
+      "publishedAt": "2026-08-06T00:58:14Z",
+      "detectedAt": "2026-08-06T03:31:08.862Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.6-nightly.20260806.cb3dc107f --> ## What's Changed * test(core): deflake glob external-path test — dedicated empty dir, not /tmp by @wenshao in https://github.com/QwenLM/qwen-code/pull/8604 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.21.6...v0.21.6-nightly.20260806.cb3dc107f"
     }
   ],
   "errors": []
