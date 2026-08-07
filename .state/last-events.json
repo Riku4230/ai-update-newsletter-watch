@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-07T20:17:58.833Z",
+  "checkedAt": "2026-08-07T21:01:21.606Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,43 +15,35 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-07T20:17:58.833Z",
+      "detectedAt": "2026-08-07T21:01:21.606Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
-      "sourceId": "vertex-ai-generative-release-notes",
-      "sourceName": "Vertex AI Generative AI Release Notes",
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
       "type": "webpage",
-      "title": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
       "version": null,
-      "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
       "tags": [
         "google",
-        "vertex-ai",
+        "gemini",
         "api"
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-07T20:17:58.833Z",
-      "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
-    },
-    {
-      "sourceId": "gemini-code-assist-release-notes",
-      "sourceName": "Gemini Code Assist Release Notes",
-      "type": "webpage",
-      "title": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation",
-      "version": null,
-      "url": "https://developers.google.com/gemini-code-assist/resources/release-notes",
-      "tags": [
-        "coding-agent",
-        "google",
-        "gemini"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-08-07T20:17:58.833Z",
-      "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+      "detectedAt": "2026-08-07T21:01:21.606Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Get Started API keys Pricing Coding agent setup Models All mod..."
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "vertex-ai-generative-release-notes",
+      "message": "This operation was aborted"
+    },
+    {
+      "source": "gemini-code-assist-release-notes",
+      "message": "This operation was aborted"
+    }
+  ]
 }
