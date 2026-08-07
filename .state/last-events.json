@@ -1,6 +1,40 @@
 {
-  "checkedAt": "2026-08-07T00:26:48.685Z",
+  "checkedAt": "2026-08-07T03:23:53.623Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.147.0",
+      "version": "rust-v0.147.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.147.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.147.0-alpha.13",
+      "publishedAt": "2026-08-07T01:41:49Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
+      "summaryText": "## New Features - Install portable Agent Plugins and search across local, personal, workspace, and remote plugin catalogs. (#36544, #36409, #36919, #36796) - Organize conversations into persistent, manually ordered sections and browse long transcripts incrementally. (#35722, #36007, #36380, #36948, #36950) - Enable automatically reviewed approvals with the new `--approve-for-me` CLI flag. (#36373) - Import Cursor-managed skills and synchronize changes to imported Claude and Cursor conversatio..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.147.0",
+      "version": "0.147.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.147.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.146.1",
+      "publishedAt": "2026-08-07T01:47:21.081Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -16,25 +50,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-07T00:26:48.685Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in..."
-    },
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-08-07T00:26:48.685Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,25 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-07T00:26:48.685Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
-    },
-    {
-      "sourceId": "gemini-api-changelog",
-      "sourceName": "Gemini API Changelog",
-      "type": "webpage",
-      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
-      "version": null,
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "tags": [
-        "google",
-        "gemini",
-        "api"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-08-07T00:26:48.685Z",
-      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Get Started API keys Pricing Coding agent setup Models All mod..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -84,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-07T00:26:48.685Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -101,25 +101,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-07T00:26:48.685Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.56.0-nightly.20260807.gd5c9a97dc",
+      "version": "v0.56.0-nightly.20260807.gd5c9a97dc",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260807.gd5c9a97dc",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.55.0-preview.1",
+      "publishedAt": "2026-08-07T02:13:18Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
+      "summaryText": "## What's Changed * Changelog for v0.55.0-preview.1 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28706 * chore(release): bump version to 0.56.0-nightly.20260806.g761f604c1 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28707 * Changelog for v0.54.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28708 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.55.0-nightly.20260806.g761f604c1...v0.56..."
     },
     {
       "sourceId": "qwen-code-github",
       "sourceName": "Qwen Code GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.21.7",
-      "version": "v0.21.7",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.7",
+      "title": "QwenLM/qwen-code Release v0.21.7-nightly.20260807.fca8f3c1f",
+      "version": "v0.21.7-nightly.20260807.fca8f3c1f",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.7-nightly.20260807.fca8f3c1f",
       "tags": [
         "coding-agent",
         "qwen",
         "github"
       ],
-      "previousVersion": "v0.21.6-nightly.20260806.cb3dc107f",
-      "publishedAt": "2026-08-06T23:19:06Z",
-      "detectedAt": "2026-08-07T00:26:48.685Z",
-      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights - Removed the 50-turn limit for Goals, allowing tasks to resume and continue beyond previous boundaries. ([#8421](https://github.com/QwenLM/qwen-code/pull/8421)) - Enabled rendering inline terminal images from model outputs in the interactive CLI for Kitty, Ghostty, and chafa. ([#8305](https://github.com/QwenLM/qwen-code/pull/8305)) - Introduced a declarative manifest and command to customize review plans with repository-specific context. ([#8401](..."
+      "previousVersion": "v0.21.7",
+      "publishedAt": "2026-08-07T01:35:35Z",
+      "detectedAt": "2026-08-07T03:23:53.623Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.7-nightly.20260807.fca8f3c1f --> ## What's Changed * fix(ci): surface blocked autofix takeover admission by @qqqys in https://github.com/QwenLM/qwen-code/pull/8410 **Full Changelog**: https://github.com/QwenLM/qwen-code/compare/v0.21.7...v0.21.7-nightly.20260807.fca8f3c1f"
     }
   ],
   "errors": []
