@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-11T20:04:14.601Z",
+  "checkedAt": "2026-08-11T20:56:45.090Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,25 +15,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-11T20:04:14.601Z",
+      "detectedAt": "2026-08-11T20:56:45.090Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.228",
-      "version": "2.1.228",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.228",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.227",
-      "publishedAt": "2026-08-11T17:45:45.882Z",
-      "detectedAt": "2026-08-11T20:04:14.601Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-11T20:04:14.601Z",
+      "detectedAt": "2026-08-11T20:56:45.090Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -66,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-11T20:04:14.601Z",
+      "detectedAt": "2026-08-11T20:56:45.090Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.56.0-preview.1",
-      "version": "v0.56.0-preview.1",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-preview.1",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.56.0-nightly.20260811.geef19f25c",
-      "publishedAt": "2026-08-11T19:46:47Z",
-      "detectedAt": "2026-08-11T20:04:14.601Z",
-      "summaryText": "## What's Changed * Changelog for v0.55.0-preview.1 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28706 * chore(release): bump version to 0.56.0-nightly.20260806.g761f604c1 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28707 * Changelog for v0.54.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/28708 * Reclassifying Capacity Exhaustion as Terminal Error by @luisfelipe-alt in https://github.com/google-gemini/gemini..."
     }
   ],
   "errors": []
