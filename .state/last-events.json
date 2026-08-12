@@ -1,41 +1,6 @@
 {
-  "checkedAt": "2026-08-12T03:13:34.759Z",
+  "checkedAt": "2026-08-12T05:02:04.421Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.148.0-alpha.9",
-      "version": "rust-v0.148.0-alpha.9",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.148.0-alpha.9",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.148.0-alpha.8",
-      "publishedAt": "2026-08-12T01:35:53Z",
-      "detectedAt": "2026-08-12T03:13:34.759Z",
-      "summaryText": "Release 0.148.0-alpha.9"
-    },
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-08-12T03:13:34.759Z",
-      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -50,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-12T03:13:34.759Z",
+      "detectedAt": "2026-08-12T05:02:04.421Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -67,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-12T03:13:34.759Z",
+      "detectedAt": "2026-08-12T05:02:04.421Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -84,42 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-12T03:13:34.759Z",
+      "detectedAt": "2026-08-12T05:02:04.421Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.56.0-nightly.20260812.g5024443c7",
-      "version": "v0.56.0-nightly.20260812.g5024443c7",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260812.g5024443c7",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.56.0-preview.1",
-      "publishedAt": "2026-08-12T01:18:41Z",
-      "detectedAt": "2026-08-12T03:13:34.759Z",
-      "summaryText": "## What's Changed * fix(core,cli): resolve false model capacity exhaustion and fix core quota lookup model mapping by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/28730 * feat(evals): add local report command and developer documentation by @ved015 in https://github.com/google-gemini/gemini-cli/pull/28369 * fix(core): dynamically resolve Cloud Workstations proxy redirect URI for OAuth flows by @amelidev in https://github.com/google-gemini/gemini-cli/pull/28688 * fix(core):..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.21.11-preview.0",
-      "version": "v0.21.11-preview.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.11-preview.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.21.10",
-      "publishedAt": "2026-08-12T00:55:59Z",
-      "detectedAt": "2026-08-12T03:13:34.759Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.11-preview.0 --> ## What's Changed * fix(web-shell): Enforce prompt-safe session navigation by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/8931 * chore(serve): Log session continuation admissions by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/8932 * feat(serve): bound daemon ACP NDJSON buffers by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/8911 * fix(desktop): consolidate ..."
     }
   ],
   "errors": []
