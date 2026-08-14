@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-08-14T17:07:03.248Z",
+  "checkedAt": "2026-08-14T18:00:03.946Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.148.0-alpha.16",
+      "version": "rust-v0.148.0-alpha.16",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.148.0-alpha.16",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.148.0-alpha.15",
+      "publishedAt": "2026-08-14T17:18:40Z",
+      "detectedAt": "2026-08-14T18:00:03.946Z",
+      "summaryText": "Release 0.148.0-alpha.16"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-14T17:07:03.248Z",
+      "detectedAt": "2026-08-14T18:00:03.946Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-14T17:07:03.248Z",
+      "detectedAt": "2026-08-14T18:00:03.946Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,25 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-14T17:07:03.248Z",
+      "detectedAt": "2026-08-14T18:00:03.946Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.21.12",
-      "version": "v0.21.12",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.12",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.21.12-preview.4",
-      "publishedAt": "2026-08-14T16:39:48Z",
-      "detectedAt": "2026-08-14T17:07:03.248Z",
-      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights - Added support for uploading workspace files to the Web Shell composer via drag-and-drop or the @ file panel with progress tracking. ([#8874](https://github.com/QwenLM/qwen-code/pull/8874)) - Implemented a diff growth brake in autofix reviews to limit source and test line increases per window using configurable budgets. ([#8981](https://github.com/QwenLM/qwen-code/pull/8981)) - Confirmed Critical findings now require an executed witness with obser..."
     }
   ],
   "errors": []
