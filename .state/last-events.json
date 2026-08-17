@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-17T02:06:54.712Z",
+  "checkedAt": "2026-08-17T03:08:17.724Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-17T02:06:54.712Z",
+      "detectedAt": "2026-08-17T03:08:17.724Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-17T02:06:54.712Z",
+      "detectedAt": "2026-08-17T03:08:17.724Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,42 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-17T02:06:54.712Z",
+      "detectedAt": "2026-08-17T03:08:17.724Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.56.0-nightly.20260817.g9a15c45fb",
-      "version": "v0.56.0-nightly.20260817.g9a15c45fb",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260817.g9a15c45fb",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.56.0-nightly.20260816.g2a87e7be1",
-      "publishedAt": "2026-08-17T01:08:01Z",
-      "detectedAt": "2026-08-17T02:06:54.712Z",
-      "summaryText": "## What's Changed * [SSR Agent] Issue Fix (21911): Add composite flag to packages/cli tsconfig by @joneba-google in https://github.com/google-gemini/gemini-cli/pull/28813 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.56.0-nightly.20260816.g2a87e7be1...v0.56.0-nightly.20260817.g9a15c45fb"
     },
     {
       "sourceId": "qwen-code-github",
       "sourceName": "Qwen Code GitHub Releases",
       "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.21.11-nightly.20260817.195128a17a",
-      "version": "v0.21.11-nightly.20260817.195128a17a",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.11-nightly.20260817.195128a17a",
+      "title": "QwenLM/qwen-code Release v0.21.13",
+      "version": "v0.21.13",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.13",
       "tags": [
         "coding-agent",
         "qwen",
         "github"
       ],
-      "previousVersion": "v0.21.12-preview.5",
-      "publishedAt": "2026-08-17T00:48:27Z",
-      "detectedAt": "2026-08-17T02:06:54.712Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.11-nightly.20260817.195128a17a --> ## What's Changed * feat(autofix): deny-by-default footprint gate and positional window censuses by @wenshao in https://github.com/QwenLM/qwen-code/pull/9156 * fix(web-shell): share at mention providers with split-view panes by @samuelhsin in https://github.com/QwenLM/qwen-code/pull/9052 * fix(ci): skip non-bot review_requested siblings before jobs spend compute by @yili..."
+      "previousVersion": "v0.21.11-nightly.20260817.195128a17a",
+      "publishedAt": "2026-08-17T02:11:15Z",
+      "detectedAt": "2026-08-17T03:08:17.724Z",
+      "summaryText": "<!-- qwen-release-notes:v2 --> ## Highlights - Web Shell composer now supports dragging, dropping, and pasting text files as named attachments alongside images. ([#9180](https://github.com/QwenLM/qwen-code/pull/9180)) - Users can now fork conversations from any specific Assistant response using durable checkpoints to ensure branch accuracy. ([#8817](https://github.com/QwenLM/qwen-code/pull/8817)) - Split-view panes now inherit the host's @ mention configuration, ensuring custom categories and..."
     }
   ],
   "errors": []
