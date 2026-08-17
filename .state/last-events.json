@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-08-17T16:12:37.991Z",
+  "checkedAt": "2026-08-17T16:45:18.744Z",
   "events": [
+    {
+      "sourceId": "claude-code-release-notes",
+      "sourceName": "Claude Code Release Notes",
+      "type": "webpage",
+      "title": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub",
+      "version": null,
+      "url": "https://docs.anthropic.com/en/release-notes/claude-code",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-08-17T16:45:18.744Z",
+      "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
+    },
     {
       "sourceId": "vertex-ai-generative-release-notes",
       "sourceName": "Vertex AI Generative AI Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-17T16:12:37.991Z",
+      "detectedAt": "2026-08-17T16:45:18.744Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -32,30 +49,9 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-17T16:12:37.991Z",
+      "detectedAt": "2026-08-17T16:45:18.744Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
     }
   ],
-  "errors": [
-    {
-      "source": "openai-codex-github",
-      "message": "No releases found for openai/codex"
-    },
-    {
-      "source": "claude-code-release-notes",
-      "message": "404 Not Found from https://docs.anthropic.com/en/release-notes/claude-code"
-    },
-    {
-      "source": "gemini-cli-github",
-      "message": "No releases found for google-gemini/gemini-cli"
-    },
-    {
-      "source": "deepseek-github",
-      "message": "No releases found for deepseek-ai/DeepSeek-V3"
-    },
-    {
-      "source": "qwen-code-github",
-      "message": "No releases found for QwenLM/qwen-code"
-    }
-  ]
+  "errors": []
 }
