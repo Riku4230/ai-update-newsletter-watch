@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-18T04:21:46.533Z",
+  "checkedAt": "2026-08-18T04:57:18.762Z",
   "events": [
     {
       "sourceId": "openai-codex-official-changelog",
@@ -16,7 +16,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-18T04:21:46.533Z",
+      "detectedAt": "2026-08-18T04:57:18.762Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in..."
     },
     {
@@ -33,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-18T04:21:46.533Z",
+      "detectedAt": "2026-08-18T04:57:18.762Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -50,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-18T04:21:46.533Z",
+      "detectedAt": "2026-08-18T04:57:18.762Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -67,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-18T04:21:46.533Z",
+      "detectedAt": "2026-08-18T04:57:18.762Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
     }
   ],
