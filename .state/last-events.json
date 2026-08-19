@@ -1,6 +1,23 @@
 {
-  "checkedAt": "2026-08-19T00:27:17.511Z",
+  "checkedAt": "2026-08-19T01:57:59.633Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.149.0-alpha.1",
+      "version": "rust-v0.149.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.149.0-alpha.1",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.148.0",
+      "publishedAt": "2026-08-19T00:54:20Z",
+      "detectedAt": "2026-08-19T01:57:59.633Z",
+      "summaryText": "Release 0.149.0-alpha.1"
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-19T00:27:17.511Z",
+      "detectedAt": "2026-08-19T01:57:59.633Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-19T00:27:17.511Z",
+      "detectedAt": "2026-08-19T01:57:59.633Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,8 +66,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-19T00:27:17.511Z",
+      "detectedAt": "2026-08-19T01:57:59.633Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.56.0-nightly.20260819.g571851b10",
+      "version": "v0.56.0-nightly.20260819.g571851b10",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260819.g571851b10",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.56.0-nightly.20260818.g194edea47",
+      "publishedAt": "2026-08-19T01:07:23Z",
+      "detectedAt": "2026-08-19T01:57:59.633Z",
+      "summaryText": "## What's Changed * [SSR Agent] Issue Fix (28050): Add Vertex AI locations documentation link by @joneba-google in https://github.com/google-gemini/gemini-cli/pull/28865 * [SSR Agent] Issue Fix (22093): Prevent subagents from running when agents mode is disabled by @joneba-google in https://github.com/google-gemini/gemini-cli/pull/28867 * [SSR Agent] Issue Fix (23954): Add trailing space to autocomplete suggestions by @joneba-google in https://github.com/google-gemini/gemini-cli/pull/28868 * ..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.21.14-preview.0",
+      "version": "v0.21.14-preview.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.14-preview.0",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.21.11-nightly.20260818.259951c53e",
+      "publishedAt": "2026-08-19T00:52:03Z",
+      "detectedAt": "2026-08-19T01:57:59.633Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.14-preview.0 --> ## What's Changed * feat(core): add a live-session registry and `qwen sessions ps` by @qqqys in https://github.com/QwenLM/qwen-code/pull/8969 * feat(daemon): attach skill-toggle mutation metadata to settings_changed by @samuelhsin in https://github.com/QwenLM/qwen-code/pull/9051 * fix(ci): minimize new spam comments on creation by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/92..."
     }
   ],
   "errors": []
