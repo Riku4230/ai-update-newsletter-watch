@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T01:55:58.674Z",
+  "checkedAt": "2026-08-22T02:45:00.496Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-22T01:55:58.674Z",
+      "detectedAt": "2026-08-22T02:45:00.496Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-22T01:55:58.674Z",
+      "detectedAt": "2026-08-22T02:45:00.496Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,42 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-22T01:55:58.674Z",
+      "detectedAt": "2026-08-22T02:45:00.496Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.56.0-nightly.20260822.g5411f113c",
-      "version": "v0.56.0-nightly.20260822.g5411f113c",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260822.g5411f113c",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.56.0-nightly.20260821.g30573d2e4",
-      "publishedAt": "2026-08-22T01:10:05Z",
-      "detectedAt": "2026-08-22T01:55:58.674Z",
-      "summaryText": "## What's Changed * fix(sandbox): isolate Docker and container runtime sockets and binaries in macOS Seatbelt by @josebalius in https://github.com/google-gemini/gemini-cli/pull/28935 ## New Contributors * @josebalius made their first contribution in https://github.com/google-gemini/gemini-cli/pull/28935 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.56.0-nightly.20260821.g30573d2e4...v0.56.0-nightly.20260822.g5411f113c"
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.21.14-nightly.20260822.7a4566cb3b",
-      "version": "v0.21.14-nightly.20260822.7a4566cb3b",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.21.14-nightly.20260822.7a4566cb3b",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.21.14-nightly.20260821.9f2342d323",
-      "publishedAt": "2026-08-22T00:52:28Z",
-      "detectedAt": "2026-08-22T01:55:58.674Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.21.14-nightly.20260822.7a4566cb3b --> ## What's Changed * feat(review): tell the author why a review loop is not settling by @wenshao in https://github.com/QwenLM/qwen-code/pull/9461 * fix(ci): stop the fallback comment from denying a review it already posted by @wenshao in https://github.com/QwenLM/qwen-code/pull/9462 * fix(web-shell): bound daemon transcript retention to stop renderer OOM crashes by @wensh..."
     }
   ],
   "errors": []
