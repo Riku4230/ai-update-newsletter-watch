@@ -1,24 +1,6 @@
 {
-  "checkedAt": "2026-08-25T01:58:32.302Z",
+  "checkedAt": "2026-08-25T02:54:01.255Z",
   "events": [
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-08-25T01:58:32.302Z",
-      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -33,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-25T01:58:32.302Z",
+      "detectedAt": "2026-08-25T02:54:01.255Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -50,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-25T01:58:32.302Z",
+      "detectedAt": "2026-08-25T02:54:01.255Z",
       "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Get started API keys Pricing Coding agent setup Models All mod..."
     },
     {
@@ -67,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-25T01:58:32.302Z",
+      "detectedAt": "2026-08-25T02:54:01.255Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -84,42 +66,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-25T01:58:32.302Z",
+      "detectedAt": "2026-08-25T02:54:01.255Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.56.0-nightly.20260825.g812f7a2bc",
-      "version": "v0.56.0-nightly.20260825.g812f7a2bc",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260825.g812f7a2bc",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.57.0-preview.1",
-      "publishedAt": "2026-08-25T01:08:28Z",
-      "detectedAt": "2026-08-25T01:58:32.302Z",
-      "summaryText": "## What's Changed * fix(a2a-server): clear stale cancellation error on new message turns by @amelidev in https://github.com/google-gemini/gemini-cli/pull/28940 * fix(core): declare top-level safety checkers in write policy configuration by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/28961 * (FIX) history rollback and retry nudge optimizations by @DavidAPierce in https://github.com/google-gemini/gemini-cli/pull/28934 **Full Changelog**: https://github.com/google-gemini/..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.22.0-nightly.20260825.22bb5e8b9f",
-      "version": "v0.22.0-nightly.20260825.22bb5e8b9f",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.22.0-nightly.20260825.22bb5e8b9f",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.22.0-nightly.20260824.3a1f86d805",
-      "publishedAt": "2026-08-25T00:54:23Z",
-      "detectedAt": "2026-08-25T01:58:32.302Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.22.0-nightly.20260825.22bb5e8b9f --> ## What's Changed * fix(web-shell): pass session workspace cwd when opening from overview panel by @wenshao in https://github.com/QwenLM/qwen-code/pull/9730 * fix(web-shell): fall back after stale mid-turn rejection by @ytahdn in https://github.com/QwenLM/qwen-code/pull/9732 * fix(review): stop the fallback comment from firing on superseded runs by @wenshao in https://git..."
     }
   ],
   "errors": []
