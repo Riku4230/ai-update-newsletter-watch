@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-26T05:51:39.449Z",
+  "checkedAt": "2026-08-26T06:23:30.890Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-26T05:51:39.449Z",
+      "detectedAt": "2026-08-26T06:23:30.890Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-26T05:51:39.449Z",
+      "detectedAt": "2026-08-26T06:23:30.890Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -49,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-26T05:51:39.449Z",
+      "detectedAt": "2026-08-26T06:23:30.890Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.22.2-preview.1",
+      "version": "v0.22.2-preview.1",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.22.2-preview.1",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.22.0-nightly.20260825.22bb5e8b9f",
+      "publishedAt": "2026-08-26T06:12:32Z",
+      "detectedAt": "2026-08-26T06:23:30.890Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.22.2-preview.1 --> ## What's Changed * fix(goal): converge the three continuation prompts on one guarded contract by @qqqys in https://github.com/QwenLM/qwen-code/pull/9834 * feat(core): require an explicit user opt-in before the model launches a workflow by @qqqys in https://github.com/QwenLM/qwen-code/pull/9806 * fix(review): ban unexecuted mutation claims in coverage briefs by @wenshao in https://github.c..."
     }
   ],
   "errors": []
