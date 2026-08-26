@@ -1,22 +1,23 @@
 {
-  "checkedAt": "2026-08-26T00:29:38.160Z",
+  "checkedAt": "2026-08-26T02:08:27.159Z",
   "events": [
     {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
       "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
+      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
       "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
+      "url": "https://developers.openai.com/codex/changelog/",
       "tags": [
         "coding-agent",
-        "claude-code",
+        "openai",
+        "codex",
         "docs"
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-26T00:29:38.160Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
+      "detectedAt": "2026-08-26T02:08:27.159Z",
+      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-26T00:29:38.160Z",
+      "detectedAt": "2026-08-26T02:08:27.159Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -49,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-26T00:29:38.160Z",
+      "detectedAt": "2026-08-26T02:08:27.159Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -66,8 +67,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-26T00:29:38.160Z",
+      "detectedAt": "2026-08-26T02:08:27.159Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.59.0-nightly.20260826.g64b5b79a6",
+      "version": "v0.59.0-nightly.20260826.g64b5b79a6",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.59.0-nightly.20260826.g64b5b79a6",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.58.0-preview.0",
+      "publishedAt": "2026-08-26T01:07:54Z",
+      "detectedAt": "2026-08-26T02:08:27.159Z",
+      "summaryText": "## What's Changed * Changelog for v0.58.0-preview.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/29082 * chore(release): bump version to 0.59.0-nightly.20260825.g812f7a2bc by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/29083 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.56.0-nightly.20260825.g812f7a2bc...v0.59.0-nightly.20260826.g64b5b79a6"
     }
   ],
   "errors": []
