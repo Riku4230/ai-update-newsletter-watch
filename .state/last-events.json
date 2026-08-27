@@ -1,40 +1,6 @@
 {
-  "checkedAt": "2026-08-27T10:28:20.929Z",
+  "checkedAt": "2026-08-27T20:38:44.987Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.150.1",
-      "version": "rust-v0.150.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.1",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.150.0",
-      "publishedAt": "2026-08-27T01:56:54Z",
-      "detectedAt": "2026-08-27T10:28:20.929Z",
-      "summaryText": "## Bug Fixes - Remote compaction now counts retained images toward its token budget by default, trimming older images as needed. (#41003) ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.150.0...rust-v0.150.1 - #41003 Backport retained-image compaction budgeting to 0.150 @rhan-oai"
-    },
-    {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.150.1",
-      "version": "0.150.1",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.150.1",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "npm"
-      ],
-      "previousVersion": "0.150.0",
-      "publishedAt": "2026-08-27T02:01:46.851Z",
-      "detectedAt": "2026-08-27T10:28:20.929Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
-    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -50,7 +16,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-27T10:28:20.929Z",
+      "detectedAt": "2026-08-27T20:38:44.987Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in..."
     },
     {
@@ -67,8 +33,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-27T10:28:20.929Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK Wha..."
+      "detectedAt": "2026-08-27T20:38:44.987Z",
+      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -84,8 +50,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-27T10:28:20.929Z",
+      "detectedAt": "2026-08-27T20:38:44.987Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
+    },
+    {
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
+      "type": "webpage",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
+      "version": null,
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "tags": [
+        "google",
+        "gemini",
+        "api"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-08-27T20:38:44.987Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Get started API keys Pricing Coding agent setup Models All mod..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -101,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-27T10:28:20.929Z",
+      "detectedAt": "2026-08-27T20:38:44.987Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -118,42 +101,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-27T10:28:20.929Z",
+      "detectedAt": "2026-08-27T20:38:44.987Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.59.0-nightly.20260827.g3c311beac",
-      "version": "v0.59.0-nightly.20260827.g3c311beac",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.59.0-nightly.20260827.g3c311beac",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.59.0-nightly.20260826.g64b5b79a6",
-      "publishedAt": "2026-08-27T02:31:17Z",
-      "detectedAt": "2026-08-27T10:28:20.929Z",
-      "summaryText": "## What's Changed * fix(core): prevent SSRF in MCP OAuth metadata discovery and authentication by @josebalius in https://github.com/google-gemini/gemini-cli/pull/29081 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.59.0-nightly.20260826.g64b5b79a6...v0.59.0-nightly.20260827.g3c311beac"
-    },
-    {
-      "sourceId": "deepseek-api-changelog",
-      "sourceName": "DeepSeek API Changelog",
-      "type": "webpage",
-      "title": "Change Log | DeepSeek API Docs",
-      "version": null,
-      "url": "https://api-docs.deepseek.com/updates/",
-      "tags": [
-        "deepseek",
-        "api",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-08-27T10:28:20.929Z",
-      "summaryText": "Change Log | DeepSeek API Docs Skip to main content DeepSeek API Docs English English 中文（中国） DeepSeek Platform Quick Start Your First API Call Models &amp; Pricing Token &amp; Token Usage Rate Limit &amp; Isolation Error Codes Agent Integrations API Guides Vision Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Files API Context Caching Using the Responses API Using the Anthropic API API Reference News Other Resources FAQ Change..."
     }
   ],
   "errors": []
