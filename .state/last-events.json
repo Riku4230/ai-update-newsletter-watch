@@ -1,22 +1,39 @@
 {
-  "checkedAt": "2026-08-29T07:24:11.172Z",
+  "checkedAt": "2026-08-29T13:13:18.800Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.151.0-alpha.12",
-      "version": "rust-v0.151.0-alpha.12",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.151.0-alpha.12",
+      "title": "openai/codex 0.151.0",
+      "version": "rust-v0.151.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.151.0",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.151.0-alpha.9",
-      "publishedAt": "2026-08-29T01:29:50Z",
-      "detectedAt": "2026-08-29T07:24:11.172Z",
-      "summaryText": "Release 0.151.0-alpha.12"
+      "previousVersion": "rust-v0.151.0-alpha.12",
+      "publishedAt": "2026-08-29T09:55:39Z",
+      "detectedAt": "2026-08-29T13:13:18.800Z",
+      "summaryText": "## New Features - Added a configurable grace period for discovering tools from optional MCP servers. (#41199) - Extensions can now inspect or replace MCP tool results before they reach the model. (#41202) - Plugin catalogs now combine per-repository configuration and report invalid project marketplaces without hiding valid plugins. (#41208) ## Bug Fixes - Preserved restored permission profiles across TUI turns and prevented `/cd` from weakening sandbox restrictions. (#41192) - Kept tool avail..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.151.0",
+      "version": "0.151.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.151.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.150.1",
+      "publishedAt": "2026-08-29T09:59:26.300Z",
+      "detectedAt": "2026-08-29T13:13:18.800Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
     },
     {
       "sourceId": "openai-codex-official-changelog",
@@ -33,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-29T07:24:11.172Z",
+      "detectedAt": "2026-08-29T13:13:18.800Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce..."
     },
     {
@@ -50,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-29T07:24:11.172Z",
+      "detectedAt": "2026-08-29T13:13:18.800Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -67,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-29T07:24:11.172Z",
+      "detectedAt": "2026-08-29T13:13:18.800Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, languages, ..."
     },
     {
@@ -84,42 +101,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-08-29T07:24:11.172Z",
+      "detectedAt": "2026-08-29T13:13:18.800Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Industry solutions Migration Networking Observability and monitoring Security Storage Cross-product tools close Access and resources management Costs and usage management Infrastructure as code SDK, langu..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.59.0-nightly.20260829.g0bd1d4397",
-      "version": "v0.59.0-nightly.20260829.g0bd1d4397",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.59.0-nightly.20260829.g0bd1d4397",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.59.0-nightly.20260828.g3c311beac",
-      "publishedAt": "2026-08-29T01:56:42Z",
-      "detectedAt": "2026-08-29T07:24:11.172Z",
-      "summaryText": "## What's Changed * fix(core): enforce fail-closed workspace trust and filter mcpServers in restricted mode by @luisfelipe-alt in https://github.com/google-gemini/gemini-cli/pull/29099 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.59.0-nightly.20260828.g3c311beac...v0.59.0-nightly.20260829.g0bd1d4397"
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.22.3-nightly.20260829.e5cb60ad48",
-      "version": "v0.22.3-nightly.20260829.e5cb60ad48",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.22.3-nightly.20260829.e5cb60ad48",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.22.3",
-      "publishedAt": "2026-08-29T00:52:24Z",
-      "detectedAt": "2026-08-29T07:24:11.172Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.22.3-nightly.20260829.e5cb60ad48 --> ## What's Changed * feat(web-shell): show git state hints beside branch picker actions by @wenshao in https://github.com/QwenLM/qwen-code/pull/10397 * feat(review): emit the Step 3A fan-out as a generated workflow script by @qqqys in https://github.com/QwenLM/qwen-code/pull/10119 * fix(core): keep the ask_user_question dialog behind allow rules and auto-approval by @qqqys..."
     }
   ],
   "errors": []
