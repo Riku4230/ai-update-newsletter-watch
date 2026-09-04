@@ -1,6 +1,40 @@
 {
-  "checkedAt": "2026-09-03T23:43:20.514Z",
+  "checkedAt": "2026-09-04T01:22:12.382Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.153.2",
+      "version": "rust-v0.153.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.2",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.153.1",
+      "publishedAt": "2026-09-03T23:53:12Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
+      "summaryText": "## Bug Fixes - Corrected the GPT-6-Astra Fast tier description to say “2x speed, increased usage” instead of “1.5x.” This changes only the displayed text, not how requests run. (#42632) ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.153.1...rust-v0.153.2 - #42632 Fix GPT-6-Astra Fast tier description for 0.153.2 @anp-oai"
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.153.2",
+      "version": "0.153.2",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.153.2",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.153.1",
+      "publishedAt": "2026-09-03T23:57:21.074Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -16,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-03T23:43:20.514Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce..."
     },
     {
@@ -33,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-03T23:43:20.514Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK..."
     },
     {
@@ -50,8 +84,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-03T23:43:20.514Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.260",
+      "version": "2.1.260",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.260",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.259",
+      "publishedAt": "2026-09-03T22:32:02.087Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -67,7 +118,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-03T23:43:20.514Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -84,7 +135,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-03T23:43:20.514Z",
+      "detectedAt": "2026-09-04T01:22:12.382Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
     }
   ],
