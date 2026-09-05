@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-05T21:37:25.552Z",
+  "checkedAt": "2026-09-05T23:14:01.955Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-05T21:37:25.552Z",
+      "detectedAt": "2026-09-05T23:14:01.955Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-05T21:37:25.552Z",
+      "detectedAt": "2026-09-05T23:14:01.955Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -49,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-05T21:37:25.552Z",
+      "detectedAt": "2026-09-05T23:14:01.955Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
     }
   ],
