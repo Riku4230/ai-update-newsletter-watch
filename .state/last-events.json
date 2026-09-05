@@ -1,23 +1,6 @@
 {
-  "checkedAt": "2026-09-05T05:53:39.519Z",
+  "checkedAt": "2026-09-05T09:31:00.775Z",
   "events": [
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-09-05T05:53:39.519Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -32,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-05T05:53:39.519Z",
+      "detectedAt": "2026-09-05T09:31:00.775Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -49,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-05T05:53:39.519Z",
+      "detectedAt": "2026-09-05T09:31:00.775Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -66,42 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-05T05:53:39.519Z",
+      "detectedAt": "2026-09-05T09:31:00.775Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.60.0-nightly.20260905.g85aca163f",
-      "version": "v0.60.0-nightly.20260905.g85aca163f",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0-nightly.20260905.g85aca163f",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.60.0-nightly.20260904.g87a9c71d5",
-      "publishedAt": "2026-09-05T01:26:55Z",
-      "detectedAt": "2026-09-05T05:53:39.519Z",
-      "summaryText": "## What's Changed * fix(extensions): prompt for consent on environment changes and sanitize runtime-altering environment variables by @amelidev in https://github.com/google-gemini/gemini-cli/pull/28863 * fix(core): enhance workspace path boundary checks and symlink resolution in command safety and file discovery by @jesussamuel-byte in https://github.com/google-gemini/gemini-cli/pull/29170 * fix(config): enforce strict permission and ownership checks on system-wide configuration paths by @jes..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.23.0-nightly.20260905.e3d26283e6",
-      "version": "v0.23.0-nightly.20260905.e3d26283e6",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.23.0-nightly.20260905.e3d26283e6",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.23.0",
-      "publishedAt": "2026-09-05T05:28:24Z",
-      "detectedAt": "2026-09-05T05:53:39.519Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.23.0-nightly.20260905.e3d26283e6 --> ## What's Changed * feat(web-shell): visualize and manage dynamic workflow runs by @qqqys in https://github.com/QwenLM/qwen-code/pull/10594 * perf(web-shell): derive the session workflow projection once by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/10871 * test(integration): synchronize mid-turn /quit completion by @qwen-code-dev-bot in https://github.com/Qwe..."
     }
   ],
   "errors": []
