@@ -1,40 +1,22 @@
 {
-  "checkedAt": "2026-09-09T10:11:45.572Z",
+  "checkedAt": "2026-09-09T14:36:07.131Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.154.0-alpha.11",
-      "version": "rust-v0.154.0-alpha.11",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.154.0-alpha.11",
+      "title": "openai/codex 0.154.0-alpha.6.1",
+      "version": "rust-v0.154.0-alpha.6.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.154.0-alpha.6.1",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.154.0-alpha.8",
-      "publishedAt": "2026-09-09T09:14:16Z",
-      "detectedAt": "2026-09-09T10:11:45.572Z",
-      "summaryText": "Release 0.154.0-alpha.11"
-    },
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T10:11:45.572Z",
-      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce..."
+      "previousVersion": "rust-v0.154.0-alpha.11",
+      "publishedAt": "2026-09-09T11:51:56Z",
+      "detectedAt": "2026-09-09T14:36:07.131Z",
+      "summaryText": "Release 0.154.0-alpha.6.1"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-09T10:11:45.572Z",
+      "detectedAt": "2026-09-09T14:36:07.131Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -67,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-09T10:11:45.572Z",
+      "detectedAt": "2026-09-09T14:36:07.131Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -84,8 +66,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-09T10:11:45.572Z",
+      "detectedAt": "2026-09-09T14:36:07.131Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.23.2",
+      "version": "v0.23.2",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.23.2",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.23.2-preview.0",
+      "publishedAt": "2026-09-09T10:51:34Z",
+      "detectedAt": "2026-09-09T14:36:07.131Z",
+      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights _See the complete change list below._ ## Breaking Changes No known breaking changes. ## Complete Change List ### Features - feat(web-shell): Improve split-view session navigation ([#11250](https://github.com/QwenLM/qwen-code/pull/11250)) by @wenshao - feat(goal): carry budget figures and progress guidance in the continuation prompt ([#11257](https://github.com/QwenLM/qwen-code/pull/11257)) by @qqqys - feat(workflows): journal failed agents and sett..."
     }
   ],
   "errors": []
