@@ -1,6 +1,41 @@
 {
-  "checkedAt": "2026-09-10T09:37:56.098Z",
+  "checkedAt": "2026-09-10T13:46:32.639Z",
   "events": [
+    {
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.155.0-alpha.1",
+      "version": "rust-v0.155.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.1",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.154.0",
+      "publishedAt": "2026-09-10T11:53:05Z",
+      "detectedAt": "2026-09-10T13:46:32.639Z",
+      "summaryText": "Release 0.155.0-alpha.1"
+    },
+    {
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "codex",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T13:46:32.639Z",
+      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce..."
+    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -15,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-10T09:37:56.098Z",
+      "detectedAt": "2026-09-10T13:46:32.639Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-10T09:37:56.098Z",
+      "detectedAt": "2026-09-10T13:46:32.639Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -49,42 +84,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-10T09:37:56.098Z",
+      "detectedAt": "2026-09-10T13:46:32.639Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "deepseek-api-changelog",
-      "sourceName": "DeepSeek API Changelog",
-      "type": "webpage",
-      "title": "Change Log | DeepSeek API Docs",
-      "version": null,
-      "url": "https://api-docs.deepseek.com/updates/",
-      "tags": [
-        "deepseek",
-        "api",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-09-10T09:37:56.098Z",
-      "summaryText": "Change Log | DeepSeek API Docs Skip to main content DeepSeek API Docs English English 中文（中国） DeepSeek Platform Quick Start Your First API Call Models &amp; Pricing Token &amp; Token Usage Rate Limit &amp; Isolation Error Codes Agent Integrations API Guides Vision Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Files API Context Caching Using the Responses API Using the Anthropic API API Reference News Other Resources FAQ Change..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Qwen Code Desktop v0.3.0",
-      "version": "desktop-v0.3.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/desktop-v0.3.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.23.2",
-      "publishedAt": "2026-09-10T08:04:06Z",
-      "detectedAt": "2026-09-10T09:37:56.098Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at b74592785bff038a1e3b5c533d20ae49e549ab2a --> ## What's Changed * ci(desktop): exercise desktop packaging on a schedule by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/11519 * fix(bridge): keep pending permission/question across refreshed session loads by @wenshao in https://github.com/QwenLM/qwen-code/pull/11468 * test(integration): deflake the /compress E2E event budget (#11088) by @qwen-code-dev-bot in htt..."
     }
   ],
   "errors": []
