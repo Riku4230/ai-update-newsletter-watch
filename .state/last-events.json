@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-09-15T01:28:02.471Z",
+  "checkedAt": "2026-09-15T06:23:00.605Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.155.0-alpha.5",
-      "version": "rust-v0.155.0-alpha.5",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.5",
+      "title": "openai/codex 0.155.0-alpha.6",
+      "version": "rust-v0.155.0-alpha.6",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.6",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.155.0-alpha.4",
-      "publishedAt": "2026-09-15T00:31:51Z",
-      "detectedAt": "2026-09-15T01:28:02.471Z",
-      "summaryText": "Release 0.155.0-alpha.5"
+      "previousVersion": "rust-v0.155.0-alpha.5",
+      "publishedAt": "2026-09-15T02:00:26Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
+      "summaryText": "Release 0.155.0-alpha.6"
     },
     {
       "sourceId": "openai-codex-official-changelog",
@@ -33,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-15T01:28:02.471Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce..."
     },
     {
@@ -50,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-15T01:28:02.471Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Administration Configuration Reference Agent SDK..."
     },
     {
@@ -67,25 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-15T01:28:02.471Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.272",
-      "version": "2.1.272",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.272",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.271",
-      "publishedAt": "2026-09-14T23:34:13.565Z",
-      "detectedAt": "2026-09-15T01:28:02.471Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -101,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-15T01:28:02.471Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -118,8 +101,42 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-15T01:28:02.471Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.61.0-nightly.20260915.g9c1b0a610",
+      "version": "v0.61.0-nightly.20260915.g9c1b0a610",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.61.0-nightly.20260915.g9c1b0a610",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.61.0-nightly.20260914.g9c1b0a610",
+      "publishedAt": "2026-09-15T01:28:16Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
+      "summaryText": "**Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.61.0-nightly.20260914.g9c1b0a610...v0.61.0-nightly.20260915.g9c1b0a610"
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code cua-driver-rs v0.20.9",
+      "version": "cua-driver-rs-v0.20.9",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/cua-driver-rs-v0.20.9",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.23.4",
+      "publishedAt": "2026-09-15T05:37:52Z",
+      "detectedAt": "2026-09-15T06:23:00.605Z",
+      "summaryText": "Qwen CUA Driver prebuilt binaries (vendored under `packages/cua-driver`). - **macOS**: codesigned + notarized universal binary + `QwenCuaDriver.app` - **Linux**: unsigned (x86_64 + arm64, glibc 2.31 floor) - **Windows**: unsigned UIAccess worker + native SDK payload (x86_64 + arm64); deployments must sign and trust the worker on the target machine before UIAccess activation - **Node.js**: the same workflow publishes `@qwen-code/cua-sdk` after a clean install against these release assets and p..."
     }
   ],
   "errors": []
