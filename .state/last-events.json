@@ -1,22 +1,23 @@
 {
-  "checkedAt": "2026-09-16T14:22:11.617Z",
+  "checkedAt": "2026-09-16T18:15:15.950Z",
   "events": [
     {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex rusty-v8-v152.2.0",
-      "version": "rusty-v8-v152.2.0",
-      "url": "https://github.com/openai/codex/releases/tag/rusty-v8-v152.2.0",
+      "sourceId": "openai-codex-official-changelog",
+      "sourceName": "OpenAI Codex Official Changelog",
+      "type": "webpage",
+      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
+      "version": null,
+      "url": "https://developers.openai.com/codex/changelog/",
       "tags": [
         "coding-agent",
+        "openai",
         "codex",
-        "github"
+        "docs"
       ],
-      "previousVersion": "rust-v0.155.0-alpha.9",
-      "publishedAt": "2026-09-16T12:58:44Z",
-      "detectedAt": "2026-09-16T14:22:11.617Z",
-      "summaryText": ""
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-09-16T18:15:15.950Z",
+      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-16T14:22:11.617Z",
+      "detectedAt": "2026-09-16T18:15:15.950Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -49,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-16T14:22:11.617Z",
+      "detectedAt": "2026-09-16T18:15:15.950Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -66,25 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-16T14:22:11.617Z",
+      "detectedAt": "2026-09-16T18:15:15.950Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.24.0",
-      "version": "v0.24.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.24.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.23.5-preview.0",
-      "publishedAt": "2026-09-16T13:14:28Z",
-      "detectedAt": "2026-09-16T14:22:11.617Z",
-      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights _See the complete change list below._ ## Breaking Changes - fix(core)!: let bash expand project directory variables in command hooks ([#11864](https://github.com/QwenLM/qwen-code/pull/11864)) by @qqqys ## Complete Change List ### Features - feat(core): cap web_search calls per session ([#11852](https://github.com/QwenLM/qwen-code/pull/11852)) by @qqqys - feat: track background result execution across daemon and web shell ([#11636](https://github.co..."
     }
   ],
   "errors": []
