@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-09-20T23:37:49.559Z",
+  "checkedAt": "2026-09-21T01:35:15.738Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.156.0-alpha.11",
-      "version": "rust-v0.156.0-alpha.11",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.156.0-alpha.11",
+      "title": "openai/codex 0.156.0-alpha.12",
+      "version": "rust-v0.156.0-alpha.12",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.156.0-alpha.12",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.156.0-alpha.9",
-      "publishedAt": "2026-09-20T22:49:40Z",
-      "detectedAt": "2026-09-20T23:37:49.559Z",
-      "summaryText": "Release 0.156.0-alpha.11"
+      "previousVersion": "rust-v0.156.0-alpha.11",
+      "publishedAt": "2026-09-21T00:06:46Z",
+      "detectedAt": "2026-09-21T01:35:15.738Z",
+      "summaryText": "Release 0.156.0-alpha.12"
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-20T23:37:49.559Z",
+      "detectedAt": "2026-09-21T01:35:15.738Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -49,7 +49,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-20T23:37:49.559Z",
+      "detectedAt": "2026-09-21T01:35:15.738Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -66,8 +66,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-20T23:37:49.559Z",
+      "detectedAt": "2026-09-21T01:35:15.738Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.62.0-nightly.20260921.gcfbcaa8df",
+      "version": "v0.62.0-nightly.20260921.gcfbcaa8df",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0-nightly.20260921.gcfbcaa8df",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.62.0-nightly.20260920.gcfbcaa8df",
+      "publishedAt": "2026-09-21T01:32:58Z",
+      "detectedAt": "2026-09-21T01:35:15.738Z",
+      "summaryText": "**Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.62.0-nightly.20260920.gcfbcaa8df...v0.62.0-nightly.20260921.gcfbcaa8df"
     }
   ],
   "errors": []
