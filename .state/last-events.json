@@ -1,22 +1,39 @@
 {
-  "checkedAt": "2026-09-29T06:05:56.005Z",
+  "checkedAt": "2026-09-29T12:40:52.144Z",
   "events": [
     {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.159.0",
+      "version": "rust-v0.159.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0",
       "tags": [
         "coding-agent",
-        "claude-code",
-        "docs"
+        "codex",
+        "github"
       ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-09-29T06:05:56.005Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Plugins Administration Configuration Reference Agent SDK Wha..."
+      "previousVersion": "rust-v0.158.0",
+      "publishedAt": "2026-09-29T08:05:42Z",
+      "detectedAt": "2026-09-29T12:40:52.144Z",
+      "summaryText": "## New Features - Opt-in `instant_interrupt` lets new input steer Codex during model responses or long-running code-mode calls. (#48135, #48141) - New sessions get a compact welcome screen and consistent headers, with occasional tips during and after turns. (#48513, #48562, #48352) - The warnings viewer dismisses reviewed warnings when closed; press `k` to keep one for later. (#48205, #48206) - You can scroll the transcript while deciding whether to implement a plan. (#48805) - Native Mermaid..."
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.159.0",
+      "version": "0.159.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.159.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.158.0",
+      "publishedAt": "2026-09-29T08:10:59.170Z",
+      "detectedAt": "2026-09-29T12:40:52.144Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -32,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-29T06:05:56.005Z",
+      "detectedAt": "2026-09-29T12:40:52.144Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
+    },
+    {
+      "sourceId": "gemini-api-changelog",
+      "sourceName": "Gemini API Changelog",
+      "type": "webpage",
+      "title": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers",
+      "version": null,
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "tags": [
+        "google",
+        "gemini",
+        "api"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-09-29T12:40:52.144Z",
+      "summaryText": "Release notes &nbsp;|&nbsp; Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe Русский עברית العربيّة فارسی हिंदी বাংলা ภาษาไทย 中文 – 简体 中文 – 繁體 日本語 한국어 Get API key Cookbook Community Sign in Docs API reference Gemini API Docs API reference Get API key Cookbook Community Get started Overview Get started API keys Pricing Coding agent setup Models All mod..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -49,7 +83,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-29T06:05:56.005Z",
+      "detectedAt": "2026-09-29T12:40:52.144Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -66,25 +100,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-09-29T06:05:56.005Z",
+      "detectedAt": "2026-09-29T12:40:52.144Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.63.0-nightly.20260929.gfe6350238",
-      "version": "v0.63.0-nightly.20260929.gfe6350238",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.63.0-nightly.20260929.gfe6350238",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.63.0-nightly.20260928.g2fe7c2d3f",
-      "publishedAt": "2026-09-29T01:19:35Z",
-      "detectedAt": "2026-09-29T06:05:56.005Z",
-      "summaryText": "## What's Changed * fix(auth): prevent infinite auth loop from file contention, headless keyring, and supervisor state drops (#28341) by @villahernandez-coder in https://github.com/google-gemini/gemini-cli/pull/29448 **Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.63.0-nightly.20260928.g2fe7c2d3f...v0.63.0-nightly.20260929.gfe6350238"
     }
   ],
   "errors": []
