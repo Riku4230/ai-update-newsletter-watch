@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-10-01T23:25:25.956Z",
+  "checkedAt": "2026-10-02T02:20:16.283Z",
   "events": [
     {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.160.0",
-      "version": "0.160.0",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.160.0",
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.162.0-alpha.2",
+      "version": "rust-v0.162.0-alpha.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.2",
       "tags": [
         "coding-agent",
         "codex",
-        "npm"
+        "github"
       ],
-      "previousVersion": "0.159.3",
-      "publishedAt": "2026-10-01T20:26:19.286Z",
-      "detectedAt": "2026-10-01T23:25:25.956Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
+      "previousVersion": "rust-v0.161.0-alpha.9",
+      "publishedAt": "2026-10-02T01:44:23Z",
+      "detectedAt": "2026-10-02T02:20:16.283Z",
+      "summaryText": "Release 0.162.0-alpha.2"
     },
     {
       "sourceId": "openai-codex-official-changelog",
@@ -33,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-01T23:25:25.956Z",
+      "detectedAt": "2026-10-02T02:20:16.283Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime voice experiences Produ..."
     },
     {
@@ -50,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-01T23:25:25.956Z",
+      "detectedAt": "2026-10-02T02:20:16.283Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -67,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-01T23:25:25.956Z",
+      "detectedAt": "2026-10-02T02:20:16.283Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -84,26 +84,43 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-01T23:25:25.956Z",
+      "detectedAt": "2026-10-02T02:20:16.283Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.64.0-nightly.20261002.gc9096a847",
+      "version": "v0.64.0-nightly.20261002.gc9096a847",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-nightly.20261002.gc9096a847",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.64.0-nightly.20261001.gc6bccb7ec",
+      "publishedAt": "2026-10-02T01:33:21Z",
+      "detectedAt": "2026-10-02T02:20:16.283Z",
+      "summaryText": "## What's Changed * fix(core): implement append-only delta patching and bounded history windowing in ChatRecordingService by @jvargassanchez-dot in https://github.com/google-gemini/gemini-cli/pull/29568 * fix(cli): persist state atomically and recover from backup on corruption by @urielefrenvirtusa in https://github.com/google-gemini/gemini-cli/pull/29558 * fix(cli): ensure Ctrl+C emergency abort reaches cancellation handler during active operations by @urielefrenvirtusa in https://github.com..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.24.7-nightly.20261001.a7deb01bcb",
+      "version": "v0.24.7-nightly.20261001.a7deb01bcb",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.24.7-nightly.20261001.a7deb01bcb",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.24.7-nightly.20260930.57e720bc97",
+      "publishedAt": "2026-10-01T22:01:32Z",
+      "detectedAt": "2026-10-02T02:20:16.283Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.24.7-nightly.20261001.a7deb01bcb --> ## What's Changed * fix(core): align Code Mode text with lazy tool discovery by @tanzhenxin in https://github.com/QwenLM/qwen-code/pull/12990 * fix(permissions): honor approved cross-directory tool calls by @tanzhenxin in https://github.com/QwenLM/qwen-code/pull/12987 * fix(cli): stop swallowing Enter while completion suggestions load (#13015) by @qwen-code-dev-bot in htt..."
     }
   ],
-  "errors": [
-    {
-      "source": "openai-codex-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/openai/codex/releases?per_page=1"
-    },
-    {
-      "source": "gemini-cli-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/google-gemini/gemini-cli/releases?per_page=1"
-    },
-    {
-      "source": "deepseek-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/deepseek-ai/DeepSeek-V3/releases?per_page=1"
-    },
-    {
-      "source": "qwen-code-github",
-      "message": "403 rate limit exceeded from https://api.github.com/repos/QwenLM/qwen-code/releases?per_page=1"
-    }
-  ]
+  "errors": []
 }
