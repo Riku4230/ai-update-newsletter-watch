@@ -1,40 +1,6 @@
 {
-  "checkedAt": "2026-10-05T23:15:52.843Z",
+  "checkedAt": "2026-10-06T02:59:41.221Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.160.1",
-      "version": "rust-v0.160.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.160.1",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.162.0-alpha.15",
-      "publishedAt": "2026-10-05T18:29:37Z",
-      "detectedAt": "2026-10-05T23:15:52.843Z",
-      "summaryText": "## Bug Fixes - Preserve `SYSTEMROOT`, `TEMP`, and `TMP` when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor's startup environment. ## Changelog - [#51121](https://github.com/openai/codex/pull/51121): Backport Windows remote MCP environment preservation to 0.160."
-    },
-    {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.160.1",
-      "version": "0.160.1",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.160.1",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "npm"
-      ],
-      "previousVersion": "0.160.0",
-      "publishedAt": "2026-10-05T18:33:51.980Z",
-      "detectedAt": "2026-10-05T23:15:52.843Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
-    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -50,8 +16,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-05T23:15:52.843Z",
+      "detectedAt": "2026-10-06T02:59:41.221Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime voice experiences Produ..."
+    },
+    {
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
+      "type": "webpage",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "version": null,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "docs"
+      ],
+      "previousVersion": null,
+      "publishedAt": null,
+      "detectedAt": "2026-10-06T02:59:41.221Z",
+      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Plugins Administration Configuration Reference Agent SDK Wha..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -67,8 +50,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-05T23:15:52.843Z",
+      "detectedAt": "2026-10-06T02:59:41.221Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.290",
+      "version": "2.1.290",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.290",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.289",
+      "publishedAt": "2026-10-05T18:12:44.907Z",
+      "detectedAt": "2026-10-06T02:59:41.221Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -84,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-05T23:15:52.843Z",
+      "detectedAt": "2026-10-06T02:59:41.221Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -101,8 +101,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-05T23:15:52.843Z",
+      "detectedAt": "2026-10-06T02:59:41.221Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.64.0-nightly.20261006.gfb972b2f8",
+      "version": "v0.64.0-nightly.20261006.gfb972b2f8",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-nightly.20261006.gfb972b2f8",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.64.0-nightly.20261005.gfb972b2f8",
+      "publishedAt": "2026-10-06T01:46:47Z",
+      "detectedAt": "2026-10-06T02:59:41.221Z",
+      "summaryText": "**Full Changelog**: https://github.com/google-gemini/gemini-cli/compare/v0.64.0-nightly.20261005.gfb972b2f8...v0.64.0-nightly.20261006.gfb972b2f8"
     }
   ],
   "errors": []
