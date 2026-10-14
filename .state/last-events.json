@@ -1,23 +1,39 @@
 {
-  "checkedAt": "2026-10-14T01:21:32.343Z",
+  "checkedAt": "2026-10-14T06:16:44.539Z",
   "events": [
     {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
+      "sourceId": "openai-codex-github",
+      "sourceName": "OpenAI Codex GitHub Releases",
+      "type": "github_releases",
+      "title": "openai/codex 0.163.0-alpha.11",
+      "version": "rust-v0.163.0-alpha.11",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.11",
       "tags": [
         "coding-agent",
-        "openai",
         "codex",
+        "github"
+      ],
+      "previousVersion": "rust-v0.163.0-alpha.9",
+      "publishedAt": "2026-10-14T03:27:29Z",
+      "detectedAt": "2026-10-14T06:16:44.539Z",
+      "summaryText": "Release 0.163.0-alpha.11"
+    },
+    {
+      "sourceId": "claude-code-changelog",
+      "sourceName": "Claude Code Changelog",
+      "type": "webpage",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "version": null,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "tags": [
+        "coding-agent",
+        "claude-code",
         "docs"
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-14T01:21:32.343Z",
-      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime voice experiences Produ..."
+      "detectedAt": "2026-10-14T06:16:44.539Z",
+      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Claude Code Plugins Administration Configuration Reference Agent SDK Wha..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -33,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-14T01:21:32.343Z",
+      "detectedAt": "2026-10-14T06:16:44.539Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
+    },
+    {
+      "sourceId": "claude-code-npm",
+      "sourceName": "Claude Code npm",
+      "type": "npm",
+      "title": "@anthropic-ai/claude-code 2.1.299",
+      "version": "2.1.299",
+      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.299",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "npm"
+      ],
+      "previousVersion": "2.1.296",
+      "publishedAt": "2026-10-14T00:23:19.588Z",
+      "detectedAt": "2026-10-14T06:16:44.539Z",
+      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -50,7 +83,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-14T01:21:32.343Z",
+      "detectedAt": "2026-10-14T06:16:44.539Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -67,8 +100,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-14T01:21:32.343Z",
+      "detectedAt": "2026-10-14T06:16:44.539Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.65.0-nightly.20261014.g42c518220",
+      "version": "v0.65.0-nightly.20261014.g42c518220",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-nightly.20261014.g42c518220",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.65.0-preview.0",
+      "publishedAt": "2026-10-14T01:29:12Z",
+      "detectedAt": "2026-10-14T06:16:44.539Z",
+      "summaryText": "## What's Changed * fix(cli): correct reverse search highlight index for expanding unicode characters by @diegogodinezr in https://github.com/google-gemini/gemini-cli/pull/29699 * fix(core): treat whitespace-only UTF-16 and UTF-32 files as empty by @jesussamuel-byte in https://github.com/google-gemini/gemini-cli/pull/29722 * fix(cli): restore debounced static UI refresh on terminal width changes by @jvargassanchez-dot in https://github.com/google-gemini/gemini-cli/pull/29644 * fix(cli): preve..."
     }
   ],
   "errors": []
