@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-13T22:38:08.742Z",
+  "checkedAt": "2026-10-14T01:21:32.343Z",
   "events": [
     {
       "sourceId": "openai-codex-official-changelog",
@@ -16,7 +16,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-13T22:38:08.742Z",
+      "detectedAt": "2026-10-14T01:21:32.343Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime voice experiences Produ..."
     },
     {
@@ -33,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-13T22:38:08.742Z",
+      "detectedAt": "2026-10-14T01:21:32.343Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -50,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-13T22:38:08.742Z",
+      "detectedAt": "2026-10-14T01:21:32.343Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -67,42 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-13T22:38:08.742Z",
+      "detectedAt": "2026-10-14T01:21:32.343Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.65.0-preview.0",
-      "version": "v0.65.0-preview.0",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-preview.0",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.65.0-nightly.20261013.g51617c1bc",
-      "publishedAt": "2026-10-13T20:27:55Z",
-      "detectedAt": "2026-10-13T22:38:08.742Z",
-      "summaryText": "## What's Changed * fix(cli): enforce read-only workspace settings in untrusted folders by @jvargassanchez-dot in https://github.com/google-gemini/gemini-cli/pull/29583 * fix(core): avoid duplicate tool response turns when resuming sessions by @diegogodinezr in https://github.com/google-gemini/gemini-cli/pull/29618 * fix(core): prevent deletion of resumed session history on quick exit (#29198) by @villahernandez-coder in https://github.com/google-gemini/gemini-cli/pull/29584 * Changelog for v..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.25.2-preview.0",
-      "version": "v0.25.2-preview.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.25.2-preview.0",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "v0.25.1-nightly.20261012.18f80f5666",
-      "publishedAt": "2026-10-13T20:01:50Z",
-      "detectedAt": "2026-10-13T22:38:08.742Z",
-      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.25.2-preview.0 --> ## What's Changed * fix(managed-agent): connector and broker robustness from the #12692 R2 review by @wenshao in https://github.com/QwenLM/qwen-code/pull/13330 * feat(managed-agent): H4e-b2 the lead's mailbox over Session messages by @wenshao in https://github.com/QwenLM/qwen-code/pull/13892 * fix(managed-agent): settle worktree child runs after their merge (#13753 I2 follow-up) by @wensha..."
     }
   ],
   "errors": []
