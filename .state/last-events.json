@@ -1,24 +1,6 @@
 {
-  "checkedAt": "2026-10-17T09:13:18.462Z",
+  "checkedAt": "2026-10-17T12:58:24.653Z",
   "events": [
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-10-17T09:13:18.462Z",
-      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime voice experiences Produ..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -33,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-17T09:13:18.462Z",
+      "detectedAt": "2026-10-17T12:58:24.653Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -50,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-17T09:13:18.462Z",
+      "detectedAt": "2026-10-17T12:58:24.653Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -67,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-17T09:13:18.462Z",
+      "detectedAt": "2026-10-17T12:58:24.653Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "deepseek-api-changelog",
-      "sourceName": "DeepSeek API Changelog",
-      "type": "webpage",
-      "title": "Change Log | DeepSeek API Docs",
-      "version": null,
-      "url": "https://api-docs.deepseek.com/updates/",
-      "tags": [
-        "deepseek",
-        "api",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-10-17T09:13:18.462Z",
-      "summaryText": "Change Log | DeepSeek API Docs Skip to main content Search / Fetch API is now available, powered by our in-house search engine and supporting web search and fetch. Click here to view the guide. DeepSeek API Docs Resources Integrations API Status FAQ English English 中文（中国） DeepSeek Platform 中 Quick Start API Guides API Reference News Change Log Change Log Change Log On this page Change Log Date: 2026-10-17 ​ Opening up the in-house search API ​ DeepSeek&#x27;s web and API search capabilities a..."
     }
   ],
   "errors": []
