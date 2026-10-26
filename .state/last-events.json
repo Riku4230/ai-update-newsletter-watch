@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25T23:17:13.833Z",
+  "checkedAt": "2026-10-26T01:13:51.492Z",
   "events": [
     {
       "sourceId": "claude-code-release-notes",
@@ -15,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-25T23:17:13.833Z",
+      "detectedAt": "2026-10-26T01:13:51.492Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub A..."
     },
     {
@@ -32,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-25T23:17:13.833Z",
+      "detectedAt": "2026-10-26T01:13:51.492Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -49,8 +49,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-25T23:17:13.833Z",
+      "detectedAt": "2026-10-26T01:13:51.492Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.26.1-nightly.20261025.8e28d5380c",
+      "version": "v0.26.1-nightly.20261025.8e28d5380c",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.1-nightly.20261025.8e28d5380c",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.26.1",
+      "publishedAt": "2026-10-25T23:20:17Z",
+      "detectedAt": "2026-10-26T01:13:51.492Z",
+      "summaryText": "<!-- Release notes generated using configuration in .github/release.yml at release/v0.26.1-nightly.20261025.8e28d5380c --> ## What's Changed * feat(managed): add session permission rules and Auto approval by @doudouOUC in https://github.com/QwenLM/qwen-code/pull/15448 * fix(cli): harden serve token resolution against project env injection by @yiliang114 in https://github.com/QwenLM/qwen-code/pull/15228 * feat(core): add an experimental shared agent loop and run headless on it by @qqqys in htt..."
     }
   ],
   "errors": []
