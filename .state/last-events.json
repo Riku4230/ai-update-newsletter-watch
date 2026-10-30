@@ -1,40 +1,6 @@
 {
-  "checkedAt": "2026-10-29T20:34:03.500Z",
+  "checkedAt": "2026-10-30T00:13:46.482Z",
   "events": [
-    {
-      "sourceId": "openai-codex-github",
-      "sourceName": "OpenAI Codex GitHub Releases",
-      "type": "github_releases",
-      "title": "openai/codex 0.166.0",
-      "version": "rust-v0.166.0",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "github"
-      ],
-      "previousVersion": "rust-v0.166.0-alpha.6",
-      "publishedAt": "2026-10-29T19:47:53Z",
-      "detectedAt": "2026-10-29T20:34:03.500Z",
-      "summaryText": "## New Features - Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. (#57221, #57222, #57223, #57224) - Rendered Markdown consistently in async questions, choices, answers, and transcript replies. (#57259, #57292) - Added GPT-6.1 Terra to the bundled, Vertex AI, and Amazon Bedrock model catalogs. (#57293) - Added `codex queue --resume` to resume unloaded threads after queueing a message. (#57232) - Added clearer safety-..."
-    },
-    {
-      "sourceId": "openai-codex-npm",
-      "sourceName": "OpenAI Codex npm",
-      "type": "npm",
-      "title": "@openai/codex 0.166.0",
-      "version": "0.166.0",
-      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.166.0",
-      "tags": [
-        "coding-agent",
-        "codex",
-        "npm"
-      ],
-      "previousVersion": "0.165.0",
-      "publishedAt": "2026-10-29T19:56:19.746Z",
-      "detectedAt": "2026-10-29T20:34:03.500Z",
-      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
-    },
     {
       "sourceId": "openai-codex-official-changelog",
       "sourceName": "OpenAI Codex Official Changelog",
@@ -50,7 +16,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-29T20:34:03.500Z",
+      "detectedAt": "2026-10-30T00:13:46.482Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime voice experiences Produ..."
     },
     {
@@ -67,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-29T20:34:03.500Z",
+      "detectedAt": "2026-10-30T00:13:46.482Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Assistant Responses are generated using AI and may contain mistakes. Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Cla..."
     },
     {
@@ -84,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-29T20:34:03.500Z",
+      "detectedAt": "2026-10-30T00:13:46.482Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects and automated work Build &amp; Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak preve..."
     },
     {
@@ -101,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-29T20:34:03.500Z",
+      "detectedAt": "2026-10-30T00:13:46.482Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -118,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-10-29T20:34:03.500Z",
+      "detectedAt": "2026-10-30T00:13:46.482Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
     }
   ],
