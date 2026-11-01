@@ -1,24 +1,6 @@
 {
-  "checkedAt": "2026-11-01T09:37:55.614Z",
+  "checkedAt": "2026-11-01T16:17:49.042Z",
   "events": [
-    {
-      "sourceId": "openai-codex-official-changelog",
-      "sourceName": "OpenAI Codex Official Changelog",
-      "type": "webpage",
-      "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
-      "version": null,
-      "url": "https://developers.openai.com/codex/changelog/",
-      "tags": [
-        "coding-agent",
-        "openai",
-        "codex",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-11-01T09:37:55.614Z",
-      "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime voice experiences Produ..."
-    },
     {
       "sourceId": "claude-code-release-notes",
       "sourceName": "Claude Code Release Notes",
@@ -33,7 +15,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-01T09:37:55.614Z",
+      "detectedAt": "2026-11-01T16:17:49.042Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects and automated work Build &amp; Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak preve..."
     },
     {
@@ -50,7 +32,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-01T09:37:55.614Z",
+      "detectedAt": "2026-11-01T16:17:49.042Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -67,25 +49,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-01T09:37:55.614Z",
+      "detectedAt": "2026-11-01T16:17:49.042Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "qwen-code-github",
-      "sourceName": "Qwen Code GitHub Releases",
-      "type": "github_releases",
-      "title": "QwenLM/qwen-code Release v0.26.5",
-      "version": "v0.26.5",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.5",
-      "tags": [
-        "coding-agent",
-        "qwen",
-        "github"
-      ],
-      "previousVersion": "cua-driver-rs-v0.27.0",
-      "publishedAt": "2026-11-01T03:22:50Z",
-      "detectedAt": "2026-11-01T09:37:55.614Z",
-      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights _See the complete change list below._ ## Breaking Changes No known breaking changes. ## Complete Change List ### Features - Adds bounded SQL history queries for Managed local H2 and Hosted MySQL, enabling paged recent messages, journal transactions, and exact operation or command lookups. ([#15839](https://github.com/QwenLM/qwen-code/pull/15839)) by @doudouOUC - Enables Generated UI by default and lets users continue chatting with interactive card ..."
     }
   ],
   "errors": []
