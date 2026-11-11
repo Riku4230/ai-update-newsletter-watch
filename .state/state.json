@@ -1,58 +1,58 @@
 {
   "openai-codex-github": {
-    "fingerprint": "441524093",
-    "title": "openai/codex 0.169.0-alpha.11",
-    "version": "rust-v0.169.0-alpha.11",
-    "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11",
-    "publishedAt": "2026-11-11T10:11:06Z",
-    "summaryText": "Release 0.169.0-alpha.11",
+    "fingerprint": "442267349",
+    "title": "openai/codex 0.167.2",
+    "version": "rust-v0.167.2",
+    "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.2",
+    "publishedAt": "2026-11-11T22:44:46Z",
+    "summaryText": "## New Features - Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set `incremental_tools_legacy_gcp = false` under `[features]` in `config.toml`. ([#60617](https://github.com/openai/codex/pull/60617), [#60848](https://github.com/openai/codex/pull/60848)) ## Changelog Full Changelog: https://github.com/openai/codex/compare/rust-v0.167.1...rust-v0.167.2",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-11T17:17:46.787Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "openai-codex-npm": {
-    "fingerprint": "0.167.1",
-    "title": "@openai/codex 0.167.1",
-    "version": "0.167.1",
-    "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.167.1",
-    "publishedAt": "2026-11-10T21:39:51.990Z",
+    "fingerprint": "0.167.2",
+    "title": "@openai/codex 0.167.2",
+    "version": "0.167.2",
+    "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.167.2",
+    "publishedAt": "2026-11-11T22:50:04.191Z",
     "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-10T22:31:34.820Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "openai-codex-official-changelog": {
-    "fingerprint": "4282592e13bd938958b6bfd45944a126a5d39cc1875f28a419a6f51a6bdc2ceb",
+    "fingerprint": "a68be7d1aca3f87e8fc2f114c7af36b91255ac15fff60643bffe390adbcb3e4a",
     "title": "ChatGPT &amp; Codex changelog | ChatGPT Learn",
     "version": null,
     "url": "https://developers.openai.com/codex/changelog/",
     "publishedAt": null,
     "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-11T17:17:46.787Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "claude-code-changelog": {
-    "fingerprint": "709bd2da4f50c003c316f58fb8dd0d423f1adccf78a3b6173fc7b271b3e923d9",
+    "fingerprint": "482ab9c552c4e0de2eda31f9b547fbad9e09b26f4205e3b3b7b1a1b80599f004",
     "title": "Claude Code changelog - Claude Code Docs",
     "version": null,
     "url": "https://code.claude.com/docs/en/changelog",
     "publishedAt": null,
     "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Assistant Responses are generated using AI and may contain mistakes. Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Cla...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-11T17:17:46.787Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "claude-code-release-notes": {
-    "fingerprint": "69d9ea3fee6f54ef7fbc7d704f092fc25ee3123ab7ceaaa0940e4305f6299280",
+    "fingerprint": "79f052006dc629070c8aece505bf6d9dd2b5baec6b0b5b7e38648fbac1adb2c5",
     "title": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub",
     "version": null,
     "url": "https://docs.anthropic.com/en/release-notes/claude-code",
     "publishedAt": null,
     "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build &amp; Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prev...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-11T17:17:46.787Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "claude-code-npm": {
     "fingerprint": "2.1.322",
@@ -63,40 +63,40 @@
     "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-11-10T10:05:45.421Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "gemini-api-changelog": {
-    "fingerprint": "d827fc2ea57eadee1e8be947630acb0ac5ef18c3f78f63708389a1394559c59d",
+    "fingerprint": "74c8ef4a9b677696eefd5488e7009c4828e77145ff5899d1039a3156b21a92ec",
     "title": "Release notes - Gemini API | Google AI Studio",
     "version": null,
     "url": "https://ai.google.dev/gemini-api/docs/changelog",
     "publishedAt": null,
-    "summaryText": "Release notes - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all available pages. &gt; For the full documentation in a single file, fetch: https://aistudio.google.com/llms-full.txt # Release notes This page documents updates to the Gemini API. ## November 10, 2026 {% id=&quot;11-10-2026&quot; %} * **Gemini 4 Carbon (`gemini-4-carbon`) generally available (GA)**: Released...",
+    "summaryText": "Release notes - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all available pages. &gt; For the full documentation in a single file, fetch: https://aistudio.google.com/llms-full.txt # Release notes This page documents updates to the Gemini API. ## November 11, 2026 {% id=&quot;11-11-2026&quot; %} * **Gemini Decision and the Decisions API**: Released [Gemini Decision](/doc...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-11T17:17:46.787Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "vertex-ai-generative-release-notes": {
-    "fingerprint": "763a9b36f09ee5d2b7ce8831d79a1597fb1458e4b005f065ca4648be358c0c51",
+    "fingerprint": "b877bde121eef82dc247f7b40280520029857648a41d3363d1243d46d443c881",
     "title": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation",
     "version": null,
     "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
     "publishedAt": null,
     "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-11T17:17:46.787Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "gemini-code-assist-release-notes": {
-    "fingerprint": "4132106d6137109f5241f12db5f46f0d3f4c3faa763fbe6c91d9d8560d2c68e3",
+    "fingerprint": "23059c1ac78e09b6ddd905331ff9bc74e4512daf7423062115db970f9d13058c",
     "title": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation",
     "version": null,
     "url": "https://developers.google.com/gemini-code-assist/resources/release-notes",
     "publishedAt": null,
     "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastChangedAt": "2026-11-11T17:17:46.787Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastChangedAt": "2026-11-11T23:28:48.783Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "gemini-cli-github": {
     "fingerprint": "440910717",
@@ -107,7 +107,7 @@
     "summaryText": "## What's Changed * fix(core,cli): preserve literal `$` characters during template placeholder replacement by @jesussamuel-byte in https://github.com/google-gemini/gemini-cli/pull/30136 * feat(cli): add /stats heatmap subcommand for daily token usage by @jvargassanchez-dot in https://github.com/google-gemini/gemini-cli/pull/30135 * fix(core): prevent __GCLI_EXPAND_TARGET__ env collision in expandEnvVars by @villahernandez-coder in https://github.com/google-gemini/gemini-cli/pull/30138 * chore...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-11-10T22:31:34.820Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "deepseek-api-changelog": {
     "fingerprint": "e71591eb9ee91b00b8e92fcb97c55ff59514d21947562eca7384206cf6dac55d",
@@ -118,7 +118,7 @@
     "summaryText": "Change Log | DeepSeek API Docs Skip to main content Search / Fetch API is now available, powered by our in-house search engine and supporting web search and fetch. Click here to view the guide DeepSeek API Docs Resources Integrations API Status FAQ English English 中文（中国） DeepSeek Platform 中 Quick Start API Guides API Reference News Change Log Change Log Change Log On this page Copy Markdown Copy Markdown Open Markdown Change Log Date: 2026-10-17 ​ Opening up the in-house search API ​ DeepSeek...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-11-05T16:45:30.237Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "deepseek-github": {
     "fingerprint": "228293516",
@@ -128,7 +128,7 @@
     "publishedAt": "2025-06-27T08:46:37Z",
     "summaryText": "This release is created for archival purposes and DOI generation.",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z",
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z",
     "lastError": "403 rate limit exceeded from https://api.github.com/repos/deepseek-ai/DeepSeek-V3/releases?per_page=1"
   },
   "qwen-blog": {
@@ -139,7 +139,7 @@
     "publishedAt": null,
     "summaryText": "Blog | Qwen We have a new blog at qwen.ai ! This page will automatically redirect in 5 seconds. If you are not redirected automatically, please click the button below. Go Now Blog Publication About Try Qwen Chat &nbsp; Blog &nbsp;&nbsp;[ 简体中文 ] Qwen3Guard: Real-time Safety for Your Token Stream Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation mod...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   },
   "qwen-code-github": {
     "fingerprint": "441203536",
@@ -150,6 +150,6 @@
     "summaryText": "Qwen Code 1.0 Preview is now available. Some interfaces, configuration options, and behaviors may change during Preview. ## Highlights - Brings together the agent capabilities of Qoder and Qwen Code for code understanding, implementation, debugging, and testing. - Supports Qwen and Qoder accounts, multiple model providers, and custom compatible endpoints. - Provides native packages for macOS, Linux, and Windows without requiring a separate Node.js installation. - Supports session resumption a...",
     "firstSeenAt": "2026-04-27T01:57:38.209Z",
     "lastChangedAt": "2026-11-11T09:25:43.623Z",
-    "lastCheckedAt": "2026-11-11T17:17:46.787Z"
+    "lastCheckedAt": "2026-11-11T23:28:48.783Z"
   }
 }
