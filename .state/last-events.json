@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-11-17T09:03:08.677Z",
+  "checkedAt": "2026-11-17T18:26:27.717Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.171.0-alpha.11",
-      "version": "rust-v0.171.0-alpha.11",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.11",
+      "title": "openai/codex 0.171.0-alpha.12",
+      "version": "rust-v0.171.0-alpha.12",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.12",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.171.0-alpha.9",
-      "publishedAt": "2026-11-17T04:24:57Z",
-      "detectedAt": "2026-11-17T09:03:08.677Z",
-      "summaryText": "Release 0.171.0-alpha.11"
+      "previousVersion": "rust-v0.171.0-alpha.11",
+      "publishedAt": "2026-11-17T14:26:49Z",
+      "detectedAt": "2026-11-17T18:26:27.717Z",
+      "summaryText": "Release 0.171.0-alpha.12"
     },
     {
       "sourceId": "openai-codex-official-changelog",
@@ -33,7 +33,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-17T09:03:08.677Z",
+      "detectedAt": "2026-11-17T18:26:27.717Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime..."
     },
     {
@@ -50,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-17T09:03:08.677Z",
+      "detectedAt": "2026-11-17T18:26:27.717Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Assistant Responses are generated using AI and may contain mistakes. Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Cla..."
     },
     {
@@ -67,25 +67,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-17T09:03:08.677Z",
+      "detectedAt": "2026-11-17T18:26:27.717Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build &amp; Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prev..."
-    },
-    {
-      "sourceId": "gemini-api-changelog",
-      "sourceName": "Gemini API Changelog",
-      "type": "webpage",
-      "title": "Release notes - Gemini API | Google AI Studio",
-      "version": null,
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "tags": [
-        "google",
-        "gemini",
-        "api"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-11-17T09:03:08.677Z",
-      "summaryText": "Release notes - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; - Full documentation index: https://aistudio.google.com/llms.txt &gt; - Gemini Docs MCP server (consistent live info): https://gemini-api-docs-mcp.dev &gt; - Coding agent skills &amp; setup guide: https://aistudio.google.com/docs/coding-agents.md # Release notes This page documents updates to the Gemini API. ## November 12, 2026 {% id=&quot;11-12-2026&quot; %} * **Gemini 4 Hydrogen (`gemini-4-hydrogen`) generally avai..."
     },
     {
       "sourceId": "vertex-ai-generative-release-notes",
@@ -101,7 +84,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-17T09:03:08.677Z",
+      "detectedAt": "2026-11-17T18:26:27.717Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -118,9 +101,31 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-17T09:03:08.677Z",
+      "detectedAt": "2026-11-17T18:26:27.717Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "qwen-code-github",
+      "sourceName": "Qwen Code GitHub Releases",
+      "type": "github_releases",
+      "title": "QwenLM/qwen-code Release v0.28.0",
+      "version": "v0.28.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.0",
+      "tags": [
+        "coding-agent",
+        "qwen",
+        "github"
+      ],
+      "previousVersion": "v0.27.4-nightly.20261116.eb3a599ef3",
+      "publishedAt": "2026-11-17T11:17:50Z",
+      "detectedAt": "2026-11-17T18:26:27.717Z",
+      "summaryText": "<!-- qwen-release-notes:v1 --> ## Highlights _See the complete change list below._ ## Breaking Changes No known breaking changes. ## Complete Change List ### Features - feat(web-shell): add sidebar workspace filter ([#17244](https://github.com/QwenLM/qwen-code/pull/17244)) by @callmeYe - feat(managed-agent): add the DingTalk adapter on the managed channel path ([#17136](https://github.com/QwenLM/qwen-code/pull/17136)) by @wenshao - feat(acp): route live and read-only Agent Host sessions throu..."
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "gemini-api-changelog",
+      "message": "fetch failed"
+    }
+  ]
 }
