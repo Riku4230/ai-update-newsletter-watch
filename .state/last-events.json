@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-19T04:18:16.865Z",
+  "checkedAt": "2026-11-19T13:19:52.038Z",
   "events": [
     {
       "sourceId": "openai-codex-official-changelog",
@@ -16,25 +16,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-19T04:18:16.865Z",
+      "detectedAt": "2026-11-19T13:19:52.038Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime..."
-    },
-    {
-      "sourceId": "claude-code-changelog",
-      "sourceName": "Claude Code Changelog",
-      "type": "webpage",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "version": null,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "docs"
-      ],
-      "previousVersion": null,
-      "publishedAt": null,
-      "detectedAt": "2026-11-19T04:18:16.865Z",
-      "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Assistant Responses are generated using AI and may contain mistakes. Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Cla..."
     },
     {
       "sourceId": "claude-code-release-notes",
@@ -50,25 +33,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-19T04:18:16.865Z",
+      "detectedAt": "2026-11-19T13:19:52.038Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build &amp; Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prev..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.328",
-      "version": "2.1.328",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.328",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.327",
-      "publishedAt": "2026-11-18T23:09:39.159Z",
-      "detectedAt": "2026-11-19T04:18:16.865Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "gemini-api-changelog",
@@ -84,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-19T04:18:16.865Z",
+      "detectedAt": "2026-11-19T13:19:52.038Z",
       "summaryText": "Release notes - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; - Full documentation index: https://aistudio.google.com/llms.txt &gt; - Gemini Docs MCP server (consistent live info): https://gemini-api-docs-mcp.dev &gt; - Coding agent skills &amp; setup guide: https://aistudio.google.com/docs/coding-agents.md # Release notes This page documents updates to the Gemini API. ## November 18, 2026 {% id=&quot;11-18-2026&quot; %} * **Gemini 4 Neon (`gemini-4-neon`) generally available (G..."
     },
     {
@@ -101,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-19T04:18:16.865Z",
+      "detectedAt": "2026-11-19T13:19:52.038Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -118,25 +84,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-19T04:18:16.865Z",
+      "detectedAt": "2026-11-19T13:19:52.038Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
-    },
-    {
-      "sourceId": "gemini-cli-github",
-      "sourceName": "Gemini CLI GitHub Releases",
-      "type": "github_releases",
-      "title": "google-gemini/gemini-cli Release v0.70.0-preview.0",
-      "version": "v0.70.0-preview.0",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0-preview.0",
-      "tags": [
-        "coding-agent",
-        "google",
-        "github"
-      ],
-      "previousVersion": "v0.69.0-preview.0",
-      "publishedAt": "2026-11-19T00:09:03Z",
-      "detectedAt": "2026-11-19T04:18:16.865Z",
-      "summaryText": "## What's Changed * Changelog for v0.69.0-preview.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/30222 * Changelog for v0.68.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/30224 * chore(release): bump version to 0.70.0-nightly.20261110.g1603e9bab by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/30223 * test(cli): remove redundant lowercase restart test in AdminSettingsChangedDialog by @luisfelipe-alt in https://gi..."
     }
   ],
   "errors": []
