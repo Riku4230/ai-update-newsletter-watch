@@ -1,22 +1,39 @@
 {
-  "checkedAt": "2026-11-23T21:42:37.076Z",
+  "checkedAt": "2026-11-24T05:31:50.365Z",
   "events": [
     {
       "sourceId": "openai-codex-github",
       "sourceName": "OpenAI Codex GitHub Releases",
       "type": "github_releases",
-      "title": "openai/codex 0.172.0-alpha.2.1",
-      "version": "rust-v0.172.0-alpha.2.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2.1",
+      "title": "openai/codex 0.174.0-alpha.1",
+      "version": "rust-v0.174.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.1",
       "tags": [
         "coding-agent",
         "codex",
         "github"
       ],
-      "previousVersion": "rust-v0.173.0-alpha.4",
-      "publishedAt": "2026-11-23T18:02:51Z",
-      "detectedAt": "2026-11-23T21:42:37.076Z",
-      "summaryText": "Release 0.172.0-alpha.2.1"
+      "previousVersion": "rust-v0.172.0-alpha.2.1",
+      "publishedAt": "2026-11-24T01:46:17Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
+      "summaryText": "Release 0.174.0-alpha.1"
+    },
+    {
+      "sourceId": "openai-codex-npm",
+      "sourceName": "OpenAI Codex npm",
+      "type": "npm",
+      "title": "@openai/codex 0.172.0",
+      "version": "0.172.0",
+      "url": "https://www.npmjs.com/package/@openai%2fcodex/v/0.172.0",
+      "tags": [
+        "coding-agent",
+        "codex",
+        "npm"
+      ],
+      "previousVersion": "0.171.0",
+      "publishedAt": "2026-11-24T00:09:39.503Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
+      "summaryText": "Codex CLI is a coding agent from OpenAI that runs locally on your computer."
     },
     {
       "sourceId": "openai-codex-official-changelog",
@@ -33,7 +50,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-23T21:42:37.076Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
       "summaryText": "ChatGPT &amp; Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio &amp; voice Build speech and realtime..."
     },
     {
@@ -50,7 +67,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-23T21:42:37.076Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
       "summaryText": "Claude Code changelog - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Assistant Responses are generated using AI and may contain mistakes. Claude Code Docs home page English Search... ⌘ K Ask Assistant ⌘ I Claude Developer Platform Open Claude Code Open Claude Code Search... Navigation Getting started Claude Code changelog Getting started Build with Cla..."
     },
     {
@@ -67,25 +84,8 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-23T21:42:37.076Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
       "summaryText": "claude-code/CHANGELOG.md at main · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build &amp; Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prev..."
-    },
-    {
-      "sourceId": "claude-code-npm",
-      "sourceName": "Claude Code npm",
-      "type": "npm",
-      "title": "@anthropic-ai/claude-code 2.1.331",
-      "version": "2.1.331",
-      "url": "https://www.npmjs.com/package/@anthropic-ai%2fclaude-code/v/2.1.331",
-      "tags": [
-        "coding-agent",
-        "claude-code",
-        "npm"
-      ],
-      "previousVersion": "2.1.330",
-      "publishedAt": "2026-11-23T18:36:26.468Z",
-      "detectedAt": "2026-11-23T21:42:37.076Z",
-      "summaryText": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
     },
     {
       "sourceId": "gemini-api-changelog",
@@ -101,7 +101,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-23T21:42:37.076Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
       "summaryText": "Release notes - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; - Full documentation index: https://aistudio.google.com/llms.txt &gt; - Gemini Docs MCP server (consistent live info): https://gemini-api-docs-mcp.dev &gt; - Coding agent skills &amp; setup guide: https://aistudio.google.com/docs/coding-agents.md # Release notes This page documents updates to the Gemini API. ## November 19, 2026 {% id=&quot;11-19-2026&quot; %} * **Genie 4 (`genie-4`) generally available (GA)**: Releas..."
     },
     {
@@ -118,7 +118,7 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-23T21:42:37.076Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
       "summaryText": "Vertex AI release notes &nbsp;|&nbsp; Generative AI on Vertex AI &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as code ..."
     },
     {
@@ -135,8 +135,25 @@
       ],
       "previousVersion": null,
       "publishedAt": null,
-      "detectedAt": "2026-11-23T21:42:37.076Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
       "summaryText": "Gemini Code Assist release notes &nbsp;|&nbsp; Gemini for Google Cloud &nbsp;|&nbsp; Google Cloud Documentation Skip to main content Documentation close Get Started Get Started with Google Cloud Product List Cloud Customer Care Featured Products Agent Platform Apigee API Management BigQuery Compute Engine Cloud CDN Cloud Run Cloud Storage Cloud SQL Gemini Enterprise Google Kubernetes Engine Looker Cross-product Tools Access and resources management Costs and usage management Infrastructure as..."
+    },
+    {
+      "sourceId": "gemini-cli-github",
+      "sourceName": "Gemini CLI GitHub Releases",
+      "type": "github_releases",
+      "title": "google-gemini/gemini-cli Release v0.72.0-preview.0",
+      "version": "v0.72.0-preview.0",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.72.0-preview.0",
+      "tags": [
+        "coding-agent",
+        "google",
+        "github"
+      ],
+      "previousVersion": "v0.71.0-nightly.20261123.geecccfcd5",
+      "publishedAt": "2026-11-24T00:34:15Z",
+      "detectedAt": "2026-11-24T05:31:50.365Z",
+      "summaryText": "## What's Changed * Changelog for v0.70.0 by @gemini-cli-robot in https://github.com/google-gemini/gemini-cli/pull/30380 * fix(core): handle nested .gitignore negations under dir/** patterns by @urielefrenvirtusa in https://github.com/google-gemini/gemini-cli/pull/30370 * fix(cli): expand Windows home-relative paths using tilde and backslash by @urielefrenvirtusa in https://github.com/google-gemini/gemini-cli/pull/30376 * fix(cli): resume most recently active session instead of most recently ..."
     }
   ],
   "errors": []
